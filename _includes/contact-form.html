@@ -1,0 +1,37 @@
+<form id="contact-form" action="http://formspree.io/georg@get83.de" method="post">
+  <h2>Schreib mir</h2>
+
+  <ul class="form">
+    <li class="row collapse">
+      <div class="small-3 large-2 columns">
+        <label for="contact-reason" class="prefix">Kontaktgrund</label>
+      </div>
+      <div class="small-9 large-10 columns">
+        <select name="reason" id="contact-reason">
+          <option>Privatstunden</option>
+          <option>Ich möchte einen Kurs</option>
+          <option>Ich brauche einen Workshoptrainer</option>
+          <option>Einfach mal chatten</option>
+        </select>
+      </div>
+    </li>
+
+    <li class="row collapse">
+      <div class="small-3 large-2 columns">
+        <label for="e-mail" class="prefix">E-Mail</label>
+      </div>
+      <div class="small-9 large-10 columns">
+        <input name="_replyto" type="text" id="e-mail" placeholder="Deine E-Mail Adresse">
+      </div>
+    </li>
+
+    <li>
+      <label>Kommentar</label>
+      <textarea name="message" placeholder="Wann kannst du?" rows="6"></textarea>
+    </li>
+
+    <li>
+      <button type="submit" value="Send">Abschicken</button>
+    </li>
+  </ul>
+</form>

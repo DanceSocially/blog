@@ -1,0 +1,243 @@
+/**
+ * Site footer
+ */
+.site-footer {
+  border-top: 1px solid $grey-color-light;
+  padding: $spacing-unit 0;
+}
+
+.footer-heading {
+  font-size: 18px;
+  margin-bottom: $spacing-unit / 2;
+}
+
+.contact-list,
+.social-media-list {
+  list-style: none;
+  margin-left: 0;
+}
+
+.footer-col-wrapper {
+  font-size: 15px;
+  color: $grey-color;
+  margin-left: -$spacing-unit / 2;
+  @extend %clearfix;
+}
+
+.footer-col {
+    float: left;
+    margin-bottom: $spacing-unit / 2;
+    padding-left: $spacing-unit / 2;
+}
+
+.footer-col-1 {
+    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
+    width:         calc(20% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-2 {
+    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
+    width:         calc(35% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-3 {
+    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
+    width:         calc(45% - (#{$spacing-unit} / 2));
+}
+
+@include media-query($on-laptop) {
+    .footer-col-1,
+    .footer-col-2 {
+        width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+        width:         calc(50% - (#{$spacing-unit} / 2));
+    }
+
+    .footer-col-3 {
+        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+        width:         calc(100% - (#{$spacing-unit} / 2));
+    }
+}
+
+@include media-query($on-palm) {
+    .footer-col {
+        float: none;
+        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+        width:         calc(100% - (#{$spacing-unit} / 2));
+    }
+}
+
+
+
+/**
+ * Page content
+ */
+.page-content {
+    padding: $spacing-unit 0;
+}
+
+.page-heading {
+    font-size: 20px;
+}
+
+.post-list {
+    margin-left: 0;
+    list-style: none;
+
+    > li {
+        margin-bottom: $spacing-unit;
+    }
+}
+
+.post-meta {
+    font-size: $small-font-size;
+    color: $grey-color;
+}
+
+.post-link {
+    display: block;
+    font-size: 24px;
+}
+
+
+
+/**
+ * Posts
+ */
+.post-header {
+    margin-bottom: $spacing-unit;
+}
+
+.post-title {
+    font-size: 42px;
+    letter-spacing: -1px;
+    line-height: 1;
+    margin: 1px 0 -1px;
+
+    @include media-query($on-laptop) {
+        font-size: 36px;
+    }
+}
+
+.post-content {
+    margin-bottom: $spacing-unit;
+
+    h2 {
+        font-size: 32px;
+        line-height: 1.5rem;
+        margin: -6px 0 1.75rem;
+
+        @include media-query($on-laptop) {
+            font-size: 28px;
+        }
+
+    }
+
+    p + h2,
+    form > h2:first-child {
+      padding-top: 1.55rem;
+    }
+
+    h3 {
+        font-size: 26px;
+
+        @include media-query($on-laptop) {
+            font-size: 22px;
+        }
+    }
+
+    h4 {
+        font-size: 20px;
+
+        @include media-query($on-laptop) {
+            font-size: 18px;
+        }
+    }
+}
+
+.side-content {
+  margin-bottom: $spacing-unit;
+}
+
+$event-border-width: 5px;
+.event-date {
+  border: 1px solid $grey-color-light;
+  border-top: $event-border-width solid $brand-color;
+  display: inline-block;
+  line-height: 1.5;
+  padding: 4px 0;
+  width: 45px;
+  text-align: center;
+  text-transform: uppercase;
+  vertical-align: top;
+  font-size: 0.85em;
+  margin-right: 8px;
+  margin-top: -6px;
+  float: left;
+
+  em {
+    display: block;
+    font-weight: 600;
+    font-style: normal;
+  }
+}
+
+.event-list {
+  list-style-type: none;
+  margin-left: 0;
+}
+
+.event-list-item {
+  padding: 8px;
+
+  > a {
+    display: block;
+    font-size: 0.8em;
+  }
+  > strong {
+    line-height: 1;
+    margin-top: $event-border-width;
+  }
+  > .teaching {
+    font-style: italic;
+  }
+
+  > .description {
+    color: $grey-color;
+    font-size: 0.8em;
+    margin-bottom: 0.25em;
+    margin-left: 53px;
+  }
+}
+
+.event-list-item-small {
+  .event-date {
+    clear: both;
+    font-size: 0.8em;
+    margin-top: -7px;
+    padding: 2px 0;
+    width: 34px;
+  }
+
+  > a {
+    color: $text-color;
+    line-height: 1.55;
+
+    &:hover {
+      color: $brand-color;
+    }
+  }
+}
+
+.side-headline {
+  transform: rotate(90deg);
+}
+body {
+  transform-origin: 300;
+}
+
+.video-stream {
+  float: right;
+  width: 400px;
+  height: 300px;
+  margin: 0 0 10px 10px;
+}

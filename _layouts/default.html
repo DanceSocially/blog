@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <body>
+    <div class="off-canvas-wrap" data-offcanvas>
+
+      <div class="inner-wrap">
+
+        {% include header.html %}
+        <div style="display:none">
+          {% include off-canvas-menu.html %}
+        </div>
+
+        <div class="page-content">
+          <div class="wrapper">
+            {{ content }}
+          </div>
+        </div>
+
+        {% include footer.html %}
+
+        <a class="exit-off-canvas"></a>
+      </div>
+    </div>
+  </body>
+</html>

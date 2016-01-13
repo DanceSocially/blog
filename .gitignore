@@ -1,0 +1,6 @@
+bower_components/
+_site
+.DS_Store
+.sass-cache
+.jekyll-metadata
+upload.sh

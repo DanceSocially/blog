@@ -1,0 +1,23 @@
+<aside class="left-off-canvas-menu">
+  <ul class="off-canvas-list">
+
+    <li>
+      <label>
+        <img class="ds-logo" src="/img/ds-logo.png">
+        Dance Socially - Gesellschaftstanz
+      </label>
+    </li>
+    {% for my_page in site.pages %}
+      {% if my_page.title %}
+        <li>
+          <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+    <!--li class="active"><a href="#">West Coast Swing</a></li>
+    <li><a href="#">About me</a></li>
+    <li><a href="#">Events &amp; Workshops</a></li>
+    <li><a href="#">West Coast Swing in Hamburg</a></li>
+    <li><a href="#">Unterricht</a></li-->
+  </ul>
+</aside>

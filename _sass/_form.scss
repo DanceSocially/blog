@@ -1,0 +1,84 @@
+$form-label-font-size: rem-calc($base-font-size *0.8);
+$input-font-size: rem-calc($base-font-size *0.8);
+$form-label-line-height: 1.4;
+
+// Foundation uses these to build padding for buttons.
+$button-tny: rem-calc(7) !default;
+$button-sml: rem-calc(9) !default;
+$button-med: rem-calc(11) !default;
+$button-lrg: rem-calc(15) !default;
+
+$button-font-tny: rem-calc(8);
+$button-font-sml: rem-calc(10);
+$button-font-med: rem-calc(12);
+$button-font-lrg: rem-calc(16);
+
+@import '../bower_components/foundation/scss/foundation/components/grid';
+@import '../bower_components/foundation/scss/foundation/components/forms';
+
+ul.form {
+  list-style-type: none;
+  margin: 0;
+}
+/*
+$form-spacing: 8px;
+$input-border-width: 1px;
+
+%input {
+  border: $input-border-width solid $grey-color-light;
+  box-sizing: border-box;
+  padding: $form-spacing;
+  display: inline-block;
+}
+%input-shadow {
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+ul.form {
+  list-style-type: none;
+  margin: 0;
+  width: 100%;
+
+  > li {
+    > label,
+    > input,
+    > select,
+    > textarea {
+      @extend %input;
+    }
+
+    > select {
+      // Should match input fields
+      height: ($base-font-size *$base-line-height + ($form-spacing * 2) + 2*$input-border-width);
+    }
+  }
+}
+
+.collapsed {
+  box-sizing: border-box;
+  > label,
+  > input,
+  > select,
+  > textarea {
+  }
+
+  > label {
+    text-align: center;
+    width: 30%;
+  }
+
+  > input,
+  > select {
+    @extend %input-shadow;
+    width: 70%;
+  }
+}
+
+.full {
+  > textarea {
+    @extend %input;
+    width: 100%;
+    height: 60px;
+  }
+}
+*/
