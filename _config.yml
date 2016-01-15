@@ -228,11 +228,11 @@ workshops:
 
 workshops_suggestions:
   -
-    day: 9-11
-    month: Okt
-    title: West Coast Swing Festival Düsseldorf
-    url: www.wcs-festival.de
-    description: Der kleine Bruder des D-Town Swings. Aber trotzdem große Trainer.
+    day: 1-3
+    month: Jul
+    title: NeverlandSwing III
+    url: www.facebook.com/profile.php?id=1123632157652382
+    description: Ein kleines aber schönes West Coast Swing Event in den Niederlanden.
   -
     day: 22-24
     month: Jul
@@ -251,3 +251,9 @@ workshops_suggestions:
     title: Westie on the Promenade
     url: http://improteam.com/en/ssdc/home
     description: Eine Woche Tanztraining in West Coast Swing und Zouk in Spanien.
+  -
+    day: 9-11
+    month: Okt
+    title: West Coast Swing Festival Düsseldorf
+    url: www.wcs-festival.de
+    description: Der kleine Bruder des D-Town Swings. Aber trotzdem großartige Trainer.
