@@ -1,14 +1,14 @@
 <ul class="event-list">
   {% for event in include.list %}
-    <li class="event-list-item">
-      <time class="event-date"><em>{{ event.day }}</em> {{ event.month }}</time>
-      <strong>{{ event.title }}</strong>
+    <li class="event-list-item" itemscope itemtype="http://schema.org/Event">
+      <time class="event-date" itempro="startDate"><em>{{ event.day }}</em> {{ event.month }}</time>
+      <strong itemprop="name">{{ event.title }}</strong>
       {% if event.teaching %}
         <span class="teaching">(Lehrer)</span>
       {% endif %}
-      <a href="http://{{ event.url }}">{{ event.url }}</a>
+      <a itemprop="url" href="http://{{ event.url }}">{{ event.url }}</a>
       {% if event.description %}
-        <p class="description">{{ event.description }}</p>
+        <p class="description" itemprop="description">{{ event.description }}</p>
       {% endif %}
     </li>
   {% endfor %}
