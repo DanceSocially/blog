@@ -17,6 +17,8 @@ url: "http://www.dancesocially.com" # the base hostname & protocol for your site
 twitter_username: Georg_Tavonius
 github_username:  Calamari
 
+og_description: West Coast Swing in Hamburg mit Georg Tavonius. Blog, Infos und mehr.
+
 menu_entries:
   # -
   #   title: Blog
