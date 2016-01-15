@@ -12,6 +12,10 @@ description: >
   DanceSocially ist die Webseite des Tanztrainers Georg Tavonius mit Informationen
   zum Thema West Coast Swing und Gesellschaftstanzen. Hier erfahrt ihr, wo es Kurse
   oder die nächste Veranstaltung gibt. In Hamburg und in Deutschland.
+keywords: >
+  West Coast Swing, Hamburg, WCS, tanzen, WCS Unterricht, West Coast Swing lernen,
+  West Coast Swing Events, West Coast Swing Workshops, WCS Events, WCS Workshops,
+  Was ist West Coast Swing
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.dancesocially.com" # the base hostname & protocol for your site
 twitter_username: Georg_Tavonius

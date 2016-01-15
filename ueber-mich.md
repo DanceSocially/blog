@@ -4,6 +4,7 @@ title: Über mich
 headline: Über mich / DanceSocially
 permalink: /ueber-mich/
 sidebar:
+  - picture-me.html
   - qualifications.html
   - known-dances.html
 ---
