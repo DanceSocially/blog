@@ -49,16 +49,16 @@ parties:
   #   month: Dez
   #   title: X-Mas Swing Special
   #   url: www.facebook.com/events/1522556231368741
-  -
-    day: 15
-    month: Jan
-    title: Anchor Festival
-    url: www.julianundjuliane.de/anchorfestival/de/
-  -
-    day: 16
-    month: Jan
-    title: Anchor Festival
-    url: www.julianundjuliane.de/anchorfestival/de/
+  # -
+  #   day: 15
+  #   month: Jan
+  #   title: Anchor Festival
+  #   url: www.julianundjuliane.de/anchorfestival/de/
+  # -
+  #   day: 16
+  #   month: Jan
+  #   title: Anchor Festival
+  #   url: www.julianundjuliane.de/anchorfestival/de/
   -
     day: 23
     month: Jan
@@ -105,11 +105,11 @@ parties:
     month: Apr
     title: Anchor Saturday
     url: www.facebook.com/events/213113712362499/
-  # -
-  #   day: 9
-  #   month: Apr
-  #   title: Party @ Dance Your Life
-  #   url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
+  -
+    day: 9
+    month: Apr
+    title: Party @ Dance Your Life
+    url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
   # -
   #   day: 22
   #   month: Apr
@@ -189,12 +189,12 @@ workshops:
   #   month: Jan
   #   title: Budafest
   #   url: www.wcs-budafest.com
-  -
-    day: 15-17
-    month: Jan
-    title: Anchor Festival
-    url: www.julianundjuliane.de/anchorfestival/de/
-    description: Hamburgs großes West Coast Swing Festival.
+  # -
+  #   day: 15-17
+  #   month: Jan
+  #   title: Anchor Festival
+  #   url: www.julianundjuliane.de/anchorfestival/de/
+  #   description: Hamburgs großes West Coast Swing Festival.
   -
     day: 5-7
     month: Feb
