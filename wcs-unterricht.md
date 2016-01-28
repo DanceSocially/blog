@@ -3,6 +3,9 @@ layout: page
 title: Unterricht in Hamburg
 headline: West Coast Swing in Unterricht
 permalink: /wcs-unterricht/
+excerpt: >
+  Hier erfahrt ihr, wo ihr West Coast Swing in Hamburg erlernen könnt
+  und wo ich unterrichte.
 sidebar:
   - next-workshops.html
   - next-parties.html

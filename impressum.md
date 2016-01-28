@@ -1,7 +1,9 @@
 ---
 layout: page
+title: Impressum
 headline: Impressum
 permalink: /impressum/
+excerpt: Impressum von DanceSocially
 ---
 
 *Angaben gemäß § 5 TMG:*

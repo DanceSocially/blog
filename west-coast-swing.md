@@ -3,6 +3,10 @@ layout: page
 title: West Coast Swing
 headline: Was ist West Coast Swing?
 permalink: /west-coast-swing/
+excerpt: >
+  West Coast Swing ist ein Paartanz welcher aus dem Lindy Hop
+  entstand. Beim WCS liegt der Fokus auf das Führen und Folgen
+  und der musikalischen Improvisation.
 sidebar:
   - more-wcs-in-hamburg.html
 ---
