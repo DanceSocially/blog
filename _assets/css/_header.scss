@@ -28,7 +28,7 @@
 
 .hero {
   background: $grey-color-lighter;
-  background-image: url("/img/bg-lindy.jpg");
+  background-image: url(asset-path("hero-lindy.jpg"));
   background-position: top center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -60,7 +60,7 @@
   float: left;
 
   // Replace Title with image:
-  background-image: url("/img/dancesocially-website-logoheadline.png");
+  background-image: url(asset-path("dancesocially-website-logoheadline.png"));
   content: "";
   display: block;
   height: 39px;

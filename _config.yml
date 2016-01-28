@@ -5,6 +5,19 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+gems:
+- jekyll-assets
+
+assets:
+  features:
+    liquid: false
+  assets:
+    - "*.png"
+    - "main.css"
+  sources:
+    - bower_components
+    - img
+
 # Site settings
 title: DanceSocially
 email: georg@get83.de
