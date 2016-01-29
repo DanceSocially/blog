@@ -1,6 +1,7 @@
 <ul class="event-list">
   {% for event in include.list %}
     <li class="event-list-item" itemscope itemtype="http://schema.org/Event">
+      <meta itemprop="location" content="{{ event.location }}">
       <meta itemprop="startDate" content="{{ event.date | date: "%F" }}">
       {% if event.endDate %}
         <meta itemprop="endDate" content="{{ event.endDate | date: "%F" }}">
