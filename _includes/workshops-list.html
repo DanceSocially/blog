@@ -1,7 +1,14 @@
 <ul class="event-list">
   {% for event in include.list %}
     <li class="event-list-item" itemscope itemtype="http://schema.org/Event">
-      <time class="event-date" itempro="startDate"><em>{{ event.day }}</em> {{ event.month }}</time>
+      <meta itemprop="startDate" content="{{ event.date | date: "%F" }}">
+      {% if event.endDate %}
+        <meta itemprop="endDate" content="{{ event.endDate | date: "%F" }}">
+        <time class="event-date" itempro="startDate"><em>{{ event.date | date: "%-d" }}-{{ event.endDate | date: "%-d" }}</em> {{ event.date | date: "%b" }}</time>
+      {% else %}
+        <time class="event-date" itempro="startDate"><em>{{ event.date | date: "%-d" }}</em> {{ event.date | date: "%b" }}</time>
+      {% endif %}
+
       <strong itemprop="name">{{ event.title }}</strong>
       {% if event.teaching %}
         <span class="teaching">(Lehrer)</span>

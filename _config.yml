@@ -84,50 +84,45 @@ parties:
   #   title: West Coast Friday
   #   url: www.julianundjuliane.de/termine/west-coast-swing-partys/
   -
-    day: 6
-    month: Feb
+    date: 2016-02-06
     title: Anchor Saturday
     url: www.facebook.com/events/881171021999263/
   -
-    day: 13
-    month: Feb
+    date: 2016-02-13
     title: Party @ Dance Your Life
     url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
   -
-    day: 19
-    month: Feb
+    date: 2016-02-19
     title: West Coast Friday
     url: www.julianundjuliane.de/termine/west-coast-swing-partys/
   -
-    day: 5
-    month: Mär
+    date: 2016-03-05
     title: Anchor Saturday
     url: www.facebook.com/events/1967645630127664/
   -
-    day: 12
-    month: Mär
+    date: 2016-03-12
     title: Party @ Dance Your Life
     url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
   -
-    day: 18
-    month: Mär
+    date: 2016-03-18
     title: West Coast Friday
     url: www.julianundjuliane.de/termine/west-coast-swing-partys/
   -
-    day: 2
-    month: Apr
+    date: 2016-04-02
     title: Anchor Saturday
     url: www.facebook.com/events/213113712362499/
   -
-    day: 9
-    month: Apr
+    date: 2016-04-09
     title: Party @ Dance Your Life
     url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
-  # -
-  #   day: 22
-  #   month: Apr
-  #   title: West Coast Friday
-  #   url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+  -
+    date: 2016-04-22
+    title: West Coast Friday
+    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+  -
+    date: 2016-04-30
+    title: Swing in den Mai
+    url: www.facebook.com/events/562890413879973/
   # -
   #   day: 7
   #   month: Mai
@@ -209,70 +204,83 @@ workshops:
   #   url: www.julianundjuliane.de/anchorfestival/de/
   #   description: Hamburgs großes West Coast Swing Festival.
   -
-    day: 5-7
-    month: Feb
+    date: 2016-02-05
+    endDate: 2016-02-07
     title: Swingtzerland
     url: www.swingtzerland.com
     description: Ein kleines aber feines WSDC Registry Event in Zürich.
+    location: Zürich
   -
-    day: 13-16
-    month: Mai
+    date: 2016-04-30
+    endDate: 2016-05-01
+    title: WCS-Intensive mit Eric Jacobson 2016
+    url: www.facebook.com/events/525957427586577
+    description: Der AllStar Eric Jacobson ist wieder zu Besuch in Hamburg. Für ein weiteres hochklassiges Intensiv-Workshop.
+    location: Hamburg
+  -
+    date: 2016-05-13
+    endDate: 2016-05-16
     title: Swingmany
     url: www.swingmany.de
     description: Deutschlands beste Lehrer unterrichten auf deutsch.
+    location: Hofheim
   -
-    day: 27-29
-    month: Mai
+    date: 2016-05-27
+    endDate: 2016-05-29
     title: Hungarian Open
     url: wcs-ho.com
     description: Ein schönes ungarisches WSDC Event.
+    location: Budapest
   -
-    day: 16-19
-    month: Jun
-    title: D-Town Swing
-    url: d-townswing.com
-    description: Das beste Lineup in Deutschland (und vielleicht sogar in Europa).
-  -
-    day: 3-6
-    month: Jun
+    date: 2016-06-03
+    endDate: 2016-06-10
     title: Intensive mit Brandi Tobias
     url: www.facebook.com/events/1661776737410624
     description: Die brilliante Brandi Tobias gibt ein Intensive hier in Deutschland. Ein muss.
+    location: Freiburg
   -
-    day: 27-31
-    month: Okt
+    date: 2016-06-16
+    endDate: 2016-06-19
+    title: D-Town Swing
+    url: d-townswing.com
+    description: Das beste Lineup in Deutschland (und vielleicht sogar in Europa).
+    location: Düsseldorf
+  -
+    date: 2016-10-27
+    endDate: 2016-10-31
     title: Warsaw Halloween Swing
     url: warsawhalloweenswing.com
     description: Gruseliges WSDC und Tanz-Event. Tolle Atmosphäre und tolle Kostüme.
+    location: Warschau
 
 workshops_suggestions:
   -
-    day: 1-3
-    month: Jul
+    date: 2016-07-01
+    endDate: 2016-07-03
     title: NeverlandSwing III
     url: www.facebook.com/profile.php?id=1123632157652382
     description: Ein kleines aber schönes West Coast Swing Event in den Niederlanden.
   -
-    day: 22-24
-    month: Jul
+    date: 2016-07-22
+    endDate: 2016-07-24
     title: Jurassic Swing
     url: www.jurassic-swing.com/
     description: Das erste West Coast Swing Event in Deutschland, welches in einem Naturerlebnisparl statt findet.
   -
-    day: 9-15
-    month: Jul
+    date: 2016-07-09
+    endDate: 2016-07-15
     title: Westie on the Promenade
     url: westie.balboaonthepromenade.com
     description: Ein reines Social-Event. Eine Woche Strand, Sonne und tanzen, tanzen, tanzen.
   -
-    day: 30-6
-    month: Aug-Sep
-    title: Westie on the Promenade
+    date: 2016-08-30
+    endDate: 2016-09-06
+    title: Sunny Side Dance Camp
     url: http://improteam.com/en/ssdc/home
     description: Eine Woche Tanztraining in West Coast Swing und Zouk in Spanien.
   -
-    day: 9-11
-    month: Okt
+    date: 2016-10-09
+    endDate: 2016-10-11
     title: West Coast Swing Festival Düsseldorf
     url: www.wcs-festival.de
     description: Der kleine Bruder des D-Town Swings. Aber trotzdem großartige Trainer.

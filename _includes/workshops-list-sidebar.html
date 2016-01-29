@@ -1,7 +1,12 @@
 <ul class="event-list">
   {% for event in include.list %}
     <li class="event-list-item event-list-item-small" itemscope itemtype="http://schema.org/Event">
-      <time class="event-date" itempro="startDate"><em>{{ event.day }}</em> {{ event.month }}</time>
+      {% if event.date %}
+        <meta itemprop="startDate" content="{{ event.date | date: "%F" }}">
+        <time class="event-date"><em>{{ event.date | date: "%-d" }}</em> {{ event.date | date: "%b" }}</time>
+      {% else %}
+        <time class="event-date"><em>{{ event.day }}</em> {{ event.month }}</time>
+      {% endif %}
       <a itemprop="url" href="http://{{ event.url }}"><strong itemprop="name">{{ event.title }}</strong></a>
     </li>
   {% endfor %}
