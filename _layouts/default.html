@@ -4,22 +4,17 @@
 
   <body>
     {% css main.css lazyload %}
-    <div class="off-canvas-wrap" data-offcanvas>
+    <div class="inner-wrap">
 
-      <div class="inner-wrap">
+      {% include header.html %}
 
-        {% include header.html %}
-
-        <div class="page-content">
-          <div class="wrapper">
-            {{ content }}
-          </div>
+      <div class="page-content">
+        <div class="wrapper">
+          {{ content }}
         </div>
-
-        {% include footer.html %}
-
-        <a class="exit-off-canvas"></a>
       </div>
+
+      {% include footer.html %}
     </div>
 
     {% include google-analytics.html %}
