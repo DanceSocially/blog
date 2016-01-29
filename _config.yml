@@ -72,17 +72,17 @@ parties:
   #   month: Jan
   #   title: Anchor Festival
   #   url: www.julianundjuliane.de/anchorfestival/de/
-  -
-    day: 23
-    month: Jan
-    title: Party @ Dance Your Life
-    info: inkl. Schnupperworkshop
-    url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
-  -
-    day: 29
-    month: Jan
-    title: West Coast Friday
-    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+  # -
+  #   day: 23
+  #   month: Jan
+  #   title: Party @ Dance Your Life
+  #   info: inkl. Schnupperworkshop
+  #   url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
+  # -
+  #   day: 29
+  #   month: Jan
+  #   title: West Coast Friday
+  #   url: www.julianundjuliane.de/termine/west-coast-swing-partys/
   -
     day: 6
     month: Feb
