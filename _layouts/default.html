@@ -18,5 +18,13 @@
     </div>
 
     {% include google-analytics.html %}
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": "{{ site.url }}",
+      "logo": "{{ site.url }}{% asset_path og-image.png %}"
+    }
+    </script>
   </body>
 </html>
