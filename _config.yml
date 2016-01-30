@@ -87,52 +87,82 @@ parties:
     date: 2016-02-06
     title: Anchor Saturday
     url: www.facebook.com/events/881171021999263/
-    location: Hamburg
+    location:
+      name: Billies - Das Tanzstudio in Hamburg
+      address: Stresemannstraße 374, Hamburg
+      url: www.facebook.com/tanzstudio.billies/
   -
     date: 2016-02-13
     title: Party @ Dance Your Life
     url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
-    location: Hamburg
+    location:
+      name: ADTV Tanzschule Dance your Life
+      address: Osterrade 29, Hamburg
+      url: www.tanzschule-bergedorf.com
   -
     date: 2016-02-19
     title: West Coast Friday
     url: www.julianundjuliane.de/termine/west-coast-swing-partys/
-    location: Hamburg
+    location:
+      name: Isabel Edvardsson - DIE Tanzschule
+      address: Banksstr. 2b, 20097 Hamburg
+      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
   -
     date: 2016-03-05
     title: Anchor Saturday
     url: www.facebook.com/events/1967645630127664/
-    location: Hamburg
+    location:
+      name: Billies - Das Tanzstudio in Hamburg
+      address: Stresemannstraße 374, Hamburg
+      url: www.facebook.com/tanzstudio.billies/
   -
     date: 2016-03-12
     title: Party @ Dance Your Life
     url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
-    location: Hamburg
+    location:
+      name: ADTV Tanzschule Dance your Life
+      address: Osterrade 29, Hamburg
+      url: www.tanzschule-bergedorf.com
   -
     date: 2016-03-18
     title: West Coast Friday
     url: www.julianundjuliane.de/termine/west-coast-swing-partys/
-    location: Hamburg
+    location:
+      name: ShowIsabel Edvardsson - DIE Tanzschule
+      address: Banksstr. 2b, 20097 Hamburg
+      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
   -
     date: 2016-04-02
     title: Anchor Saturday
     url: www.facebook.com/events/213113712362499/
-    location: Hamburg
+    location:
+      name: Billies - Das Tanzstudio in Hamburg
+      address: Stresemannstraße 374, Hamburg
+      url: www.facebook.com/tanzstudio.billies/
   -
     date: 2016-04-09
     title: Party @ Dance Your Life
     url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
-    location: Hamburg
+    location:
+      name: ADTV Tanzschule Dance your Life
+      address: Osterrade 29, Hamburg
+      url: www.tanzschule-bergedorf.com
   -
     date: 2016-04-22
     title: West Coast Friday
     url: www.julianundjuliane.de/termine/west-coast-swing-partys/
-    location: Hamburg
+    location:
+      name: Isabel Edvardsson - DIE TanzscIsabel Edvardsson - DIE Tanzschule
+      address: Banksstr. 2b, 20097 Hamburg
+      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
   -
     date: 2016-04-30
     title: Swing in den Mai
     url: www.facebook.com/events/562890413879973/
-    location: Hamburg
+    location:
+      name: Tanzschule Heiko Stender
+      address: Tibarg 40, 22459 Hamburg
+      url: www.tanzschule-stender.de
   # -
   #   day: 7
   #   month: Mai
@@ -219,49 +249,68 @@ workshops:
     title: Swingtzerland
     url: www.swingtzerland.com
     description: Ein kleines aber feines WSDC Registry Event in Zürich.
-    location: Zürich, Schweiz
+    location:
+      name: Tanzwerk 101
+      address: Pfingstweidstrasse 101, Zürich, Schweiz
+      url: www.tanzwerk101.ch
   -
     date: 2016-04-30
     endDate: 2016-05-01
     title: WCS-Intensive mit Eric Jacobson 2016
     url: www.facebook.com/events/525957427586577
     description: Der AllStar Eric Jacobson ist wieder zu Besuch in Hamburg. Für ein weiteres hochklassiges Intensiv-Workshop.
-    location: Hamburg
+    location:
+      name: Tanzschule Heiko Stender
+      address: Tibarg 40, 22459 Hamburg
+      url: www.tanzschule-stender.de
   -
     date: 2016-05-13
     endDate: 2016-05-16
     title: Swingmany
     url: www.swingmany.de
     description: Deutschlands beste Lehrer unterrichten auf deutsch.
-    location: Kronberg im Taunus
+    location:
+      name: Taktgefühl
+      address: Edouard-Desor-Straße 2, 61381 Friedrichsdorf
+      url: www.taktgefuehl.de
   -
     date: 2016-05-27
     endDate: 2016-05-29
     title: Hungarian Open
     url: wcs-ho.com
     description: Ein schönes ungarisches WSDC Event.
-    location: Budapest, Ungarn
+    location:
+      name: Hotel Bara Budapest
+      address: 34-36 Hegyalja út, H-1118 Budapest, Ungarn
+      url: www.hotelbara.hu
   -
     date: 2016-06-03
     endDate: 2016-06-10
     title: Intensive mit Brandi Tobias
     url: www.facebook.com/events/1661776737410624
     description: Die brilliante Brandi Tobias gibt ein Intensive hier in Deutschland. Ein muss.
-    location: Freiburg
+    location:
+      name: Hotel Rheingold
+      address: Eisenbahnstraße 47, 79098 Freiburg, Germany
+      url: www.facebook.com/Hotel.Rheingold.Freiburg/
   -
     date: 2016-06-16
     endDate: 2016-06-19
     title: D-Town Swing
     url: d-townswing.com
     description: Das beste Lineup in Deutschland (und vielleicht sogar in Europa).
-    location: Düsseldorf
+    location:
+      name: Boston-Club
+      address: Vennhauser Allee 135, 40627 Düsseldorf
   -
     date: 2016-10-27
     endDate: 2016-10-31
     title: Warsaw Halloween Swing
     url: warsawhalloweenswing.com
     description: Gruseliges WSDC und Tanz-Event. Tolle Atmosphäre und tolle Kostüme.
-    location: Warschau, Polen
+    location:
+      name: Somewhere
+      address: Warschau, Polen
 
 workshops_suggestions:
   -
@@ -270,32 +319,46 @@ workshops_suggestions:
     title: NeverlandSwing III
     url: www.facebook.com/profile.php?id=1123632157652382
     description: Ein kleines aber schönes West Coast Swing Event in den Niederlanden.
-    location: Aalsmeer
+    location:
+      name: Candance Studios
+      address: Van Cleeffkade 15, 1431 BA Aalsmeer
+      url: www.facebook.com/pages/Candance-Studios/156103024459113
   -
     date: 2016-07-22
     endDate: 2016-07-24
     title: Jurassic Swing
-    url: www.jurassic-swing.com/
+    url: www.jurassic-swing.com
     description: Das erste West Coast Swing Event in Deutschland, welches in einem Naturerlebnisparl statt findet.
-    location: Waldbröl
+    location:
+      name: Panarbora
+      address: Nutscheidstr. 1, 51545 Waldbröl
+      url: www.panarbora.de
   -
     date: 2016-07-09
     endDate: 2016-07-15
     title: Westie on the Promenade
     url: westie.balboaonthepromenade.com
     description: Ein reines Social-Event. Eine Woche Strand, Sonne und tanzen, tanzen, tanzen.
-    location: Mandelieu, Frankreich
+    location:
+      name: Office de Tourisme et des Congrès
+      address: 36 Boulevard des Ecureuils, 06210 Mandelieu-La Napoule, Frankreich
   -
     date: 2016-08-30
     endDate: 2016-09-06
     title: Sunny Side Dance Camp
     url: improteam.com/en/ssdc/home
     description: Eine Woche Tanztraining in West Coast Swing und Zouk in Spanien.
-    location: Torrevieja, Spanien
+    location:
+      name: Hotel Cabo Cervera
+      address: Torrevieja, Spanien
+      url: improteam.com/en/ssdc/place
   -
     date: 2016-10-09
     endDate: 2016-10-11
     title: West Coast Swing Festival Düsseldorf
     url: www.wcs-festival.de
     description: Der kleine Bruder des D-Town Swings. Aber trotzdem großartige Trainer.
-    location: Düsseldorf
+    location:
+      name: Tanzschule Dresen
+      address: Duisburger Strasse 95, 40479 Düsseldorf
+      url: www.tanzschule-dresen.de
