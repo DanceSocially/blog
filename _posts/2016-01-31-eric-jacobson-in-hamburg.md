@@ -2,7 +2,7 @@
 layout: post
 title:  "Eric Jacobson kommt zurück nach Hamburg"
 date:   2016-01-31 18:20:00 +0100
-categories: dancesocially workshops events
+categories: events workshops
 ---
 Das Intensive mit Eric im letzten August war ein voller Erfolg und viele der Teilnehmer vom letzten Event, haben schon nachgefragt, wann Eric denn wieder kommt. Und nach etwas über sieben Monaten ist es dann soweit: Wir holen Eric Jacobson zurück aus San Francisco für eine weitere Auflage eines [lehrreichen Intensiv-Workshop](https://www.facebook.com/events/525957427586577). Zusammen mit Eric werden wir weiter an unseren Bewegungen, der Balance, der Verbindung und der musikalischen Interpretation arbeiten.
 
