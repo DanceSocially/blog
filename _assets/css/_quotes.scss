@@ -1,0 +1,9 @@
+blockquote cite {
+  display: block;
+  font-size: 0.8125rem;
+  font-family: $base-font-family;
+}
+
+blockquote cite:before {
+  content: "– ";
+}

@@ -23,6 +23,9 @@
     </div>
   </div>
 
-  <div class="hero "></div>
+  <div class="hero hero--{{page.hero_img}}"></div>
 
+  {% if site.event_promo %}
+    {% include event_promo.html event=site.event_promo %}
+  {% endif %}
 </header>

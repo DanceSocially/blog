@@ -5,6 +5,7 @@
   overflow: hidden;
   border-bottom: 1px solid $grey-color-light;
   // height: 256px;
+  position: relative;
 
   > .site-nav {
     border-top: 5px solid $grey-color-dark;
@@ -49,6 +50,10 @@
   //   max-width: 930px;
   //   margin: 25px auto 0;
   // }
+}
+
+.hero--eric-2016 {
+  background-image: url(asset-path("hero-eric-2016.jpg"));
 }
 
 .site-title {

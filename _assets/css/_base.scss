@@ -188,27 +188,6 @@ pre {
 }
 
 
-
-/**
- * Icons
- */
-.icon {
-
-  > svg {
-    display: inline-block;
-    width: 16px;
-    height: 16px;
-    vertical-align: middle;
-
-    path.bg {
-      fill: $grey-color;
-    }
-    path.fg {
-      fill: #fff;
-    }
-  }
-}
-
 $side-line-height: rem-calc(24px);
 
 .post {
@@ -278,3 +257,8 @@ $side-line-height: rem-calc(24px);
   }
 }
 
+
+.info {
+  color: $grey-color;
+  font-size: 0.875rem;
+}

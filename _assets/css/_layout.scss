@@ -246,3 +246,8 @@ body {
   width: 100%;
   max-width: 200px;
 }
+
+.picture-of-eric {
+  @extend .picture-of-me;
+  margin-bottom: 20px;
+}

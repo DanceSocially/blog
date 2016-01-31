@@ -1,0 +1,36 @@
+.event-promo-wrap {
+  position: absolute;
+  max-width: 1280px;
+  margin: 0 auto;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 122px;
+}
+.event-promo {
+  background-image: url(asset_path("bg-event-promo.png"));
+  width: 331px;
+  height: 102px;
+  padding: 10px 10px 10px 96px;
+  position: absolute;
+  bottom: 10px;
+  right: 20px;
+}
+
+.event-promo__header {
+  font-size: 1em;
+  margin: 0.2em;;
+  line-height: 1.2;
+
+  > a {
+    color: #333;
+
+    &:hover {
+      color: $brand-color;
+    }
+  }
+}
+
+.event-promo__info {
+  font-size: 0.675rem;
+}

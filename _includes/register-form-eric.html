@@ -1,0 +1,92 @@
+<form id="{{include.id}}" action="http://formspree.io/georg@dancesocially.com" method="post">
+  <h2>Zum Event anmelden</h2>
+
+  <p><strong>Hinweis:</strong> Der Workshop richtet sich an Tänzer, die mindestens sechs Monate regelmäßig WCS-Kurse besuchen. Die Voraussetzung für die Teilnahme am Workshop ist das sichere Beherrschen der WCS-Basics! (Mindestens: Left-Side-Pass, Under-Arm-Turn, Sugar-Push, Sugar-Tuck, Whip)</p>
+
+  <input type="hidden" name="_subject" value="[Eric2016] Anmeldung">
+  <input type="hidden" name="reason" value="Anmeldung für Intensive mit Eric 2016">
+
+  <ul class="form">
+    <li class="row collapse">
+      <div class="small-3 large-2 columns">
+        <label for="firstname" class="prefix">Vorname</label>
+      </div>
+      <div class="small-9 large-10 columns">
+        <input name="firstname" type="text" id="firstname" placeholder="Dein Vorname">
+      </div>
+    </li>
+    <li class="row collapse">
+      <div class="small-3 large-2 columns">
+        <label for="lastname" class="prefix">Nachname</label>
+      </div>
+      <div class="small-9 large-10 columns">
+        <input name="lastname" type="text" id="lastname" placeholder="Dein Nachname">
+      </div>
+    </li>
+
+    <li class="row collapse">
+      <div class="small-3 large-2 columns">
+        <label for="e-mail" class="prefix">E-Mail</label>
+      </div>
+      <div class="small-9 large-10 columns">
+        <input name="_replyto" type="text" id="e-mail" placeholder="Deine E-Mail Adresse">
+      </div>
+    </li>
+
+    <li class="row collapse">
+      <div class="small-3 large-2 columns">
+        <label for="role" class="prefix">Rolle</label>
+      </div>
+      <div class="small-9 large-10 columns">
+        <select name="reason" id="role">
+          <option>leader</option>
+          <option>follower</option>
+        </select>
+      </div>
+    </li>
+
+    <li class="row collapse">
+      <div class="small-3 large-2 columns"></div>
+      <div class="small-9 large-10 columns">
+        <label for="returning">
+          <input type="checkbox" name="returning" id="returning">
+          Warst du letztes Mal dabei?
+        </label>
+      </div>
+    </li>
+
+    <li>
+      <fieldset>
+        <legend>Partner gleich mitanmelden:</legend>
+        <ul class="form">
+          <li class="row collapse">
+            <div class="small-3 large-2 columns">
+              <label for="firstname_partner" class="prefix">Vorname</label>
+            </div>
+            <div class="small-9 large-10 columns">
+              <input name="firstname_partner" type="text" id="firstname_partner" placeholder="Vorname deines Partners">
+            </div>
+          </li>
+          <li class="row collapse">
+            <div class="small-3 large-2 columns">
+              <label for="lastname_partner" class="prefix">Nachname</label>
+            </div>
+            <div class="small-9 large-10 columns">
+              <input name="lastname_partner" type="text" id="lastname_partner" placeholder="Nachname deines Partners">
+              <p class="info">Achtung. Dein Partner braucht sich nicht noch einmal anmelden.</p>
+            </div>
+          </li>
+        </ul>
+      </fieldset>
+    </li>
+
+    <li>
+      <label>Kommentar</label>
+      <textarea name="message" placeholder="Möchtest du eine Privatestunde? Sonstige Fragen?" rows="6"></textarea>
+    </li>
+
+    <li>
+      <button type="submit" value="Send">Abschicken</button>
+    </li>
+  </ul>
+</form>

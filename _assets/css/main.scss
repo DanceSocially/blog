@@ -53,8 +53,12 @@ $maximal-wrapper-width: $content-width + $side-content-width + ($spacing-unit);
 @import
         "base",
         "layout",
+        "icons",
+        "quotes",
+        "event-promo",
         "syntax-highlighting",
         "header",
-        "parallax",
+        "event-details",
+        // "parallax",
         "form"
 ;

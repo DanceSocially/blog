@@ -56,6 +56,19 @@ menu_entries:
 # Build settings
 markdown: kramdown
 
+
+event_promo:
+  date: 2016-04-30
+  endDate: 2016-05-01
+  title: WCS-Intensive mit Eric Jacobson 2016
+  url: /events/eric-intensive-2016/
+  description: Der AllStar Eric Jacobson ist wieder zu Besuch in Hamburg. Für ein weiteres hochklassiges Intensiv-Workshop.
+  location:
+    name: Tanzschule Heiko Stender
+    address: Tibarg 40, 22459 Hamburg
+    url: www.tanzschule-stender.de
+
+
 parties:
   # -
   #   day: 19
@@ -257,7 +270,7 @@ workshops:
     date: 2016-04-30
     endDate: 2016-05-01
     title: WCS-Intensive mit Eric Jacobson 2016
-    url: www.facebook.com/events/525957427586577
+    url: www.dancesocially.com/events/eric-intensive-2016/
     description: Der AllStar Eric Jacobson ist wieder zu Besuch in Hamburg. Für ein weiteres hochklassiges Intensiv-Workshop.
     location:
       name: Tanzschule Heiko Stender

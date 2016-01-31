@@ -1,0 +1,13 @@
+.event-details {
+  > dt {
+    display: block;
+    vertical-align: top;
+    font-weight: bold;
+  }
+
+  > dd {
+    display: block;
+    vertical-align: top;
+    margin-bottom: 0.75rem;
+  }
+}
