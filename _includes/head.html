@@ -10,12 +10,16 @@
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <meta property="og:image" content="{% asset_path og-image.png %}">
-  <meta property="og:image" content="{% asset_path picture-me.jpg %}">
+  <meta property="og:image" content="{{ site.url }}{% asset_path og-image.png %}">
+  <meta property="og:image" content="{{ site.url }}{% asset_path picture-me.jpg %}">
   {% if page.og_image %}
-    <meta property="og:image" content="{% asset_path {{page.og_image}} %}">
+    <meta property="og:image" content="{{ site.url }}{% asset_path {{page.og_image}} %}">
   {% endif %}
-  <meta property="og:description" content="{{ site.og_description }}">
+  {% if page.og_description %}
+    <meta property="og:description" content="{{ page.og_description }}">
+  {% else %}
+    <meta property="og:description" content="{{ site.og_description }}">
+  {% endif %}
 
   <!--[if IE]>
     {% css main.css %} <!-- blocking, but what else can ya do? -->
