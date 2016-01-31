@@ -6,3 +6,4 @@
   <p class="event-promo__info">Vom {{ include.event.date | date: "%-d.%-m" }} bis zum {{ include.event.endDate | date: "%-d.%-m.%Y" }}.</p>
 </section>
 </div>
+{% include id_json-event.html event=include.event %}

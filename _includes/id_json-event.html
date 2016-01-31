@@ -1,0 +1,36 @@
+<script type="application/ld+json">
+[{
+  "@context" : "http://schema.org",
+  "@type" : "Event",
+  "name" : "{{ include.event.title }}",
+  "image" : "{{ site.url }}{{ include.event.image }}",
+  "url" : "http://{{ include.event.url }}",
+  "startDate" : "{{ include.event.date | date: "%F" }}",
+  "doorTime" : "{{ include.event.date | date: "%H:%M" }}",
+  "endDate" : "{{ include.event.endDate | date: "%F" }}",
+  "location" : {
+    "@type" : "Place",
+    "name" : "{{ include.event.location.name }}",
+    "sameAs" : "http://{{ include.event.location.url }}",
+    "address" : "{{ include.event.location.address }}"
+  },
+  "offers" : [
+    {% for offer in include.event.offers %}
+      {
+        "@type" : "Offer",
+        "name" : "{{offer.name}}",
+        "category" : "primary",
+        "price" : "{{offer.price}}",
+        "priceCurrency" : "EUR",
+        "url" : "http://{{ include.event.url }}"
+      },
+    {% endfor %}
+    {}
+  ],
+  "performer" : [{
+    "@type" : "Person",
+    "name" : "{{ include.event.performer.name }}",
+    "sameAs" : "http://{{ include.event.performer.url }}"
+  }]
+}]
+</script>
