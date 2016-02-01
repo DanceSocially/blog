@@ -36,6 +36,10 @@ github_username:  Calamari
 
 og_description: West Coast Swing in Hamburg mit Georg Tavonius. Blog, Infos und mehr.
 
+# Facebook app id, so we can clear cache and stuff
+fb:
+  app_id: 1111600618858744,
+
 menu_entries:
   # -
   #   title: Blog
