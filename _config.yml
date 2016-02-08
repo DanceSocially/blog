@@ -113,14 +113,14 @@ parties:
   #   month: Jan
   #   title: West Coast Friday
   #   url: www.julianundjuliane.de/termine/west-coast-swing-partys/
-  -
-    date: 2016-02-06
-    title: Anchor Saturday
-    url: www.facebook.com/events/881171021999263/
-    location:
-      name: Billies - Das Tanzstudio in Hamburg
-      address: Stresemannstraße 374, Hamburg
-      url: www.facebook.com/tanzstudio.billies/
+  # -
+  #   date: 2016-02-06
+  #   title: Anchor Saturday
+  #   url: www.facebook.com/events/881171021999263/
+  #   location:
+  #     name: Billies - Das Tanzstudio in Hamburg
+  #     address: Stresemannstraße 374, Hamburg
+  #     url: www.facebook.com/tanzstudio.billies/
   -
     date: 2016-02-13
     title: Party @ Dance Your Life
@@ -273,22 +273,22 @@ workshops:
   #   title: Anchor Festival
   #   url: www.julianundjuliane.de/anchorfestival/de/
   #   description: Hamburgs großes West Coast Swing Festival.
-  -
-    date: 2016-02-05
-    endDate: 2016-02-07
-    title: Swingtzerland
-    url: www.swingtzerland.com
-    description: Ein kleines aber feines WSDC Registry Event in Zürich.
-    location:
-      name: Tanzwerk 101
-      address: Pfingstweidstrasse 101, Zürich, Schweiz
-      url: www.tanzwerk101.ch
+  # -
+  #   date: 2016-02-05
+  #   endDate: 2016-02-07
+  #   title: Swingtzerland
+  #   url: www.swingtzerland.com
+  #   description: Ein kleines aber feines WSDC Registry Event in Zürich.
+  #   location:
+  #     name: Tanzwerk 101
+  #     address: Pfingstweidstrasse 101, Zürich, Schweiz
+  #     url: www.tanzwerk101.ch
   -
     date: 2016-04-30
     endDate: 2016-05-01
     title: WCS-Intensive mit Eric Jacobson 2016
     url: www.dancesocially.com/events/eric-intensive-2016/
-    description: Der AllStar Eric Jacobson ist wieder zu Besuch in Hamburg. Für ein weiteres hochklassiges Intensiv-Workshop.
+    description: Der All-Star Eric Jacobson ist wieder zu Besuch in Hamburg. Für ein weiteres hochklassiges Intensiv-Workshop. Dieses Intensive zeichnet sich vor allem durch die kleinen Gruppengröße und der didaktisch gut aufgebauten Unterricht.
     location:
       name: Tanzschule Heiko Stender
       address: Tibarg 40, 22459 Hamburg
@@ -298,7 +298,7 @@ workshops:
     endDate: 2016-05-16
     title: Swingmany
     url: www.swingmany.de
-    description: Deutschlands beste Lehrer unterrichten auf deutsch.
+    description: Swingmany ist das erste Groß-Event Deutschlands, in dem nur deutsche Lehrer unterrichten. Die besten Lehrer die Deutschland zu bieten hat und eine sehr schöne Stimmung.
     location:
       name: Taktgefühl
       address: Edouard-Desor-Straße 2, 61381 Friedrichsdorf
@@ -308,7 +308,7 @@ workshops:
     endDate: 2016-05-29
     title: Hungarian Open
     url: wcs-ho.com
-    description: Ein schönes ungarisches WSDC Event.
+    description: Die Hungarian Open ist quasi der "kleine Bruder" des Budafests. Ein sehr schönes ungarisches WSDC-Registry Event.
     location:
       name: Hotel Bara Budapest
       address: 34-36 Hegyalja út, H-1118 Budapest, Ungarn
@@ -318,7 +318,7 @@ workshops:
     endDate: 2016-06-10
     title: Intensive mit Brandi Tobias
     url: www.facebook.com/events/1661776737410624
-    description: Die brilliante Brandi Tobias gibt ein Intensive hier in Deutschland. Ein muss.
+    description: Die brilliante Brandi Tobias gibt ein Intensive hier in Deutschland. Definitiv ein muss.
     location:
       name: Hotel Rheingold
       address: Eisenbahnstraße 47, 79098 Freiburg, Germany
@@ -328,7 +328,7 @@ workshops:
     endDate: 2016-06-19
     title: D-Town Swing
     url: d-townswing.com
-    description: Das beste Lineup in Deutschland (und vielleicht sogar in Europa).
+    description: Das Event mit dem hochkarätigsten Line-Ups in Deutschland (und vielleicht sogar in Europa). Top Pros geben großartige Workshops. Ein WSDC-Registry Event mit einer vielzahl verschiedenster Competitions.
     location:
       name: Boston-Club
       address: Vennhauser Allee 135, 40627 Düsseldorf
@@ -337,12 +337,32 @@ workshops:
     endDate: 2016-10-31
     title: Warsaw Halloween Swing
     url: warsawhalloweenswing.com
-    description: Gruseliges WSDC und Tanz-Event. Tolle Atmosphäre und tolle Kostüme.
+    description: Gruseliges WSDC-Registry und Tanz-Event. Es besticht durch eine tolle Atmosphäre, sensationelle Kostüme und gute Workshops.
     location:
       name: Somewhere
       address: Warschau, Polen
 
 workshops_suggestions:
+  -
+    date: 2016-03-31
+    endDate: 2016-03-03
+    title: UK & European West Coast Swing Championship
+    url: http://www.jiveaddiction.com/cms/index.php?option=com_content&task=view&id=135&Itemid=26
+    description: Das älteste europäische WSDC-Registry Event. Dies war auch gleichzeitig mein erste West Coast Swing Event. Da habe ich großartige Menschen und meine Liebe zum West Coast Swing kennen gelernt.
+    location:
+      name:  Radisson Blu Edwardian Hotel
+      address: Bath Road, Heathrow, Hayes, Middx, UB3 5AW
+      url: http://www.radissonblu-edwardian.com/middlesex-hotel-gb-ub3-5aw/gbedwair/area/tofromhotel/detail
+  -
+    date: 2016-06-03
+    endDate: 2016-06-06
+    title: Baltic Swing
+    url: www.balticswing.pl
+    description: "Das WSDC-Registry Event mit dem gewissen Spin (sprich: The European Spin Championship) in Danzig, Polen."
+    location:
+      name: Scandic Gdansk
+      address: Podwale Grodzkie 9, 80-895 Gdansk, Poland
+      url: http://www.scandichotels.com/Hotels/Poland/Gdansk/Scandic-Gdansk/#.Unt6-_mURCg
   -
     date: 2016-07-01
     endDate: 2016-07-03
@@ -358,7 +378,7 @@ workshops_suggestions:
     endDate: 2016-07-24
     title: Jurassic Swing
     url: www.jurassic-swing.com
-    description: Das erste West Coast Swing Event in Deutschland, welches in einem Naturerlebnisparl statt findet.
+    description: Das erste West Coast Swing Event in Deutschland, welches in einem Naturerlebnispark statt findet.
     location:
       name: Panarbora
       address: Nutscheidstr. 1, 51545 Waldbröl
@@ -368,7 +388,7 @@ workshops_suggestions:
     endDate: 2016-07-15
     title: Westie on the Promenade
     url: westie.balboaonthepromenade.com
-    description: Ein reines Social-Event. Eine Woche Strand, Sonne und tanzen, tanzen, tanzen.
+    description: Ein reines Social-Event. Eine Woche Strand, Sonne und tanzen, tanzen, tanzen. Es gibt die ganze Woche Workshops und einige Themenbasierte Zusatzworkshops, für diejeningen, die nicht genug bekommen.
     location:
       name: Office de Tourisme et des Congrès
       address: 36 Boulevard des Ecureuils, 06210 Mandelieu-La Napoule, Frankreich
@@ -387,7 +407,7 @@ workshops_suggestions:
     endDate: 2016-10-11
     title: West Coast Swing Festival Düsseldorf
     url: www.wcs-festival.de
-    description: Der kleine Bruder des D-Town Swings. Aber trotzdem großartige Trainer.
+    description: Der kleine Bruder des D-Town Swings. Ein paar weniger, aber großartige Trainer und nur zwei parallele Tracks. Aber dennoch ein großartige Event.
     location:
       name: Tanzschule Dresen
       address: Duisburger Strasse 95, 40479 Düsseldorf
