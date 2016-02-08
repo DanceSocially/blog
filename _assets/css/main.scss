@@ -16,6 +16,7 @@ $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
+$background-color-dark: darken($background-color, 3%);
 $brand-color:      #2a7ae2;
 
 $grey-color:       #828282;
@@ -59,6 +60,7 @@ $maximal-wrapper-width: $content-width + $side-content-width + ($spacing-unit);
         "syntax-highlighting",
         "header",
         "event-details",
+        "toc",
         // "parallax",
         "form"
 ;

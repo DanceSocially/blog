@@ -1,0 +1,28 @@
+
+.toc {
+  background-color: $background-color-dark;
+  border: 1px solid $grey-color-light;
+  font-size: 95%;
+  padding: 0.25em 1em;
+  margin: 0 0 1em;
+}
+
+.toc__title {
+  border: medium none;
+  display: inline;
+  font-size: 100%;
+  font-weight: bold;
+  padding: 8px 0 0;
+  text-align: center;
+  margin: 0 8px 4px 0;
+  overflow:hidden;
+}
+
+.toc__list {
+  list-style-image: none;
+  list-style-type: none;
+  margin: 0 8px 7px 0px;
+  padding-left: 0;
+  text-align: left;
+  list-style-type: none;
+}
