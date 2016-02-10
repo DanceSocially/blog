@@ -263,7 +263,12 @@ $side-line-height: rem-calc(24px);
   font-size: 0.875rem;
 }
 
-.more-links {}
+.more-links {
+  margin-left: 0;
+  > li {
+    list-style-type: none;
+  }
+}
 .more-links-info {
   font-size: 0.875em;
   font-weight: 600;
