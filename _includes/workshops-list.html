@@ -4,9 +4,9 @@
       <meta itemprop="startDate" content="{{ event.date | date: "%F" }}">
       {% if event.endDate %}
         <meta itemprop="endDate" content="{{ event.endDate | date: "%F" }}">
-        <time class="event-date" itempro="startDate"><em>{{ event.date | date: "%-d" }}-{{ event.endDate | date: "%-d" }}</em> {{ event.date | date: "%b" }}</time>
+        <time class="event-date"><em>{{ event.date | date: "%-d" }}-{{ event.endDate | date: "%-d" }}</em> {{ event.date | date: "%b" }}</time>
       {% else %}
-        <time class="event-date" itempro="startDate"><em>{{ event.date | date: "%-d" }}</em> {{ event.date | date: "%b" }}</time>
+        <time class="event-date"><em>{{ event.date | date: "%-d" }}</em> {{ event.date | date: "%b" }}</time>
       {% endif %}
 
       <strong itemprop="name">{{ event.title }}</strong>
