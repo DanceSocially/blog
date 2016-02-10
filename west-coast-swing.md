@@ -9,6 +9,7 @@ excerpt: >
   und der musikalischen Improvisation.
 sidebar:
   - more-wcs-in-hamburg.html
+  - more-wcs-in-germany.html
 ---
 
 Hier ist ein kurzer Überblick was _West Coast Swing_ ist und ein paar Videos, die euch einen kleinen, ersten Einblick verschaffen sollen:

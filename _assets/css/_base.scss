@@ -262,3 +262,13 @@ $side-line-height: rem-calc(24px);
   color: $grey-color;
   font-size: 0.875rem;
 }
+
+.more-links {}
+.more-links-info {
+  font-size: 0.875em;
+  font-weight: 600;
+
+  &:before {
+    content: " – ";
+  }
+}
