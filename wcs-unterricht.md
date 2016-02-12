@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Unterricht in Hamburg
+title: West Coast Swing Unterricht in Hamburg
 headline: West Coast Swing in Unterricht
 permalink: /wcs-unterricht/
 excerpt: >

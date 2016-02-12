@@ -1,6 +1,6 @@
 ---
 layout: page
-title: West Coast Swing
+title: West Coast Swing - Charakteristik und Geschichte
 headline: Was ist West Coast Swing?
 permalink: /west-coast-swing/
 excerpt: >

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Events und Workshops
-headline: WCS Events und Workshops
+title: West Coast Swing Termine – Events und Workshops
+headline: West Coast Swing – Termine
 excerpt: >
   Hier erfahrt ihr, wo die nächsten West Coast Swing Workshops und Parties
   in und um Hamburg herum statt finden.
