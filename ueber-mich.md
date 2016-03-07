@@ -23,3 +23,7 @@ Ich bin im Jahre 2000 zum Tanzen gekommen und schon beim ersten Tanzkurs habe ic
 Bei mir ist Name Programm. Ich bin nicht nur oft auf Tanz-Parties und -Festivals zu finden, wo ich am liebsten mit allen Personen tanzen würde. Sondern auch mein Unterricht steht im Zeichen des *Social Dancings*.
 
 Warum mir das Social so wichtig ist? Weil man so das Führen und Folgen erst lernt und dabei nette Leute kennen lernt.
+
+## HeuteTanzen.de
+
+Seit März ist ein neues Projekt online, welches dir sagt [wo du was in Hamburg und bald Deutschland tanzen kannst](http://www.heutetanzen.de). Probiere es doch mal aus und gib uns Feedback. Wir versuchen **die** Plattform in Deutschland aufzubauen, wo Tänzer die Tanzveranstaltungen finden können, die sie suchen.
