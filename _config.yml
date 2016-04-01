@@ -33,6 +33,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.dancesocially.com" # the base hostname & protocol for your site
 twitter_username: Georg_Tavonius
 github_username:  Calamari
+googleplus_url: https://plus.google.com/u/0/100254305021076830105
 
 og_description: West Coast Swing in Hamburg mit Georg Tavonius. Blog, Infos und mehr.
 
