@@ -145,22 +145,22 @@ parties:
   #     name: Billies - Das Tanzstudio in Hamburg
   #     address: Stresemannstraße 374, Hamburg
   #     url: www.facebook.com/tanzstudio.billies/
-  -
-    date: 2016-03-12
-    title: Party @ Dance Your Life
-    url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
-    location:
-      name: ADTV Tanzschule Dance your Life
-      address: Osterrade 29, Hamburg
-      url: www.tanzschule-bergedorf.com
-  -
-    date: 2016-03-18
-    title: West Coast Friday
-    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
-    location:
-      name: ShowIsabel Edvardsson - DIE Tanzschule
-      address: Banksstr. 2b, 20097 Hamburg
-      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  # -
+  #   date: 2016-03-12
+  #   title: Party @ Dance Your Life
+  #   url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
+  #   location:
+  #     name: ADTV Tanzschule Dance your Life
+  #     address: Osterrade 29, Hamburg
+  #     url: www.tanzschule-bergedorf.com
+  # -
+  #   date: 2016-03-18
+  #   title: West Coast Friday
+  #   url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+  #   location:
+  #     name: ShowIsabel Edvardsson - DIE Tanzschule
+  #     address: Banksstr. 2b, 20097 Hamburg
+  #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
   -
     date: 2016-04-02
     title: Anchor Saturday
@@ -211,28 +211,36 @@ parties:
       url: www.tanzschule-bergedorf.com
   -
     date: 2016-05-20
-    month: Mai
     title: West Coast Friday
     url: www.julianundjuliane.de/termine/west-coast-swing-partys/
     location:
       name: Isabel Edvardsson - DIE TanzscIsabel Edvardsson - DIE Tanzschule
       address: Banksstr. 2b, 20097 Hamburg
       url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
-  # -
-  #   day: 4
-  #   month: Jun
-  #   title: Anchor Saturday
-  #   url: www.facebook.com/events/204216419925053/
-  # -
-  #   day: 11
-  #   month: Jun
-  #   title: Party @ Dance Your Life
-  #   url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
-  # -
-  #   day: 24
-  #   month: Jun
-  #   title: West Coast Friday
-  #   url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+  -
+    date: 2016-06-04
+    title: Anchor Saturday
+    url: www.facebook.com/events/204216419925053/
+    location:
+      name: Billies - Das Tanzstudio in Hamburg
+      address: Stresemannstraße 374, Hamburg
+      url: www.facebook.com/tanzstudio.billies/
+  -
+    date: 2016-06-11
+    title: Party @ Dance Your Life
+    url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
+    location:
+      name: ADTV Tanzschule Dance your Life
+      address: Osterrade 29, Hamburg
+      url: www.tanzschule-bergedorf.com
+  -
+    date: 2016-06-24
+    title: West Coast Friday
+    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+    location:
+      name: Isabel Edvardsson - DIE TanzscIsabel Edvardsson - DIE Tanzschule
+      address: Banksstr. 2b, 20097 Hamburg
+      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
   # -
   #   day: 9
   #   month: Jul
@@ -353,16 +361,16 @@ workshops:
       address: Warschau, Polen
 
 workshops_suggestions:
-  -
-    date: 2016-03-31
-    endDate: 2016-03-03
-    title: UK & European West Coast Swing Championship
-    url: http://www.jiveaddiction.com/cms/index.php?option=com_content&task=view&id=135&Itemid=26
-    description: Das älteste europäische WSDC-Registry Event. Dies war auch gleichzeitig mein erste West Coast Swing Event. Da habe ich großartige Menschen und meine Liebe zum West Coast Swing kennen gelernt.
-    location:
-      name:  Radisson Blu Edwardian Hotel
-      address: Bath Road, Heathrow, Hayes, Middx, UB3 5AW
-      url: http://www.radissonblu-edwardian.com/middlesex-hotel-gb-ub3-5aw/gbedwair/area/tofromhotel/detail
+  # -
+  #   date: 2016-03-31
+  #   endDate: 2016-03-03
+  #   title: UK & European West Coast Swing Championship
+  #   url: http://www.jiveaddiction.com/cms/index.php?option=com_content&task=view&id=135&Itemid=26
+  #   description: Das älteste europäische WSDC-Registry Event. Dies war auch gleichzeitig mein erste West Coast Swing Event. Da habe ich großartige Menschen und meine Liebe zum West Coast Swing kennen gelernt.
+  #   location:
+  #     name:  Radisson Blu Edwardian Hotel
+  #     address: Bath Road, Heathrow, Hayes, Middx, UB3 5AW
+  #     url: http://www.radissonblu-edwardian.com/middlesex-hotel-gb-ub3-5aw/gbedwair/area/tofromhotel/detail
   -
     date: 2016-06-03
     endDate: 2016-06-06
