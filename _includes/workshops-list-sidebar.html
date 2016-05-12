@@ -7,7 +7,7 @@
       {% else %}
         <time class="event-date"><em>{{ event.day }}</em> {{ event.month }}</time>
       {% endif %}
-      <a itemprop="url" href="http://{{ event.url }}"><strong itemprop="name">{{ event.title }}</strong></a>
+      <a itemprop="url" href="http://{{ event.url }}" rel="nofollow"><strong itemprop="name">{{ event.title }}</strong></a>
       <span style="position:absolute;" itemprop="location" itemscope itemtype="http://schema.org/Place">
         <meta itemprop="name" content="{{ event.location.name }}">
         <meta itemprop="address" content="{{ event.location.address }}">

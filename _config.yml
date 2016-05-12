@@ -87,6 +87,31 @@ markdown: kramdown
 #     name: Eric B. Jacobson
 #     url: www.nakedbasics.com
 
+event_promo:
+  date: 2016-06-18T18:00+02:00
+  endDate: 2016-06-18T22:00+01:00
+  title: WCS Mid-Week Workshop & Party mit Eric Jacobson
+  image: www.dancesocially.com/assets/fb-eric-intensive-2.jpg
+  url: www.facebook.com/events/181004265631971/
+  description: Eric ist nächste Woche auf durchdreise in Hamburg und da lassen wir es uns nicht nehmen ihn für einen Abend als Trainer für einen Workshop einzuspannen. Julian und Juliane haben sich bereit erklärt ihre üblichen Tanzraum dafür zu Verfügung zu stellen und das Billies erlaubt uns sogar eine Party im Anschluss zu machen.
+  location:
+    name: Billies - Das Tanzstudio in Hamburg
+    address: Stresemannstraße 374, Hamburg
+    url: www.facebook.com/tanzstudio.billies/
+  offers:
+    -
+      name: 1 Workshop (inkl Party)
+      price: 14
+    -
+      name: 2 Workshops (inkl Party)
+      price: 23
+    -
+      name: Party only
+      price: 3
+  performer:
+    name: Eric B. Jacobson
+    url: www.nakedbasics.com
+
 parties:
   # -
   #   day: 19
@@ -194,14 +219,14 @@ parties:
   #     name: Tanzschule Heiko Stender
   #     address: Tibarg 40, 22459 Hamburg
   #     url: www.tanzschule-stender.de
-  -
-    date: 2016-05-07
-    title: Anchor Saturday
-    url: www.facebook.com/events/154215528284072/
-    location:
-      name: Billies - Das Tanzstudio in Hamburg
-      address: Stresemannstraße 374, Hamburg
-      url: www.facebook.com/tanzstudio.billies/
+  # -
+  #   date: 2016-05-07
+  #   title: Anchor Saturday
+  #   url: www.facebook.com/events/154215528284072/
+  #   location:
+  #     name: Billies - Das Tanzstudio in Hamburg
+  #     address: Stresemannstraße 374, Hamburg
+  #     url: www.facebook.com/tanzstudio.billies/
   -
     date: 2016-05-14
     title: Party @ Dance Your Life
@@ -210,6 +235,14 @@ parties:
       name: ADTV Tanzschule Dance your Life
       address: Osterrade 29, Hamburg
       url: www.tanzschule-bergedorf.com
+  -
+    date: 2016-05-18
+    title: Mid-Week Workshop + Party
+    url: www.facebook.com/events/181004265631971/
+    location:
+      name: Billies - Das Tanzstudio in Hamburg
+      address: Stresemannstraße 374, Hamburg
+      url: www.facebook.com/tanzstudio.billies/
   -
     date: 2016-05-20
     title: West Coast Friday
