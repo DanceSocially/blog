@@ -6,7 +6,7 @@ categories: events workshops
 ---
 Das Intensive mit Eric im letzten August war ein voller Erfolg und viele der Teilnehmer vom letzten Event, haben schon nachgefragt, wann Eric denn wieder kommt. Und nach etwas über sieben Monaten ist es dann soweit: Wir holen Eric Jacobson zurück aus San Francisco für eine weitere Auflage eines [lehrreichen Intensiv-Workshop](https://www.facebook.com/events/525957427586577). Zusammen mit Eric werden wir weiter an unseren Bewegungen, der Balance, der Verbindung und der musikalischen Interpretation arbeiten.
 
-## Das letze Mal
+## Das letzte Mal
 
 Bevor wir Eric eingeladen hatten, kannte ich ihn selber noch nicht persönlich und konnte ihn nur durch meine Facebook Chats ein wenig einschätzen. Das, was er mir erzählte, klang nach genau dem, was die deutsche West Coast Swing-Community benötigte. Und es funktionierte, alle waren begeistert! Über 7 Stunden haben wir zusammen gerade gestanden, sind auf und ab gelaufen, haben gelernt, was Connection wirklich bedeutet und im großen Finale nicht nur efahren, wie 90% aller gängigen Pop Stücke zu denen wir tanzen aufgebaut sind, sondern auch wie man dies Nutzen kann, um tänzerisch eine Story daraus zu stricken.
 
