@@ -267,14 +267,14 @@ parties:
   #     name: Billies - Das Tanzstudio in Hamburg
   #     address: Stresemannstraße 374, Hamburg
   #     url: www.facebook.com/tanzstudio.billies/
-  -
-    date: 2016-06-11
-    title: Party @ Dance Your Life
-    url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
-    location:
-      name: ADTV Tanzschule Dance your Life
-      address: Osterrade 29, Hamburg
-      url: www.tanzschule-bergedorf.com
+  # -
+  #   date: 2016-06-11
+  #   title: Party @ Dance Your Life
+  #   url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
+  #   location:
+  #     name: ADTV Tanzschule Dance your Life
+  #     address: Osterrade 29, Hamburg
+  #     url: www.tanzschule-bergedorf.com
   -
     date: 2016-06-24
     title: West Coast Friday
