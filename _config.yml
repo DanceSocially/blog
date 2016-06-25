@@ -275,14 +275,14 @@ parties:
   #     name: ADTV Tanzschule Dance your Life
   #     address: Osterrade 29, Hamburg
   #     url: www.tanzschule-bergedorf.com
-  -
-    date: 2016-06-24
-    title: West Coast Friday
-    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
-    location:
-      name: Isabel Edvardsson - DIE TanzscIsabel Edvardsson - DIE Tanzschule
-      address: Banksstr. 2b, 20097 Hamburg
-      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  # -
+  #   date: 2016-06-24
+  #   title: West Coast Friday
+  #   url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+  #   location:
+  #     name: Isabel Edvardsson - DIE TanzscIsabel Edvardsson - DIE Tanzschule
+  #     address: Banksstr. 2b, 20097 Hamburg
+  #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
   -
     date: 2016-07-02
     title: Anchor Saturday
@@ -291,14 +291,14 @@ parties:
       name: Billies - Das Tanzstudio in Hamburg
       address: Stresemannstraße 374, Hamburg
       url: www.facebook.com/tanzstudio.billies/
-  -
-    date: 2016-07-09
-    title: Party @ Dance Your Life
-    url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
-    location:
-      name: ADTV Tanzschule Dance your Life
-      address: Osterrade 29, Hamburg
-      url: www.tanzschule-bergedorf.com
+  # -
+  #   date: 2016-07-09
+  #   title: Party @ Dance Your Life
+  #   url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
+  #   location:
+  #     name: ADTV Tanzschule Dance your Life
+  #     address: Osterrade 29, Hamburg
+  #     url: www.tanzschule-bergedorf.com
   -
     date: 2016-07-15
     title: West Coast Friday
@@ -315,14 +315,14 @@ parties:
       name: Billies - Das Tanzstudio in Hamburg
       address: Stresemannstraße 374, Hamburg
       url: www.facebook.com/tanzstudio.billies/
-  -
-    date: 2016-08-13
-    title: Party @ Dance Your Life
-    url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
-    location:
-      name: ADTV Tanzschule Dance your Life
-      address: Osterrade 29, Hamburg
-      url: www.tanzschule-bergedorf.com
+  # -
+  #   date: 2016-08-13
+  #   title: Party @ Dance Your Life
+  #   url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
+  #   location:
+  #     name: ADTV Tanzschule Dance your Life
+  #     address: Osterrade 29, Hamburg
+  #     url: www.tanzschule-bergedorf.com
   -
     date: 2016-08-19
     title: West Coast Friday
@@ -427,15 +427,15 @@ workshops:
   #     name: Scandic Gdansk
   #     address: Podwale Grodzkie 9, 80-895 Gdansk, Poland
   #     url: https://www.scandichotels.com/hotels/poland/gdansk/scandic-gdansk
-  -
-    date: 2016-06-16
-    endDate: 2016-06-19
-    title: D-Town Swing
-    url: d-townswing.com
-    description: Das Event mit dem hochkarätigsten Line-Ups in Deutschland (und vielleicht sogar in Europa). Top Pros geben großartige Workshops. Ein WSDC-Registry Event mit einer vielzahl verschiedenster Competitions.
-    location:
-      name: Boston-Club
-      address: Vennhauser Allee 135, 40627 Düsseldorf
+  # -
+  #   date: 2016-06-16
+  #   endDate: 2016-06-19
+  #   title: D-Town Swing
+  #   url: d-townswing.com
+  #   description: Das Event mit dem hochkarätigsten Line-Ups in Deutschland (und vielleicht sogar in Europa). Top Pros geben großartige Workshops. Ein WSDC-Registry Event mit einer vielzahl verschiedenster Competitions.
+  #   location:
+  #     name: Boston-Club
+  #     address: Vennhauser Allee 135, 40627 Düsseldorf
   -
     date: 2016-07-01
     endDate: 2016-07-03
