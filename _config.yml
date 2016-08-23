@@ -160,7 +160,7 @@ parties:
   #   title: West Coast Friday
   #   url: www.julianundjuliane.de/termine/west-coast-swing-partys/
   #   location:
-  #     name: Isabel Edvardsson - DIE Tanzschule
+  #     name: Isabel Edvardsson - Die Tanzschule
   #     address: Banksstr. 2b, 20097 Hamburg
   #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
   # -
@@ -184,7 +184,7 @@ parties:
   #   title: West Coast Friday
   #   url: www.julianundjuliane.de/termine/west-coast-swing-partys/
   #   location:
-  #     name: ShowIsabel Edvardsson - DIE Tanzschule
+  #     name: ShowIsabel Edvardsson - Die Tanzschule
   #     address: Banksstr. 2b, 20097 Hamburg
   #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
   # -
@@ -208,7 +208,7 @@ parties:
   #   title: West Coast Friday
   #   url: www.julianundjuliane.de/termine/west-coast-swing-partys/
   #   location:
-  #     name: Isabel Edvardsson - DIE TanzscIsabel Edvardsson - DIE Tanzschule
+  #     name: Isabel Edvardsson - Die Tanzschule
   #     address: Banksstr. 2b, 20097 Hamburg
   #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
   # -
@@ -248,7 +248,7 @@ parties:
   #   title: West Coast Friday
   #   url: www.julianundjuliane.de/termine/west-coast-swing-partys/
   #   location:
-  #     name: Isabel Edvardsson - DIE TanzscIsabel Edvardsson - DIE Tanzschule
+  #     name: Isabel Edvardsson - Die Tanzschule
   #     address: Banksstr. 2b, 20097 Hamburg
   #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
   # -
@@ -280,17 +280,17 @@ parties:
   #   title: West Coast Friday
   #   url: www.julianundjuliane.de/termine/west-coast-swing-partys/
   #   location:
-  #     name: Isabel Edvardsson - DIE TanzscIsabel Edvardsson - DIE Tanzschule
+  #     name: Isabel Edvardsson - Die Tanzschule
   #     address: Banksstr. 2b, 20097 Hamburg
   #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
-  -
-    date: 2016-07-02
-    title: Anchor Saturday
-    url: www.facebook.com/events/204216419925053/
-    location:
-      name: Billies - Das Tanzstudio in Hamburg
-      address: Stresemannstraße 374, Hamburg
-      url: www.facebook.com/tanzstudio.billies/
+  # -
+  #   date: 2016-07-02
+  #   title: Anchor Saturday
+  #   url: www.facebook.com/events/204216419925053/
+  #   location:
+  #     name: Billies - Das Tanzstudio in Hamburg
+  #     address: Stresemannstraße 374, Hamburg
+  #     url: www.facebook.com/tanzstudio.billies/
   # -
   #   date: 2016-07-09
   #   title: Party @ Dance Your Life
@@ -299,36 +299,116 @@ parties:
   #     name: ADTV Tanzschule Dance your Life
   #     address: Osterrade 29, Hamburg
   #     url: www.tanzschule-bergedorf.com
+  # -
+  #   date: 2016-07-15
+  #   title: West Coast Friday
+  #   url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+  #   location:
+  #     name: Isabel Edvardsson - Die Tanzschule
+  #     address: Banksstr. 2b, 20097 Hamburg
+  #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  # -
+  #   date: 2016-08-06
+  #   title: Anchor Saturday
+  #   url: www.facebook.com/events/204216419925053/
+  #   location:
+  #     name: Billies - Das Tanzstudio in Hamburg
+  #     address: Stresemannstraße 374, Hamburg
+  #     url: www.facebook.com/tanzstudio.billies/
+  # -
+  #   date: 2016-08-19
+  #   title: West Coast Friday
+  #   url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+  #   location:
+  #     name: Isabel Edvardsson - Die Tanzschule
+  #     address: Banksstr. 2b, 20097 Hamburg
+  #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
   -
-    date: 2016-07-15
-    title: West Coast Friday
-    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+    date: 2016-08-26
+    title: Swing Your Life PreParty
+    url: www.facebook.com/events/116366665460589/
     location:
-      name: Isabel Edvardsson - DIE TanzscIsabel Edvardsson - DIE Tanzschule
-      address: Banksstr. 2b, 20097 Hamburg
-      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+      name: ADTV Tanzschule Dance your Life
+      address: Osterrade 29, Hamburg
+      url: www.tanzschule-bergedorf.com
   -
-    date: 2016-08-06
-    title: Anchor Saturday
-    url: www.facebook.com/events/204216419925053/
+    date: 2016-08-27
+    title: Swing Your Life Party + Zouk im zweiten Floor
+    url: www.facebook.com/events/1721105738141809/
+    location:
+      name: ADTV Tanzschule Dance your Life
+      address: Osterrade 29, Hamburg
+      url: www.tanzschule-bergedorf.com
+  -
+    date: 2016-09-03
+    title: TAF West Coast Swing German Master Nord Tanzparty
+    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
     location:
       name: Billies - Das Tanzstudio in Hamburg
       address: Stresemannstraße 374, Hamburg
       url: www.facebook.com/tanzstudio.billies/
-  # -
-  #   date: 2016-08-13
-  #   title: Party @ Dance Your Life
-  #   url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
-  #   location:
-  #     name: ADTV Tanzschule Dance your Life
-  #     address: Osterrade 29, Hamburg
-  #     url: www.tanzschule-bergedorf.com
   -
-    date: 2016-08-19
+    date: 2016-09-16
     title: West Coast Friday
     url: www.julianundjuliane.de/termine/west-coast-swing-partys/
     location:
-      name: Isabel Edvardsson - DIE TanzscIsabel Edvardsson - DIE Tanzschule
+      name: Isabel Edvardsson - Die Tanzschule
+      address: Banksstr. 2b, 20097 Hamburg
+      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  -
+    date: 2016-10-01
+    title: Anchor Saturday mit Girls vs Boys Tanzbattle
+    url: www.facebook.com/events/204216419925053/
+    location:
+      name: Isabel Edvardsson - Die Tanzschule
+      address: Banksstr. 2b, 20097 Hamburg
+      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  -
+    date: 2016-10-21
+    title: West Coast Friday
+    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+    location:
+      name: Isabel Edvardsson - Die Tanzschule
+      address: Banksstr. 2b, 20097 Hamburg
+      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  -
+    date: 2016-10-21
+    title: UNIDANCA - West Coast Swing Party
+    url: www.unidance.de
+    location:
+      name: ETV Hamburg
+      address: Bundesstrasse 96, 20144 Hamburg
+      url: web.etv.hamburg
+  -
+    date: 2016-11-05
+    title: Anchor Saturday
+    url: www.facebook.com/events/204216419925053/
+    location:
+      name: Isabel Edvardsson - Die Tanzschule
+      address: Banksstr. 2b, 20097 Hamburg
+      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  -
+    date: 2016-11-18
+    title: West Coast Friday
+    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+    location:
+      name: Isabel Edvardsson - Die Tanzschule
+      address: Banksstr. 2b, 20097 Hamburg
+      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  -
+    date: 2016-12-03
+    title: Anchor Saturday
+    url: www.facebook.com/events/204216419925053/
+    location:
+      name: Isabel Edvardsson - Die Tanzschule
+      address: Banksstr. 2b, 20097 Hamburg
+      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  -
+    date: 2016-12-16
+    title: West Coast Friday
+    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+    location:
+      name: Isabel Edvardsson - Die Tanzschule
       address: Banksstr. 2b, 20097 Hamburg
       url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
   # -
@@ -436,16 +516,36 @@ workshops:
   #   location:
   #     name: Boston-Club
   #     address: Vennhauser Allee 135, 40627 Düsseldorf
+  # -
+  #   date: 2016-07-01
+  #   endDate: 2016-07-03
+  #   title: NeverlandSwing III
+  #   url: www.facebook.com/profile.php?id=1123632157652382
+  #   description: Ein kleines aber schönes West Coast Swing Event in den Niederlanden.
+  #   location:
+  #     name: Candance Studios
+  #     address: Van Cleeffkade 15, 1431 BA Aalsmeer
+  #     url: www.facebook.com/pages/Candance-Studios/156103024459113
   -
-    date: 2016-07-01
-    endDate: 2016-07-03
-    title: NeverlandSwing III
-    url: www.facebook.com/profile.php?id=1123632157652382
-    description: Ein kleines aber schönes West Coast Swing Event in den Niederlanden.
+    date: 2016-08-27
+    endDate: 2016-08-28
+    title: Swing Your Life
+    url: www.tanzschule-bergedorf.com/swing-your-life/
+    description: 7 Trainer an 2 Tagen. Und es wird auch eine Zouk Party im zweiten Saal zum Schnuppern geben.
     location:
-      name: Candance Studios
-      address: Van Cleeffkade 15, 1431 BA Aalsmeer
-      url: www.facebook.com/pages/Candance-Studios/156103024459113
+      name: ADTV Tanzschule Dance your Life
+      address: Osterrade 29, Hamburg
+      url: www.tanzschule-bergedorf.com
+  -
+    date: 2016-09-30
+    endDate: 2016-10-02
+    title: Old Town Swing
+    url: oldtowndance.com
+    description: Tanzen in Estlands Hauptstadt Tallinn. Sicher eine Reise wert.
+    location:
+      name: Euphorie Danec Studio
+      address: Niine 11, 10414 Tallinn
+      url: oldtowndance.com/location
   -
     date: 2016-10-27
     endDate: 2016-10-31
@@ -467,25 +567,25 @@ workshops_suggestions:
   #     name:  Radisson Blu Edwardian Hotel
   #     address: Bath Road, Heathrow, Hayes, Middx, UB3 5AW
   #     url: http://www.radissonblu-edwardian.com/middlesex-hotel-gb-ub3-5aw/gbedwair/area/tofromhotel/detail
-  -
-    date: 2016-07-09
-    endDate: 2016-07-15
-    title: Westie on the Promenade
-    url: westie.balboaonthepromenade.com
-    description: Ein reines Social-Event. Eine Woche Strand, Sonne und tanzen, tanzen, tanzen. Es gibt die ganze Woche Workshops und einige Themenbasierte Zusatzworkshops, für diejeningen, die nicht genug bekommen.
-    location:
-      name: Office de Tourisme et des Congrès
-      address: 36 Boulevard des Ecureuils, 06210 Mandelieu-La Napoule, Frankreich
-  -
-    date: 2016-07-22
-    endDate: 2016-07-24
-    title: Jurassic Swing
-    url: www.jurassic-swing.com
-    description: Das erste West Coast Swing Event in Deutschland, welches in einem Naturerlebnispark statt findet.
-    location:
-      name: Panarbora
-      address: Nutscheidstr. 1, 51545 Waldbröl
-      url: www.panarbora.de
+  # -
+  #   date: 2016-07-09
+  #   endDate: 2016-07-15
+  #   title: Westie on the Promenade
+  #   url: westie.balboaonthepromenade.com
+  #   description: Ein reines Social-Event. Eine Woche Strand, Sonne und tanzen, tanzen, tanzen. Es gibt die ganze Woche Workshops und einige Themenbasierte Zusatzworkshops, für diejeningen, die nicht genug bekommen.
+  #   location:
+  #     name: Office de Tourisme et des Congrès
+  #     address: 36 Boulevard des Ecureuils, 06210 Mandelieu-La Napoule, Frankreich
+  # -
+  #   date: 2016-07-22
+  #   endDate: 2016-07-24
+  #   title: Jurassic Swing
+  #   url: www.jurassic-swing.com
+  #   description: Das erste West Coast Swing Event in Deutschland, welches in einem Naturerlebnispark statt findet.
+  #   location:
+  #     name: Panarbora
+  #     address: Nutscheidstr. 1, 51545 Waldbröl
+  #     url: www.panarbora.de
   -
     date: 2016-08-30
     endDate: 2016-09-06

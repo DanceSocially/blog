@@ -16,7 +16,7 @@ sidebar:
 
 Der nächste Kurseinstieg für absolute West Coast Swing Einsteiger ist hier möglich:
 
-**Neuer West Coast Swing Starter Kurs beginnt am 14.7.2016** um 19 Uhr bei [Tanzschule Dance your Life](http://www.tanzschule-bergedorf.com). Wer sich unsicher ist, ob West Coast Swing für einen ist, dann komm einfach vorbei oder mach mit bei dem **Einsteiger-Workshop am 9.7.2016 um 20 Uhr**. Direkt im Anschluss findet dann die Tanz-Party statt, bei der das gelernte gleich angewandt und gefestigt werden kann. Ausserdem ist das immer ein Höllen Spaß.
+**Neuer West Coast Swing Starter Kurs beginnt Anfang September** um 19 Uhr bei [Tanzschule Dance your Life](http://www.tanzschule-bergedorf.com). Wer sich unsicher ist, ob West Coast Swing für einen ist, dann komm einfach vorbei oder mach mit bei dem **Einsteiger-Workshop am 27.8.2016 um 20 Uhr**. Direkt im Anschluss findet dann die Tanz-Party statt, bei der das gelernte gleich angewandt und gefestigt werden kann. Ausserdem ist das immer ein höllen Spaß.
 
 
 Derzeit laufende Kurse in denen ein Einstieg möglich ist, wenn Vorkenntnisse vorhanden sind, finden bei [Tanzschule Dance your Life](http://www.tanzschule-bergedorf.com) statt:
@@ -30,6 +30,15 @@ Weitere Kurse sind in Planung und werden hier gegebenenfalls veröffentlicht. [O
 
 Für Privatstunden (Einzel- oder Gruppenunterricht) oder Workshops [könnt ihr mich auch gerne Buchen](#contact-form).
 
+## Swing your Life
+
+Weil Tänze mischen ganz spaßig ist, wird es auf dem [Swing your Life-Event](http://www.swingyourlife.de) einen Swouk Workshop von mir geben. Swouk ist dabei ein Crossover aus West Coast Swing mit Zouk-Elementen. Aber nicht nur einen Swouk Workshop werd ich dort halten, auch den einen oder anderen reinrassigen West Coast Swing Workshop wird es auch geben.
+
+{% include course.html day="Swing your Life" time="27. - 28.8." title="WCS-Technik Workshop"%}  
+{% include course.html day="Swing your Life" time="27. - 28.8." title="WCS-Level 1 Workshop"%}  
+{% include course.html day="Swing your Life" time="27. - 28.8." title="WCS-Level 2 Workshop"%}  
+{% include course.html day="Swing your Life" time="27. - 28.8." title="Swouk Workshop"%}  
+{% include course.html day="Swing your Life" time="27.8. um 20 Uhr" title="WCS Einsteiger-Workshop"%}  
 
 ## Lerne Standard / Latein oder Discofox
 
