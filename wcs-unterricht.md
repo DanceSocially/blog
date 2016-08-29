@@ -1,7 +1,7 @@
 ---
 layout: page
 title: West Coast Swing Unterricht in Hamburg
-headline: West Coast Swing in Unterricht
+headline: West Coast Swing Unterricht
 permalink: /wcs-unterricht/
 excerpt: >
   Hier erfahrt ihr, wo ihr West Coast Swing in Hamburg erlernen könnt
@@ -29,16 +29,6 @@ Weitere Kurse sind in Planung und werden hier gegebenenfalls veröffentlicht. [O
 ## Privatstunden und Workshops
 
 Für Privatstunden (Einzel- oder Gruppenunterricht) oder Workshops [könnt ihr mich auch gerne Buchen](#contact-form).
-
-## Swing your Life
-
-Weil Tänze mischen ganz spaßig ist, wird es auf dem [Swing your Life-Event](http://www.swingyourlife.de) einen Swouk Workshop von mir geben. Swouk ist dabei ein Crossover aus West Coast Swing mit Zouk-Elementen. Aber nicht nur einen Swouk Workshop werd ich dort halten, auch den einen oder anderen reinrassigen West Coast Swing Workshop wird es auch geben.
-
-{% include course.html day="Swing your Life" time="27. - 28.8." title="WCS-Technik Workshop"%}  
-{% include course.html day="Swing your Life" time="27. - 28.8." title="WCS-Level 1 Workshop"%}  
-{% include course.html day="Swing your Life" time="27. - 28.8." title="WCS-Level 2 Workshop"%}  
-{% include course.html day="Swing your Life" time="27. - 28.8." title="Swouk Workshop"%}  
-{% include course.html day="Swing your Life" time="27.8. um 20 Uhr" title="WCS Einsteiger-Workshop"%}  
 
 ## Lerne Standard / Latein oder Discofox
 

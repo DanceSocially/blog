@@ -323,22 +323,22 @@ parties:
   #     name: Isabel Edvardsson - Die Tanzschule
   #     address: Banksstr. 2b, 20097 Hamburg
   #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
-  -
-    date: 2016-08-26
-    title: Swing Your Life PreParty
-    url: www.facebook.com/events/116366665460589/
-    location:
-      name: ADTV Tanzschule Dance your Life
-      address: Osterrade 29, Hamburg
-      url: www.tanzschule-bergedorf.com
-  -
-    date: 2016-08-27
-    title: Swing Your Life Party + Zouk im zweiten Floor
-    url: www.facebook.com/events/1721105738141809/
-    location:
-      name: ADTV Tanzschule Dance your Life
-      address: Osterrade 29, Hamburg
-      url: www.tanzschule-bergedorf.com
+  # -
+  #   date: 2016-08-26
+  #   title: Swing Your Life PreParty
+  #   url: www.facebook.com/events/116366665460589/
+  #   location:
+  #     name: ADTV Tanzschule Dance your Life
+  #     address: Osterrade 29, Hamburg
+  #     url: www.tanzschule-bergedorf.com
+  # -
+  #   date: 2016-08-27
+  #   title: Swing Your Life Party + Zouk im zweiten Floor
+  #   url: www.facebook.com/events/1721105738141809/
+  #   location:
+  #     name: ADTV Tanzschule Dance your Life
+  #     address: Osterrade 29, Hamburg
+  #     url: www.tanzschule-bergedorf.com
   -
     date: 2016-09-03
     title: TAF West Coast Swing German Master Nord Tanzparty
@@ -526,16 +526,16 @@ workshops:
   #     name: Candance Studios
   #     address: Van Cleeffkade 15, 1431 BA Aalsmeer
   #     url: www.facebook.com/pages/Candance-Studios/156103024459113
-  -
-    date: 2016-08-27
-    endDate: 2016-08-28
-    title: Swing Your Life
-    url: www.tanzschule-bergedorf.com/swing-your-life/
-    description: 7 Trainer an 2 Tagen. Und es wird auch eine Zouk Party im zweiten Saal zum Schnuppern geben.
-    location:
-      name: ADTV Tanzschule Dance your Life
-      address: Osterrade 29, Hamburg
-      url: www.tanzschule-bergedorf.com
+  # -
+  #   date: 2016-08-27
+  #   endDate: 2016-08-28
+  #   title: Swing Your Life
+  #   url: www.tanzschule-bergedorf.com/swing-your-life/
+  #   description: 7 Trainer an 2 Tagen. Und es wird auch eine Zouk Party im zweiten Saal zum Schnuppern geben.
+  #   location:
+  #     name: ADTV Tanzschule Dance your Life
+  #     address: Osterrade 29, Hamburg
+  #     url: www.tanzschule-bergedorf.com
   -
     date: 2016-09-30
     endDate: 2016-10-02
