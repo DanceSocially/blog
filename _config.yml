@@ -547,10 +547,10 @@ workshops:
       address: Niine 11, 10414 Tallinn
       url: oldtowndance.com/location
   -
-    date: 2016-19-22
-    endDate: 2016-10-22
+    date: 2016-10-22
     title: WCS Intensive mit Gary Jobst
     url: www.julianundjuliane.de/termine/west-coast-swing-workshops/workshop-details-wcs-intensive-mit-gary-jobst
+    description: Ein Tag Intensive bei einem großartigen WCS-Tänzer und Judge.
     location:
       name: Isabel Edvardsson - Die Tanzschule
       address: Banksstr. 2b, 20097 Hamburg
@@ -621,6 +621,7 @@ workshops_suggestions:
     endDate: 2016-11-13
     title: Adam & Rita in Hamburg
     url: www.hansewhip.de
+    description: Die dritte Runde mit Adam und Rita in Hamburg.
     location:
       name: Tanzschule Heiko Stender
       address: Tibarg 40, 22459 Hamburg
@@ -630,6 +631,7 @@ workshops_suggestions:
     endDate: 2016-12-11
     title: Berlin Swing Revolution
     url: berlinswingrevolution.de/
+    description: Die Berlin Swing Revolution geht in die zweite Runde. Diesmal als WSDC-Registry Event.
     location:
       name: weRK36
       address: Tempelhofer Weg 70, 10829 Berlin-Schöneberg
@@ -639,6 +641,7 @@ workshops_suggestions:
     endDate: 2017-01-01
     title: SwingVester
     url: www.wcsaustria.com/swingvester-event/
+    description: DIE West Coast Swing Silvester-Party in Wien. Wer sich mit dem Code "wieneranker" anmeldet, bekommt auch 10€ Rabatt auf den Fullpass.
     location:
       name: Tanzschule Schwebach
       address: Maculangasse 1B, 1220 Wien
