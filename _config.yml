@@ -547,14 +547,24 @@ workshops:
       address: Niine 11, 10414 Tallinn
       url: oldtowndance.com/location
   -
+    date: 2016-19-22
+    endDate: 2016-10-22
+    title: WCS Intensive mit Gary Jobst
+    url: www.julianundjuliane.de/termine/west-coast-swing-workshops/workshop-details-wcs-intensive-mit-gary-jobst
+    location:
+      name: Isabel Edvardsson - Die Tanzschule
+      address: Banksstr. 2b, 20097 Hamburg
+      url: www.edvardsson-dietanzschule.de
+  -
     date: 2016-10-27
     endDate: 2016-10-31
     title: Warsaw Halloween Swing
     url: warsawhalloweenswing.com
     description: Gruseliges WSDC-Registry und Tanz-Event. Es besticht durch eine tolle Atmosphäre, sensationelle Kostüme und gute Workshops.
     location:
-      name: Somewhere
-      address: Warschau, Polen
+      name: The WESTIN Warsaw
+      address: Jana Pawla II 21, 00-854 Warsaw, Poland
+      url: www.facebook.com/the.westin.warsaw
 
 workshops_suggestions:
   # -
@@ -597,8 +607,8 @@ workshops_suggestions:
       address: Torrevieja, Spanien
       url: improteam.com/en/ssdc/place
   -
-    date: 2016-10-09
-    endDate: 2016-10-11
+    date: 2016-10-07
+    endDate: 2016-10-09
     title: West Coast Swing Festival Düsseldorf
     url: www.wcs-festival.de
     description: Der kleine Bruder des D-Town Swings. Ein paar weniger, aber großartige Trainer und nur zwei parallele Tracks. Aber dennoch ein großartige Event.
@@ -606,3 +616,30 @@ workshops_suggestions:
       name: Tanzschule Dresen
       address: Duisburger Strasse 95, 40479 Düsseldorf
       url: www.tanzschule-dresen.de
+  -
+    date: 2016-11-12
+    endDate: 2016-11-13
+    title: Adam & Rita in Hamburg
+    url: www.hansewhip.de
+    location:
+      name: Tanzschule Heiko Stender
+      address: Tibarg 40, 22459 Hamburg
+      url: www.tanzschule-stender.de
+  -
+    date: 2016-12-08
+    endDate: 2016-12-11
+    title: Berlin Swing Revolution
+    url: berlinswingrevolution.de/
+    location:
+      name: weRK36
+      address: Tempelhofer Weg 70, 10829 Berlin-Schöneberg
+      url: www.werk36.de
+  -
+    date: 2016-12-29
+    endDate: 2017-01-01
+    title: SwingVester
+    url: www.wcsaustria.com/swingvester-event/
+    location:
+      name: Tanzschule Schwebach
+      address: Maculangasse 1B, 1220 Wien
+      url: schwebach.at
