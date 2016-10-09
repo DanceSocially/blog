@@ -339,30 +339,30 @@ parties:
   #     name: ADTV Tanzschule Dance your Life
   #     address: Osterrade 29, Hamburg
   #     url: www.tanzschule-bergedorf.com
-  -
-    date: 2016-09-03
-    title: TAF West Coast Swing German Master Nord Tanzparty
-    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
-    location:
-      name: Billies - Das Tanzstudio in Hamburg
-      address: Stresemannstraße 374, Hamburg
-      url: www.facebook.com/tanzstudio.billies/
-  -
-    date: 2016-09-16
-    title: West Coast Friday
-    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
-    location:
-      name: Isabel Edvardsson - Die Tanzschule
-      address: Banksstr. 2b, 20097 Hamburg
-      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
-  -
-    date: 2016-10-01
-    title: Anchor Saturday mit Girls vs Boys Tanzbattle
-    url: www.facebook.com/events/204216419925053/
-    location:
-      name: Isabel Edvardsson - Die Tanzschule
-      address: Banksstr. 2b, 20097 Hamburg
-      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  # -
+  #   date: 2016-09-03
+  #   title: TAF West Coast Swing German Master Nord Tanzparty
+  #   url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+  #   location:
+  #     name: Billies - Das Tanzstudio in Hamburg
+  #     address: Stresemannstraße 374, Hamburg
+  #     url: www.facebook.com/tanzstudio.billies/
+  # -
+  #   date: 2016-09-16
+  #   title: West Coast Friday
+  #   url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+  #   location:
+  #     name: Isabel Edvardsson - Die Tanzschule
+  #     address: Banksstr. 2b, 20097 Hamburg
+  #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  # -
+  #   date: 2016-10-01
+  #   title: Anchor Saturday mit Girls vs Boys Tanzbattle
+  #   url: www.facebook.com/events/204216419925053/
+  #   location:
+  #     name: Isabel Edvardsson - Die Tanzschule
+  #     address: Banksstr. 2b, 20097 Hamburg
+  #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
   -
     date: 2016-10-21
     title: West Coast Friday
@@ -536,16 +536,16 @@ workshops:
   #     name: ADTV Tanzschule Dance your Life
   #     address: Osterrade 29, Hamburg
   #     url: www.tanzschule-bergedorf.com
-  -
-    date: 2016-09-30
-    endDate: 2016-10-02
-    title: Old Town Swing
-    url: oldtowndance.com
-    description: Tanzen in Estlands Hauptstadt Tallinn. Sicher eine Reise wert.
-    location:
-      name: Euphorie Danec Studio
-      address: Niine 11, 10414 Tallinn
-      url: oldtowndance.com/location
+  # -
+  #   date: 2016-09-30
+  #   endDate: 2016-10-02
+  #   title: Old Town Swing
+  #   url: oldtowndance.com
+  #   description: Tanzen in Estlands Hauptstadt Tallinn. Sicher eine Reise wert.
+  #   location:
+  #     name: Euphorie Danec Studio
+  #     address: Niine 11, 10414 Tallinn
+  #     url: oldtowndance.com/location
   -
     date: 2016-10-22
     title: WCS Intensive mit Gary Jobst
@@ -596,26 +596,26 @@ workshops_suggestions:
   #     name: Panarbora
   #     address: Nutscheidstr. 1, 51545 Waldbröl
   #     url: www.panarbora.de
-  -
-    date: 2016-08-30
-    endDate: 2016-09-06
-    title: Sunny Side Dance Camp
-    url: improteam.com/en/ssdc/home
-    description: Eine Woche Tanztraining in West Coast Swing und Zouk in Spanien.
-    location:
-      name: Hotel Cabo Cervera
-      address: Torrevieja, Spanien
-      url: improteam.com/en/ssdc/place
-  -
-    date: 2016-10-07
-    endDate: 2016-10-09
-    title: West Coast Swing Festival Düsseldorf
-    url: www.wcs-festival.de
-    description: Der kleine Bruder des D-Town Swings. Ein paar weniger, aber großartige Trainer und nur zwei parallele Tracks. Aber dennoch ein großartige Event.
-    location:
-      name: Tanzschule Dresen
-      address: Duisburger Strasse 95, 40479 Düsseldorf
-      url: www.tanzschule-dresen.de
+  # -
+  #   date: 2016-08-30
+  #   endDate: 2016-09-06
+  #   title: Sunny Side Dance Camp
+  #   url: improteam.com/en/ssdc/home
+  #   description: Eine Woche Tanztraining in West Coast Swing und Zouk in Spanien.
+  #   location:
+  #     name: Hotel Cabo Cervera
+  #     address: Torrevieja, Spanien
+  #     url: improteam.com/en/ssdc/place
+  # -
+  #   date: 2016-10-07
+  #   endDate: 2016-10-09
+  #   title: West Coast Swing Festival Düsseldorf
+  #   url: www.wcs-festival.de
+  #   description: Der kleine Bruder des D-Town Swings. Ein paar weniger, aber großartige Trainer und nur zwei parallele Tracks. Aber dennoch ein großartige Event.
+  #   location:
+  #     name: Tanzschule Dresen
+  #     address: Duisburger Strasse 95, 40479 Düsseldorf
+  #     url: www.tanzschule-dresen.de
   -
     date: 2016-11-12
     endDate: 2016-11-13

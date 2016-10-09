@@ -22,7 +22,6 @@ Der nächste Kurseinstieg für absolute West Coast Swing Einsteiger ist hier mö
 Derzeit laufende Kurse in denen ein Einstieg möglich ist, wenn Vorkenntnisse vorhanden sind, finden bei [Tanzschule Dance your Life](http://www.tanzschule-bergedorf.com) statt:
 
 {% include course.html day="Donnerstags" time="19-20 Uhr" title="West Coast Swing Starter"%}
-{% include course.html day="Donnerstags" time="21-22 Uhr" title="West Coast Swing Club"%}
 
 Weitere Kurse sind in Planung und werden hier gegebenenfalls veröffentlicht. [Oder schreibt mir](#contact-form) bei Interesse. Ich informiere euch gerne per E-Mail über neue Kurse oder gebe euch Empfehlungen wo ihr sonst noch _West Coast Swing_ tanzen könnt.
 
