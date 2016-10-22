@@ -363,22 +363,22 @@ parties:
   #     name: Isabel Edvardsson - Die Tanzschule
   #     address: Banksstr. 2b, 20097 Hamburg
   #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
-  -
-    date: 2016-10-21
-    title: West Coast Friday
-    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
-    location:
-      name: Isabel Edvardsson - Die Tanzschule
-      address: Banksstr. 2b, 20097 Hamburg
-      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
-  -
-    date: 2016-10-21
-    title: UNIDANCA - West Coast Swing Party
-    url: www.unidance.de
-    location:
-      name: ETV Hamburg
-      address: Bundesstrasse 96, 20144 Hamburg
-      url: web.etv.hamburg
+  # -
+  #   date: 2016-10-21
+  #   title: West Coast Friday
+  #   url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+  #   location:
+  #     name: Isabel Edvardsson - Die Tanzschule
+  #     address: Banksstr. 2b, 20097 Hamburg
+  #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  # -
+  #   date: 2016-10-21
+  #   title: UNIDANCA - West Coast Swing Party
+  #   url: www.unidance.de
+  #   location:
+  #     name: ETV Hamburg
+  #     address: Bundesstrasse 96, 20144 Hamburg
+  #     url: web.etv.hamburg
   -
     date: 2016-11-05
     title: Anchor Saturday
@@ -387,6 +387,22 @@ parties:
       name: Isabel Edvardsson - Die Tanzschule
       address: Banksstr. 2b, 20097 Hamburg
       url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  -
+    date: 2016-11-11
+    title: Swing Your Life Party + Zouk Dual-Party
+    url: www.facebook.com/events/866263893508586/
+    location:
+      name: ADTV Tanzschule Dance your Life
+      address: Osterrade 29, Hamburg
+      url: www.tanzschule-bergedorf.com
+  -
+    date: 2016-11-12
+    title: WCS-Party mit Adam & Rita (3rd Heat)
+    url: www.facebook.com/events/835633903229945/
+    location:
+      name: Tanzschule Heiko Stender
+      address: Tibarg 40, 22459 Hamburg
+      url: www.tanzschule-stender.de
   -
     date: 2016-11-18
     title: West Coast Friday
@@ -546,25 +562,35 @@ workshops:
   #     name: Euphorie Danec Studio
   #     address: Niine 11, 10414 Tallinn
   #     url: oldtowndance.com/location
+  # -
+  #   date: 2016-10-22
+  #   title: WCS Intensive mit Gary Jobst
+  #   url: www.julianundjuliane.de/termine/west-coast-swing-workshops/workshop-details-wcs-intensive-mit-gary-jobst
+  #   description: Ein Tag Intensive bei einem großartigen WCS-Tänzer und Judge.
+  #   location:
+  #     name: Isabel Edvardsson - Die Tanzschule
+  #     address: Banksstr. 2b, 20097 Hamburg
+  #     url: www.edvardsson-dietanzschule.de
   -
-    date: 2016-10-22
-    title: WCS Intensive mit Gary Jobst
-    url: www.julianundjuliane.de/termine/west-coast-swing-workshops/workshop-details-wcs-intensive-mit-gary-jobst
-    description: Ein Tag Intensive bei einem großartigen WCS-Tänzer und Judge.
+    date: 2016-12-29
+    endDate: 2017-01-01
+    title: SwingVester
+    url: www.wcsaustria.com/swingvester-event/
+    description: DIE West Coast Swing Silvester-Party in Wien. Wer sich mit dem Code "wieneranker" anmeldet, bekommt auch 10€ Rabatt auf den Fullpass.
     location:
-      name: Isabel Edvardsson - Die Tanzschule
-      address: Banksstr. 2b, 20097 Hamburg
-      url: www.edvardsson-dietanzschule.de
+      name: Tanzschule Schwebach
+      address: Maculangasse 1B, 1220 Wien
+      url: schwebach.at
   -
-    date: 2016-10-27
-    endDate: 2016-10-31
-    title: Warsaw Halloween Swing
-    url: warsawhalloweenswing.com
-    description: Gruseliges WSDC-Registry und Tanz-Event. Es besticht durch eine tolle Atmosphäre, sensationelle Kostüme und gute Workshops.
+    date: 2017-01-04
+    endDate: 2017-01-08
+    title: Budafest
+    url: wcs-budafest.com/
+    description: Eins der größten WCS Events in Europa. Jedes Jahr eine Reise wert. Großartige Organisation.
     location:
-      name: The WESTIN Warsaw
-      address: Jana Pawla II 21, 00-854 Warsaw, Poland
-      url: www.facebook.com/the.westin.warsaw
+      name: Hotel InterContinental Budapest
+      address: APÁCZAI CSERE J. U. 12-14., BUDAPEST, 1052
+      url: www.budapest.intercontinental.com/
 
 workshops_suggestions:
   # -
@@ -617,6 +643,16 @@ workshops_suggestions:
   #     address: Duisburger Strasse 95, 40479 Düsseldorf
   #     url: www.tanzschule-dresen.de
   -
+    date: 2016-10-27
+    endDate: 2016-10-31
+    title: Warsaw Halloween Swing
+    url: warsawhalloweenswing.com
+    description: Gruseliges WSDC-Registry und Tanz-Event. Es besticht durch eine tolle Atmosphäre, sensationelle Kostüme und gute Workshops.
+    location:
+      name: The WESTIN Warsaw
+      address: Jana Pawla II 21, 00-854 Warsaw, Poland
+      url: www.facebook.com/the.westin.warsaw
+  -
     date: 2016-11-12
     endDate: 2016-11-13
     title: Adam & Rita in Hamburg
@@ -636,13 +672,3 @@ workshops_suggestions:
       name: weRK36
       address: Tempelhofer Weg 70, 10829 Berlin-Schöneberg
       url: www.werk36.de
-  -
-    date: 2016-12-29
-    endDate: 2017-01-01
-    title: SwingVester
-    url: www.wcsaustria.com/swingvester-event/
-    description: DIE West Coast Swing Silvester-Party in Wien. Wer sich mit dem Code "wieneranker" anmeldet, bekommt auch 10€ Rabatt auf den Fullpass.
-    location:
-      name: Tanzschule Schwebach
-      address: Maculangasse 1B, 1220 Wien
-      url: schwebach.at
