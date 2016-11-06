@@ -379,14 +379,14 @@ parties:
   #     name: ETV Hamburg
   #     address: Bundesstrasse 96, 20144 Hamburg
   #     url: web.etv.hamburg
-  -
-    date: 2016-11-05
-    title: Anchor Saturday
-    url: www.facebook.com/events/204216419925053/
-    location:
-      name: Isabel Edvardsson - Die Tanzschule
-      address: Banksstr. 2b, 20097 Hamburg
-      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  # -
+  #   date: 2016-11-05
+  #   title: Anchor Saturday
+  #   url: www.facebook.com/events/204216419925053/
+  #   location:
+  #     name: Isabel Edvardsson - Die Tanzschule
+  #     address: Banksstr. 2b, 20097 Hamburg
+  #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
   -
     date: 2016-11-11
     title: Swing Your Life Party + Zouk Dual-Party
