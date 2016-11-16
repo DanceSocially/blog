@@ -387,22 +387,22 @@ parties:
   #     name: Isabel Edvardsson - Die Tanzschule
   #     address: Banksstr. 2b, 20097 Hamburg
   #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
-  -
-    date: 2016-11-11
-    title: Swing Your Life Party + Zouk Dual-Party
-    url: www.facebook.com/events/866263893508586/
-    location:
-      name: ADTV Tanzschule Dance your Life
-      address: Osterrade 29, Hamburg
-      url: www.tanzschule-bergedorf.com
-  -
-    date: 2016-11-12
-    title: WCS-Party mit Adam & Rita (3rd Heat)
-    url: www.facebook.com/events/835633903229945/
-    location:
-      name: Tanzschule Heiko Stender
-      address: Tibarg 40, 22459 Hamburg
-      url: www.tanzschule-stender.de
+  # -
+  #   date: 2016-11-11
+  #   title: Swing Your Life Party + Zouk Dual-Party
+  #   url: www.facebook.com/events/866263893508586/
+  #   location:
+  #     name: ADTV Tanzschule Dance your Life
+  #     address: Osterrade 29, Hamburg
+  #     url: www.tanzschule-bergedorf.com
+  # -
+  #   date: 2016-11-12
+  #   title: WCS-Party mit Adam & Rita (3rd Heat)
+  #   url: www.facebook.com/events/835633903229945/
+  #   location:
+  #     name: Tanzschule Heiko Stender
+  #     address: Tibarg 40, 22459 Hamburg
+  #     url: www.tanzschule-stender.de
   -
     date: 2016-11-18
     title: West Coast Friday
