@@ -21,7 +21,7 @@ Der nächste Kurseinstieg für absolute West Coast Swing Einsteiger ist hier mö
 
 Derzeit laufende Kurse in denen ein Einstieg möglich ist, wenn Vorkenntnisse vorhanden sind, finden bei [Tanzschule Dance your Life](http://www.tanzschule-bergedorf.com) statt:
 
-{% include course.html day="Donnerstags" time="19-20 Uhr" title="West Coast Swing Starter"%}
+{% include course.html day="Donnerstags" time="19-20:30 Uhr" title="West Coast Swing Basics"%}
 
 Weitere Kurse sind in Planung und werden hier gegebenenfalls veröffentlicht. [Oder schreibt mir](#contact-form) bei Interesse. Ich informiere euch gerne per E-Mail über neue Kurse oder gebe euch Empfehlungen wo ihr sonst noch _West Coast Swing_ tanzen könnt.
 
@@ -31,11 +31,7 @@ Für Privatstunden (Einzel- oder Gruppenunterricht) oder Workshops [könnt ihr m
 
 ## Lerne Standard / Latein oder Discofox
 
-Meine Leidenschaft ist der _West Coast Swing_. Aber ich unterrichte auch andere Tänze. Die Standard und Lateintänze, wie zum Beispiel den Langsamen Walzer und Wiener Walzer, Quickstep, Rumba, Cha Cha Cha. Aber auch Discofox, Salsa und noch einige mehr.
-
-Dies tue ich derzeit in der [Tanzschule Dance your Life](http://www.tanzschule-bergedorf.com) in Hamburg Bergedorf. Aktuelle Kurs-Termine [findet ihr hier](http://www.tanzschule-bergedorf.com/kurse/), die ich dort leite:
-
-{% include course.html day="Donnerstags" time="20-21 Uhr" title="Discofox Club"%}
+Meine Leidenschaft ist der _West Coast Swing_. Aber ich unterrichte genrell auch andere Tänze. Die Standard und Lateintänze, wie zum Beispiel den Langsamen Walzer und Wiener Walzer, Quickstep, Rumba, Cha Cha Cha. Aber auch Discofox, Salsa und noch einige mehr.
 
 
 {% include contact-form.html %}

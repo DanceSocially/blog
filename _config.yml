@@ -403,14 +403,14 @@ parties:
   #     name: Tanzschule Heiko Stender
   #     address: Tibarg 40, 22459 Hamburg
   #     url: www.tanzschule-stender.de
-  -
-    date: 2016-11-18
-    title: West Coast Friday
-    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
-    location:
-      name: Isabel Edvardsson - Die Tanzschule
-      address: Banksstr. 2b, 20097 Hamburg
-      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  # -
+  #   date: 2016-11-18
+  #   title: West Coast Friday
+  #   url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+  #   location:
+  #     name: Isabel Edvardsson - Die Tanzschule
+  #     address: Banksstr. 2b, 20097 Hamburg
+  #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
   -
     date: 2016-12-03
     title: Anchor Saturday
