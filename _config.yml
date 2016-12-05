@@ -411,14 +411,14 @@ parties:
   #     name: Isabel Edvardsson - Die Tanzschule
   #     address: Banksstr. 2b, 20097 Hamburg
   #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
-  -
-    date: 2016-12-03
-    title: Anchor Saturday
-    url: www.facebook.com/events/204216419925053/
-    location:
-      name: Isabel Edvardsson - Die Tanzschule
-      address: Banksstr. 2b, 20097 Hamburg
-      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  # -
+  #   date: 2016-12-03
+  #   title: Anchor Saturday
+  #   url: www.facebook.com/events/204216419925053/
+  #   location:
+  #     name: Isabel Edvardsson - Die Tanzschule
+  #     address: Banksstr. 2b, 20097 Hamburg
+  #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
   -
     date: 2016-12-16
     title: West Coast Friday
@@ -642,26 +642,26 @@ workshops_suggestions:
   #     name: Tanzschule Dresen
   #     address: Duisburger Strasse 95, 40479 Düsseldorf
   #     url: www.tanzschule-dresen.de
-  -
-    date: 2016-10-27
-    endDate: 2016-10-31
-    title: Warsaw Halloween Swing
-    url: warsawhalloweenswing.com
-    description: Gruseliges WSDC-Registry und Tanz-Event. Es besticht durch eine tolle Atmosphäre, sensationelle Kostüme und gute Workshops.
-    location:
-      name: The WESTIN Warsaw
-      address: Jana Pawla II 21, 00-854 Warsaw, Poland
-      url: www.facebook.com/the.westin.warsaw
-  -
-    date: 2016-11-12
-    endDate: 2016-11-13
-    title: Adam & Rita in Hamburg
-    url: www.hansewhip.de
-    description: Die dritte Runde mit Adam und Rita in Hamburg.
-    location:
-      name: Tanzschule Heiko Stender
-      address: Tibarg 40, 22459 Hamburg
-      url: www.tanzschule-stender.de
+  # -
+  #   date: 2016-10-27
+  #   endDate: 2016-10-31
+  #   title: Warsaw Halloween Swing
+  #   url: warsawhalloweenswing.com
+  #   description: Gruseliges WSDC-Registry und Tanz-Event. Es besticht durch eine tolle Atmosphäre, sensationelle Kostüme und gute Workshops.
+  #   location:
+  #     name: The WESTIN Warsaw
+  #     address: Jana Pawla II 21, 00-854 Warsaw, Poland
+  #     url: www.facebook.com/the.westin.warsaw
+  # -
+  #   date: 2016-11-12
+  #   endDate: 2016-11-13
+  #   title: Adam & Rita in Hamburg
+  #   url: www.hansewhip.de
+  #   description: Die dritte Runde mit Adam und Rita in Hamburg.
+  #   location:
+  #     name: Tanzschule Heiko Stender
+  #     address: Tibarg 40, 22459 Hamburg
+  #     url: www.tanzschule-stender.de
   -
     date: 2016-12-08
     endDate: 2016-12-11
