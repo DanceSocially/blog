@@ -14,16 +14,11 @@ sidebar:
 
 ## Lerne West Coast Swing
 
-Der nächste Kurseinstieg für absolute West Coast Swing Einsteiger ist hier möglich:
-
-**Neuer West Coast Swing Starter Kurs beginnt Anfang September** um 19 Uhr bei [Tanzschule Dance your Life](http://www.tanzschule-bergedorf.com). Wer sich unsicher ist, ob West Coast Swing für einen ist, dann komm einfach vorbei oder mach mit bei dem **Einsteiger-Workshop am 27.8.2016 um 20 Uhr**. Direkt im Anschluss findet dann die Tanz-Party statt, bei der das gelernte gleich angewandt und gefestigt werden kann. Ausserdem ist das immer ein höllen Spaß.
-
-
 Derzeit laufende Kurse in denen ein Einstieg möglich ist, wenn Vorkenntnisse vorhanden sind, finden bei [Tanzschule Dance your Life](http://www.tanzschule-bergedorf.com) statt:
 
 {% include course.html day="Donnerstags" time="19-20:30 Uhr" title="West Coast Swing Basics"%}
 
-Weitere Kurse sind in Planung und werden hier gegebenenfalls veröffentlicht. [Oder schreibt mir](#contact-form) bei Interesse. Ich informiere euch gerne per E-Mail über neue Kurse oder gebe euch Empfehlungen wo ihr sonst noch _West Coast Swing_ tanzen könnt.
+**Weitere Kurse sind in Planung** und werden hier gegebenenfalls veröffentlicht. [Oder schreibt mir](#contact-form) bei Interesse. Ich informiere euch gerne per E-Mail über neue Kurse oder gebe euch Empfehlungen wo ihr sonst noch _West Coast Swing_ tanzen könnt.
 
 ## Privatstunden und Workshops
 
