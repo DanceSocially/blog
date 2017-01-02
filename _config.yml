@@ -419,14 +419,14 @@ parties:
   #     name: Isabel Edvardsson - Die Tanzschule
   #     address: Banksstr. 2b, 20097 Hamburg
   #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
-  -
-    date: 2016-12-16
-    title: West Coast Friday
-    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
-    location:
-      name: Isabel Edvardsson - Die Tanzschule
-      address: Banksstr. 2b, 20097 Hamburg
-      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  # -
+  #   date: 2016-12-16
+  #   title: West Coast Friday
+  #   url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+  #   location:
+  #     name: Isabel Edvardsson - Die Tanzschule
+  #     address: Banksstr. 2b, 20097 Hamburg
+  #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
   # -
   #   date: 2016-09-10
   #   title: Party @ Dance Your Life
@@ -443,16 +443,46 @@ parties:
   #     name: ADTV Tanzschule Dance your Life
   #     address: Osterrade 29, Hamburg
   #     url: www.tanzschule-bergedorf.com
-  # -
-  #   day: 12
-  #   month: Nov
-  #   title: Party @ Dance Your Life
-  #   url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
-  # -
-  #   day: 10
-  #   month: Dez
-  #   title: Party @ Dance Your Life
-  #   url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
+  -
+    date: 2017-01-20
+    title: West Coast Friday
+    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+    location:
+      name: Isabel Edvardsson - Die Tanzschule
+      address: Banksstr. 2b, 20097 Hamburg
+      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  -
+    date: 2017-02-04
+    title: Anchor Saturday mit Girls vs Boys Tanzbattle
+    url: www.facebook.com/events/204216419925053/
+    location:
+      name: Isabel Edvardsson - Die Tanzschule
+      address: Banksstr. 2b, 20097 Hamburg
+      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  -
+    date: 2017-02-17
+    title: West Coast Friday
+    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+    location:
+      name: Isabel Edvardsson - Die Tanzschule
+      address: Banksstr. 2b, 20097 Hamburg
+      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  -
+    date: 2017-03-04
+    title: Anchor Saturday mit Girls vs Boys Tanzbattle
+    url: www.facebook.com/events/204216419925053/
+    location:
+      name: Isabel Edvardsson - Die Tanzschule
+      address: Banksstr. 2b, 20097 Hamburg
+      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  -
+    date: 2017-03-17
+    title: West Coast Friday
+    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+    location:
+      name: Isabel Edvardsson - Die Tanzschule
+      address: Banksstr. 2b, 20097 Hamburg
+      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
 
 
 workshops:
@@ -571,16 +601,16 @@ workshops:
   #     name: Isabel Edvardsson - Die Tanzschule
   #     address: Banksstr. 2b, 20097 Hamburg
   #     url: www.edvardsson-dietanzschule.de
-  -
-    date: 2016-12-29
-    endDate: 2017-01-01
-    title: SwingVester
-    url: www.wcsaustria.com/swingvester-event/
-    description: DIE West Coast Swing Silvester-Party in Wien. Wer sich mit dem Code "wieneranker" anmeldet, bekommt auch 10€ Rabatt auf den Fullpass.
-    location:
-      name: Tanzschule Schwebach
-      address: Maculangasse 1B, 1220 Wien
-      url: schwebach.at
+  # -
+  #   date: 2016-12-29
+  #   endDate: 2017-01-01
+  #   title: SwingVester
+  #   url: www.wcsaustria.com/swingvester-event/
+  #   description: DIE West Coast Swing Silvester-Party in Wien. Wer sich mit dem Code "wieneranker" anmeldet, bekommt auch 10€ Rabatt auf den Fullpass.
+  #   location:
+  #     name: Tanzschule Schwebach
+  #     address: Maculangasse 1B, 1220 Wien
+  #     url: schwebach.at
   -
     date: 2017-01-04
     endDate: 2017-01-08
@@ -591,6 +621,24 @@ workshops:
       name: Hotel InterContinental Budapest
       address: APÁCZAI CSERE J. U. 12-14., BUDAPEST, 1052
       url: www.budapest.intercontinental.com/
+  -
+    date: 2017-01-27
+    endDate: 2017-01-29
+    title: WCS Intensive mit Rake Salo & Daria Alexeeva
+    url: www.facebook.com/events/540902086110789
+    location:
+      name: Billies - Das Tanzstudio in Hamburg
+      address: Stresemannstraße 374, Hamburg
+      url: www.facebook.com/tanzstudio.billies/
+  -
+    date: 2017-03-30
+    endDate: 2017-04-02
+    title: Anchor Festival 2017
+    url: www.julianundjuliane.de/anchorfestival2017/
+    location:
+      name: Mozartsäle Hamburg
+      address: Moorweidenstraße 36, 20146 Hamburg
+      url: www.mozart-saele.de
 
 workshops_suggestions:
   # -
@@ -662,13 +710,13 @@ workshops_suggestions:
   #     name: Tanzschule Heiko Stender
   #     address: Tibarg 40, 22459 Hamburg
   #     url: www.tanzschule-stender.de
-  -
-    date: 2016-12-08
-    endDate: 2016-12-11
-    title: Berlin Swing Revolution
-    url: berlinswingrevolution.de/
-    description: Die Berlin Swing Revolution geht in die zweite Runde. Diesmal als WSDC-Registry Event.
-    location:
-      name: weRK36
-      address: Tempelhofer Weg 70, 10829 Berlin-Schöneberg
-      url: www.werk36.de
+  # -
+  #   date: 2016-12-08
+  #   endDate: 2016-12-11
+  #   title: Berlin Swing Revolution
+  #   url: berlinswingrevolution.de/
+  #   description: Die Berlin Swing Revolution geht in die zweite Runde. Diesmal als WSDC-Registry Event.
+  #   location:
+  #     name: weRK36
+  #     address: Tempelhofer Weg 70, 10829 Berlin-Schöneberg
+  #     url: www.werk36.de
