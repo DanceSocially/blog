@@ -453,7 +453,7 @@ parties:
       url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
   -
     date: 2017-02-04
-    title: Anchor Saturday mit Girls vs Boys Tanzbattle
+    title: Anchor Saturday
     url: www.facebook.com/events/204216419925053/
     location:
       name: Isabel Edvardsson - Die Tanzschule
@@ -469,7 +469,7 @@ parties:
       url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
   -
     date: 2017-03-04
-    title: Anchor Saturday mit Girls vs Boys Tanzbattle
+    title: Anchor Saturday
     url: www.facebook.com/events/204216419925053/
     location:
       name: Isabel Edvardsson - Die Tanzschule
@@ -611,16 +611,16 @@ workshops:
   #     name: Tanzschule Schwebach
   #     address: Maculangasse 1B, 1220 Wien
   #     url: schwebach.at
-  -
-    date: 2017-01-04
-    endDate: 2017-01-08
-    title: Budafest
-    url: wcs-budafest.com/
-    description: Eins der größten WCS Events in Europa. Jedes Jahr eine Reise wert. Großartige Organisation.
-    location:
-      name: Hotel InterContinental Budapest
-      address: APÁCZAI CSERE J. U. 12-14., BUDAPEST, 1052
-      url: www.budapest.intercontinental.com/
+  # -
+  #   date: 2017-01-04
+  #   endDate: 2017-01-08
+  #   title: Budafest
+  #   url: wcs-budafest.com/
+  #   description: Eins der größten WCS Events in Europa. Jedes Jahr eine Reise wert. Großartige Organisation.
+  #   location:
+  #     name: Hotel InterContinental Budapest
+  #     address: APÁCZAI CSERE J. U. 12-14., BUDAPEST, 1052
+  #     url: www.budapest.intercontinental.com/
   -
     date: 2017-01-27
     endDate: 2017-01-29

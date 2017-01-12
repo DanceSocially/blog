@@ -16,7 +16,12 @@ sidebar:
 
 Derzeit laufende Kurse in denen ein Einstieg möglich ist, wenn Vorkenntnisse vorhanden sind, finden bei [Tanzschule Dance your Life](http://www.tanzschule-bergedorf.com) statt:
 
-{% include course.html day="Donnerstags" time="19-20:30 Uhr" title="West Coast Swing Basics"%}
+{% include course.html day="Donnerstags" time="19-20:30 Uhr" title="West Coast Swing Fundamentals"%}
+
+Ab dem **16.2.2017** wird es einen neuen Starter Kurs geben, deshalb ändern sich die Zeiten wie folgt:
+
+{% include course.html day="Donnerstags" time="18:30-20 Uhr" title="West Coast Swing Fundamentals"%}
+{% include course.html day="Donnerstags" time="20-21:30 Uhr" title="West Coast Swing Advanced Fundamentals"%}
 
 **Weitere Kurse sind in Planung** und werden hier gegebenenfalls veröffentlicht. [Oder schreibt mir](#contact-form) bei Interesse. Ich informiere euch gerne per E-Mail über neue Kurse oder gebe euch Empfehlungen wo ihr sonst noch _West Coast Swing_ tanzen könnt.
 
