@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rückblick: Swing Your Life Festival und WCS-Zouk-Komboparty"
+title:  "Event-Rückblick: Swing Your Life Festival und WCS-Zouk-Komboparty"
 date:   2016-08-31 10:00:00 +0100
 categories: events workshops
 ---
