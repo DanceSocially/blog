@@ -7,3 +7,12 @@ blockquote cite {
 blockquote cite:before {
   content: "– ";
 }
+
+.img-source {
+  color: $grey-color;
+  font-size: 0.8125rem;
+  font-family: $base-font-family;
+  text-align: right;
+  margin-bottom: 1.5rem;
+  margin-top: -1.5rem;
+}
