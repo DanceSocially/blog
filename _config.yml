@@ -475,14 +475,22 @@ parties:
   #     name: Isabel Edvardsson - Die Tanzschule
   #     address: Banksstr. 2b, 20097 Hamburg
   #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  # -
+  #   date: 2017-03-17
+  #   title: West Coast Friday
+  #   url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+  #   location:
+  #     name: Isabel Edvardsson - Die Tanzschule
+  #     address: Banksstr. 2b, 20097 Hamburg
+  #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
   -
-    date: 2017-03-17
-    title: West Coast Friday
-    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+    date: 2017-04-13
+    title: Workshop-Gründonnerstag & Party @ Dance Your Life
+    url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
     location:
-      name: Isabel Edvardsson - Die Tanzschule
-      address: Banksstr. 2b, 20097 Hamburg
-      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+      name: ADTV Tanzschule Dance your Life
+      address: Osterrade 29, Hamburg
+      url: www.tanzschule-bergedorf.com
 
 
 workshops:
@@ -639,15 +647,15 @@ workshops:
   #     name: Tanzraum
   #     address: Salierring 33, 50677 Köln
   #     url: www.facebook.com/tanzraum.koeln/
-  -
-    date: 2017-03-16
-    endDate: 2017-03-19
-    title: Dutch Open West Coast Swing
-    url: www.facebook.com/events/1111868302220891
-    description: Hollands erstes WSDC-Registry Event.
-    location:
-      name: Fletcher Hotel-Restaurant Erica
-      address: Molenbosweg 17, 6571BA Berg en Dal
+  # -
+  #   date: 2017-03-16
+  #   endDate: 2017-03-19
+  #   title: Dutch Open West Coast Swing
+  #   url: www.facebook.com/events/1111868302220891
+  #   description: Hollands erstes WSDC-Registry Event.
+  #   location:
+  #     name: Fletcher Hotel-Restaurant Erica
+  #     address: Molenbosweg 17, 6571BA Berg en Dal
   -
     date: 2017-03-30
     endDate: 2017-04-02
@@ -658,6 +666,14 @@ workshops:
       name: Mozartsäle Hamburg
       address: Moorweidenstraße 36, 20146 Hamburg
       url: www.mozart-saele.de
+  -
+    date: 2017-04-13
+    title: Workshop-Gründonnerstag & Party @ Dance Your Life
+    url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
+    location:
+      name: ADTV Tanzschule Dance your Life
+      address: Osterrade 29, Hamburg
+      url: www.tanzschule-bergedorf.com
   -
     date: 2017-04-15
     endDate: 2017-04-16
@@ -750,8 +766,8 @@ workshops_suggestions:
   #     address: Tempelhofer Weg 70, 10829 Berlin-Schöneberg
   #     url: www.werk36.de
   -
-    date: 2016-06-02
-    endDate: 2016-06-05
+    date: 2017-06-02
+    endDate: 2017-06-05
     title: Swingmany
     url: www.swingmany.de
     description: Swingmany ist das erste grosse Event Deutschlands, in dem nur deutsche Lehrer unterrichten. Die besten Lehrer die Deutschland zu bieten hat und eine sehr schöne Stimmung.
