@@ -14,11 +14,7 @@ sidebar:
 
 ## Lerne West Coast Swing
 
-Derzeit laufende keine wöchentlichen Kurse, wo ein Einstieg möglich ist. Es gibt aber mindestens an jedem zweiten Donnerstag im Monat einen West Coast Swing-Workshop-Donnerstag in der [Tanzschule Dance Your Life](http://www.tanzschule-bergedorf.com). Hier sind die nächsten Termine:
-
-{% include course.html day="13.4.2017" time="20:00 Uhr" title="WCS Workshop für Fortgeschrittene" %}
-{% include course.html day="13.4.2017" time="21:00 Uhr" title="WCS Workshop für Beginner" %}
-{% include course.html day="13.4.2017" time="22:00 Uhr" title="Freies Tanzen für alle Teilnehmer" %}
+Derzeit habe ich keine laufenden, wöchentlichen Kurse, wo ein Einstieg möglich ist. 
 
 **Weitere Kurse und Workshops sind in Planung** und werden hier veröffentlicht. [Oder schreibt mir](#contact-form) bei Interesse. Ich informiere euch gerne per E-Mail über neue Kurse oder gebe euch Empfehlungen wo ihr sonst noch _West Coast Swing_ tanzen könnt.
 

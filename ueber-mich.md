@@ -29,4 +29,4 @@ Warum mir das Social so wichtig ist? Weil man so das Führen und Folgen erst ler
 
 ## HeuteTanzen.de
 
-Seit März ist ein neues Projekt online, welches dir sagt [wo du was in Hamburg und bald Deutschland tanzen kannst](http://www.heutetanzen.de). Probiere es doch mal aus und gib uns Feedback. Wir versuchen **die** Plattform in Deutschland aufzubauen, wo Tänzer die Tanzveranstaltungen finden können, die sie suchen.
+Seit März 2016 ist ein Projekt online, welches dir sagt [wo du was in Hamburg und bald Deutschland tanzen kannst](http://www.heutetanzen.de). Probiere es doch mal aus und gib uns Feedback. Wir versuchen **die** Plattform in Deutschland aufzubauen, wo Tänzer die Tanzveranstaltungen finden können, die sie suchen.

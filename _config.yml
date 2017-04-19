@@ -483,14 +483,54 @@ parties:
   #     name: Isabel Edvardsson - Die Tanzschule
   #     address: Banksstr. 2b, 20097 Hamburg
   #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  # -
+  #   date: 2017-04-13
+  #   title: Workshop-Gründonnerstag & Party @ Dance Your Life
+  #   url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
+  #   location:
+  #     name: ADTV Tanzschule Dance your Life
+  #     address: Osterrade 29, Hamburg
+  #     url: www.tanzschule-bergedorf.com
   -
-    date: 2017-04-13
-    title: Workshop-Gründonnerstag & Party @ Dance Your Life
-    url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
+    date: 2017-04-30
+    title: West Coast Swing Party in den Mai
+    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
     location:
-      name: ADTV Tanzschule Dance your Life
-      address: Osterrade 29, Hamburg
-      url: www.tanzschule-bergedorf.com
+      name: Billies - Das Tanzstudio in Hamburg
+      address: Stresemannstraße 374, Hamburg
+      url: www.facebook.com/tanzstudio.billies/
+  -
+    date: 2017-05-06
+    title: TAF Schleswig Cup West Coast Swing 2017
+    url: https://www.facebook.com/events/1337416469663681/
+    location:
+      name: Tanzgiesellschaft
+      address: Wärderstraße 8, 21502 Geesthacht
+      url: www.tanzgiesellschaft.de
+  -
+    date: 2017-05-19
+    title: West Coast Friday
+    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+    location:
+      name: Isabel Edvardsson - Die Tanzschule
+      address: Banksstr. 2b, 20097 Hamburg
+      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  # -
+  #   date: 2017-05-25
+  #   title: ???
+  #   url: ???
+  #   location:
+  #     name: Tanzfabrik Ahrensburg
+  #     address: Am Alten Markt 14, 22926 Ahrensburg
+  #     url: www.tanzfabrik-ahrensburg.de
+  -
+    date: 2017-07-15
+    title: TAF German Masters Nord - West Coast Swing
+    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+    location:
+      name: Billies - Das Tanzstudio in Hamburg
+      address: Stresemannstraße 374, Hamburg
+      url: www.facebook.com/tanzstudio.billies/
 
 
 workshops:
@@ -656,34 +696,43 @@ workshops:
   #   location:
   #     name: Fletcher Hotel-Restaurant Erica
   #     address: Molenbosweg 17, 6571BA Berg en Dal
+  # -
+  #   date: 2017-03-30
+  #   endDate: 2017-04-02
+  #   title: Anchor Festival 2017
+  #   url: www.julianundjuliane.de/anchorfestival2017/
+  #   description: Hamburgs erstes Festival geht in die zweite Runde und diesmal als WSDC-Registry Event.
+  #   location:
+  #     name: Mozartsäle Hamburg
+  #     address: Moorweidenstraße 36, 20146 Hamburg
+  #     url: www.mozart-saele.de
+  # -
+  #   date: 2017-04-13
+  #   title: Workshop-Gründonnerstag & Party @ Dance Your Life
+  #   url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
+  #   location:
+  #     name: ADTV Tanzschule Dance your Life
+  #     address: Osterrade 29, Hamburg
+  #     url: www.tanzschule-bergedorf.com
+  # -
+  #   date: 2017-04-15
+  #   endDate: 2017-04-16
+  #   title: Jakub & Lucia in HAmburg
+  #   url: www.facebook.com/events/230891790668786/
+  #   description: Wir haben Jakub Jakubek und Zouk Partnerin über Ostern nach Hamburg eingeladen. Das Event ist großteils Zouk aber er wird auch einige WCS Workshops geben und eine Zouk + WCS Kombi-Party.
+  #   location:
+  #     name: ADTV Tanzschule Dance your Life
+  #     address: Osterrade 29, Hamburg
+  #     url: www.tanzschule-bergedorf.com
   -
-    date: 2017-03-30
-    endDate: 2017-04-02
-    title: Anchor Festival 2017
-    url: www.julianundjuliane.de/anchorfestival2017/
-    description: Hamburgs erstes Festival geht in die zweite Runde und diesmal als WSDC-Registry Event.
+    date: 2017-07-20
+    endDate: 2017-07-23
+    title: Swing it like it's hot
+    url: http://www.swingithot.com/
+    description: Wer es heiß mag, der fährt im Sommer nach Tel Aviv. Inklusive Städtetouren und einer Beach Party am Sonntag.
     location:
-      name: Mozartsäle Hamburg
-      address: Moorweidenstraße 36, 20146 Hamburg
-      url: www.mozart-saele.de
-  -
-    date: 2017-04-13
-    title: Workshop-Gründonnerstag & Party @ Dance Your Life
-    url: www.tanzschule-bergedorf.com/kurse/gesellschaftstanzen/west-coast-swing/
-    location:
-      name: ADTV Tanzschule Dance your Life
-      address: Osterrade 29, Hamburg
-      url: www.tanzschule-bergedorf.com
-  -
-    date: 2017-04-15
-    endDate: 2017-04-16
-    title: Jakub & Lucia in HAmburg
-    url: www.facebook.com/events/230891790668786/
-    description: Wir haben Jakub Jakubek und Zouk Partnerin über Ostern nach Hamburg eingeladen. Das Event ist großteils Zouk aber er wird auch einige WCS Workshops geben und eine Zouk + WCS Kombi-Party.
-    location:
-      name: ADTV Tanzschule Dance your Life
-      address: Osterrade 29, Hamburg
-      url: www.tanzschule-bergedorf.com
+      name: Tel Aviv
+      address: Isreal
 
 workshops_suggestions:
   # -
@@ -784,12 +833,3 @@ workshops_suggestions:
     location:
       name: Boston-Club
       address: Vennhauser Allee 135, 40627 Düsseldorf
-  -
-    date: 2017-07-20
-    endDate: 2017-07-23
-    title: Swing it like it's hot
-    url: http://www.swingithot.com/
-    description: Wer es heiß mag, der fährt im Sommer nach Tel Aviv. Inklusive Städtetouren und einer Beach Party am Sonntag.
-    location:
-      name: Tel Aviv
-      address: Isreal
