@@ -1,0 +1,21 @@
+{
+  "name": "dancesocially",
+  "homepage": "https://github.com/DanceSocially/blog",
+  "authors": [
+    "Calamari <g.tavonius@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "^5.5.3"
+  }
+}
