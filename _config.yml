@@ -491,30 +491,30 @@ parties:
   #     name: ADTV Tanzschule Dance your Life
   #     address: Osterrade 29, Hamburg
   #     url: www.tanzschule-bergedorf.com
-  -
-    date: 2017-04-30
-    title: West Coast Swing Party in den Mai
-    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
-    location:
-      name: Billies - Das Tanzstudio in Hamburg
-      address: Stresemannstraße 374, Hamburg
-      url: www.facebook.com/tanzstudio.billies/
-  -
-    date: 2017-05-06
-    title: TAF Schleswig Cup West Coast Swing 2017
-    url: https://www.facebook.com/events/1337416469663681/
-    location:
-      name: Tanzgiesellschaft
-      address: Wärderstraße 8, 21502 Geesthacht
-      url: www.tanzgiesellschaft.de
-  -
-    date: 2017-05-19
-    title: West Coast Friday
-    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
-    location:
-      name: Isabel Edvardsson - Die Tanzschule
-      address: Banksstr. 2b, 20097 Hamburg
-      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  # -
+  #   date: 2017-04-30
+  #   title: West Coast Swing Party in den Mai
+  #   url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+  #   location:
+  #     name: Billies - Das Tanzstudio in Hamburg
+  #     address: Stresemannstraße 374, Hamburg
+  #     url: www.facebook.com/tanzstudio.billies/
+  # -
+  #   date: 2017-05-06
+  #   title: TAF Schleswig Cup West Coast Swing 2017
+  #   url: https://www.facebook.com/events/1337416469663681/
+  #   location:
+  #     name: Tanzgiesellschaft
+  #     address: Wärderstraße 8, 21502 Geesthacht
+  #     url: www.tanzgiesellschaft.de
+  # -
+  #   date: 2017-05-19
+  #   title: West Coast Friday
+  #   url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+  #   location:
+  #     name: Isabel Edvardsson - Die Tanzschule
+  #     address: Banksstr. 2b, 20097 Hamburg
+  #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
   # -
   #   date: 2017-05-25
   #   title: ???
@@ -524,6 +524,22 @@ parties:
   #     address: Am Alten Markt 14, 22926 Ahrensburg
   #     url: www.tanzfabrik-ahrensburg.de
   -
+    date: 2017-06-23
+    title: West Coast Friday
+    url: www.facebook.com/events/158119018054546
+    location:
+      name: Isabel Edvardsson - Die Tanzschule
+      address: Banksstr. 2b, 20097 Hamburg
+      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  -
+    date: 2017-07-08
+    title: Anchor Saturday
+    url: www.facebook.com/events/664597097060019
+    location:
+      name: Isabel Edvardsson - Die Tanzschule
+      address: Banksstr. 2b, 20097 Hamburg
+      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  -
     date: 2017-07-15
     title: TAF German Masters Nord - West Coast Swing
     url: www.julianundjuliane.de/termine/west-coast-swing-partys/
@@ -531,6 +547,39 @@ parties:
       name: Billies - Das Tanzstudio in Hamburg
       address: Stresemannstraße 374, Hamburg
       url: www.facebook.com/tanzstudio.billies/
+  -
+    date: 2017-08-05
+    title: Anchor Saturday
+    url: www.facebook.com/events/227211927762774
+    location:
+      name: Isabel Edvardsson - Die Tanzschule
+      address: Banksstr. 2b, 20097 Hamburg
+      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  -
+    date: 2017-08-18
+    title: West Coast Friday
+    url: www.facebook.com/events/307130086367657
+    location:
+      name: Isabel Edvardsson - Die Tanzschule
+      address: Banksstr. 2b, 20097 Hamburg
+      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  -
+    date: 2017-09-02
+    title: Anchor Saturday
+    url: www.facebook.com/events/229807244169983
+    location:
+      name: Isabel Edvardsson - Die Tanzschule
+      address: Banksstr. 2b, 20097 Hamburg
+      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  -
+    date: 2017-09-15
+    title: West Coast Friday
+    url: www.facebook.com/events/1863905547159981
+    location:
+      name: Isabel Edvardsson - Die Tanzschule
+      address: Banksstr. 2b, 20097 Hamburg
+      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+
 
 
 workshops:
@@ -814,22 +863,32 @@ workshops_suggestions:
   #     name: weRK36
   #     address: Tempelhofer Weg 70, 10829 Berlin-Schöneberg
   #     url: www.werk36.de
+  # -
+  #   date: 2017-06-02
+  #   endDate: 2017-06-05
+  #   title: Swingmany
+  #   url: www.swingmany.de
+  #   description: Swingmany ist das erste grosse Event Deutschlands, in dem nur deutsche Lehrer unterrichten. Die besten Lehrer die Deutschland zu bieten hat und eine sehr schöne Stimmung.
+  #   location:
+  #     name: Taktgefühl
+  #     address: Edouard-Desor-Straße 2, 61381 Friedrichsdorf
+  #     url: www.taktgefuehl.de
+  # -
+  #   date: 2017-06-15
+  #   endDate: 2017-06-18
+  #   title: D-Town Swing
+  #   url: d-townswing.com
+  #   description: Das Event mit dem hochkarätigsten Line-Ups in Deutschland (und vielleicht sogar in Europa). Top Pros geben großartige Workshops. Ein WSDC-Registry Event mit einer vielzahl verschiedenster Competitions.
+  #   location:
+  #     name: Boston-Club
+  #     address: Vennhauser Allee 135, 40627 Düsseldorf
   -
-    date: 2017-06-02
-    endDate: 2017-06-05
-    title: Swingmany
-    url: www.swingmany.de
-    description: Swingmany ist das erste grosse Event Deutschlands, in dem nur deutsche Lehrer unterrichten. Die besten Lehrer die Deutschland zu bieten hat und eine sehr schöne Stimmung.
+    date: 2017-12-07
+    endDate: 2017-12-10
+    title: Berlin Swing Revolution
+    url: berlinswingrevolution.de/
+    description: Die Berlin Swing Revolution geht in die zweite Runde. Diesmal als WSDC-Registry Event.
     location:
-      name: Taktgefühl
-      address: Edouard-Desor-Straße 2, 61381 Friedrichsdorf
-      url: www.taktgefuehl.de
-  -
-    date: 2017-06-15
-    endDate: 2017-06-18
-    title: D-Town Swing
-    url: d-townswing.com
-    description: Das Event mit dem hochkarätigsten Line-Ups in Deutschland (und vielleicht sogar in Europa). Top Pros geben großartige Workshops. Ein WSDC-Registry Event mit einer vielzahl verschiedenster Competitions.
-    location:
-      name: Boston-Club
-      address: Vennhauser Allee 135, 40627 Düsseldorf
+      name: ??
+      address: ??
+      url: berlinswingrevolution.de/
