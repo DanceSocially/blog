@@ -523,14 +523,14 @@ parties:
   #     name: Tanzfabrik Ahrensburg
   #     address: Am Alten Markt 14, 22926 Ahrensburg
   #     url: www.tanzfabrik-ahrensburg.de
-  -
-    date: 2017-06-23
-    title: West Coast Friday
-    url: www.facebook.com/events/158119018054546
-    location:
-      name: Isabel Edvardsson - Die Tanzschule
-      address: Banksstr. 2b, 20097 Hamburg
-      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  # -
+  #   date: 2017-06-23
+  #   title: West Coast Friday
+  #   url: www.facebook.com/events/158119018054546
+  #   location:
+  #     name: Isabel Edvardsson - Die Tanzschule
+  #     address: Banksstr. 2b, 20097 Hamburg
+  #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
   -
     date: 2017-07-08
     title: Anchor Saturday
@@ -774,14 +774,15 @@ workshops:
   #     address: Osterrade 29, Hamburg
   #     url: www.tanzschule-bergedorf.com
   -
-    date: 2017-07-20
-    endDate: 2017-07-23
-    title: Swing it like it's hot
-    url: http://www.swingithot.com/
-    description: Wer es heiß mag, der fährt im Sommer nach Tel Aviv. Inklusive Städtetouren und einer Beach Party am Sonntag.
+    date: 2017-10-26
+    endDate: 2017-10-30
+    title: Warsaw Halloween Swing
+    url: warsawhalloweenswing.com
+    description: Gruseliges WSDC-Registry und Tanz-Event. Es besticht durch eine tolle Atmosphäre, sensationelle Kostüme und gute Workshops.
     location:
-      name: Tel Aviv
-      address: Isreal
+      name: The WESTIN Warsaw
+      address: Jana Pawla II 21, 00-854 Warsaw, Poland
+      url: www.facebook.com/the.westin.warsaw
 
 workshops_suggestions:
   # -
@@ -882,6 +883,15 @@ workshops_suggestions:
   #   location:
   #     name: Boston-Club
   #     address: Vennhauser Allee 135, 40627 Düsseldorf
+  -
+    date: 2017-07-20
+    endDate: 2017-07-23
+    title: Swing it like it's hot
+    url: http://www.swingithot.com/
+    description: Wer es heiß mag, der fährt im Sommer nach Tel Aviv. Inklusive Städtetouren und einer Beach Party am Sonntag.
+    location:
+      name: Tel Aviv
+      address: Isreal
   -
     date: 2017-12-07
     endDate: 2017-12-10
