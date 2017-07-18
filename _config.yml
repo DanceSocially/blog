@@ -531,22 +531,22 @@ parties:
   #     name: Isabel Edvardsson - Die Tanzschule
   #     address: Banksstr. 2b, 20097 Hamburg
   #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
-  -
-    date: 2017-07-08
-    title: Anchor Saturday
-    url: www.facebook.com/events/664597097060019
-    location:
-      name: Isabel Edvardsson - Die Tanzschule
-      address: Banksstr. 2b, 20097 Hamburg
-      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
-  -
-    date: 2017-07-15
-    title: TAF German Masters Nord - West Coast Swing
-    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
-    location:
-      name: Billies - Das Tanzstudio in Hamburg
-      address: Stresemannstraße 374, Hamburg
-      url: www.facebook.com/tanzstudio.billies/
+  # -
+  #   date: 2017-07-08
+  #   title: Anchor Saturday
+  #   url: www.facebook.com/events/664597097060019
+  #   location:
+  #     name: Isabel Edvardsson - Die Tanzschule
+  #     address: Banksstr. 2b, 20097 Hamburg
+  #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  # -
+  #   date: 2017-07-15
+  #   title: TAF German Masters Nord - West Coast Swing
+  #   url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+  #   location:
+  #     name: Billies - Das Tanzstudio in Hamburg
+  #     address: Stresemannstraße 374, Hamburg
+  #     url: www.facebook.com/tanzstudio.billies/
   -
     date: 2017-08-05
     title: Anchor Saturday
