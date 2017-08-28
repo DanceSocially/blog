@@ -50,13 +50,28 @@ menu_entries:
     url: /ueber-mich/
   -
     title: West Coast Swing
-    url: /west-coast-swing/
+    sub_menu:
+      -
+        title: Was ist West Coast Swing
+        url: /west-coast-swing/
+      -
+        title: West Coast Swing Unterricht in Hamburg
+        url: /wcs-unterricht/
+      -
+        title: Events und Workshops
+        url: /events-workshops/
   -
-    title: Unterricht in Hamburg
-    url: /wcs-unterricht/
-  -
-    title: Events und Workshops
-    url: /events-workshops/
+    title: Zouk
+    sub_menu:
+      -
+        title: Was ist Zouk
+        url: /zouk/
+      -
+        title: Zouk Unterricht in Hamburg
+        url: /zouk-unterricht/
+      -
+        title: Events und Workshops
+        url: /zouk-events-workshops/
 
 # Build settings
 markdown: kramdown
@@ -112,23 +127,7 @@ markdown: kramdown
 #     name: Eric B. Jacobson
 #     url: www.nakedbasics.com
 
-parties:
-  -
-    date: 2017-08-05
-    title: Anchor Saturday
-    url: www.facebook.com/events/227211927762774
-    location:
-      name: Isabel Edvardsson - Die Tanzschule
-      address: Banksstr. 2b, 20097 Hamburg
-      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
-  -
-    date: 2017-08-18
-    title: West Coast Friday
-    url: www.facebook.com/events/307130086367657
-    location:
-      name: Isabel Edvardsson - Die Tanzschule
-      address: Banksstr. 2b, 20097 Hamburg
-      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+wcs_parties:
   -
     date: 2017-09-02
     title: Anchor Saturday
@@ -145,20 +144,24 @@ parties:
       name: Isabel Edvardsson - Die Tanzschule
       address: Banksstr. 2b, 20097 Hamburg
       url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
-
-
-
-workshops:
   -
-    date: 2017-08-12
-    endDate: 2017-08-12
-    title: Riga Summer Swing
-    url:
-    description: Ein WSDC Event im Herzen von Lettland.
+    date: 2017-10-04
+    title: Anchor Saturday
+    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
     location:
-      name:
-      address:
-      url:
+      name: Isabel Edvardsson - Die Tanzschule
+      address: Banksstr. 2b, 20097 Hamburg
+      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  -
+    date: 2017-01-17
+    title: West Coast Friday
+    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+    location:
+      name: Isabel Edvardsson - Die Tanzschule
+      address: Banksstr. 2b, 20097 Hamburg
+      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+
+wcs_workshops:
   -
     date: 2017-10-26
     endDate: 2017-10-30
@@ -169,8 +172,46 @@ workshops:
       name: The WESTIN Warsaw
       address: Jana Pawla II 21, 00-854 Warsaw, Poland
       url: www.facebook.com/the.westin.warsaw
+  -
+    date: 2017-11-10
+    endDate: 2017-11-12
+    title: Red Light Swing
+    url: www.redlightswing.com
+    description: Hamburgs neustes West Coast Swing Event.
 
-workshops_suggestions:
+zouk_parties:
+  -
+    date: 2017-09-09
+    title: Go With The Flow
+    url: www.facebook.com/events/761993163973916/
+    location:
+      name: TanzCentrum Gold und Silber Bremen e.V.
+      address: Waller Heerstraße 46, 28217 Bremen, Germany
+      url: tc-gold-und-silber.de
+
+zouk_workshops:
+  -
+    date: 2017-09-28
+    endDate: 2017-10-01
+    title: 4. Zouk/Kizomba Gala in Hannover
+    url: www.facebook.com/events/1792200144369871/
+    description: Ein Zouk und Kizomba Mix-Event im Norden Deutschlands. Die Hamburger werden da zahlreich vertreten sein.
+    location:
+      name: Culinar Hannover
+      address: Am Grossen Garten 3, 30419 Hannover
+      url: www.salsa-culinar.de
+  -
+    date: 2017-12-08
+    endDate: 2017-12-10
+    title: Zouk Family Meeting christmas edition
+    url: zouk-dresden.de/?q=zfm13
+    description: Die Weihnachtsausgabe eines sehr schönes und familiäres Zouk Event in Dresen. Natürlich mit gemeinsamen Weihnachtsmarktbesuch!
+    location:
+      name: dance studio “Sandana”
+      address: Trachenberger Platz 3, 01139 Dresden
+      url: www.salsa-sandana.de/startseite/
+
+wcs_workshops_suggestions:
   -
     date: 2017-12-07
     endDate: 2017-12-10

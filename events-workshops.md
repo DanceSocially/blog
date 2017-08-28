@@ -16,4 +16,4 @@ sidebar:
 
 ## Weitere sehenswerte Events
 
-{% include workshops-list.html list=site.workshops_suggestions %}
+{% include workshops-list.html list=site.wcs_orkshops_suggestions %}
