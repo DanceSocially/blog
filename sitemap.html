@@ -1,0 +1,31 @@
+---
+layout: default
+title: Sitemap
+excerpt: >
+  Dies gibt es auf DanceSocially: Alles über West Coast Swing, Zouk und
+  Gesellschaftzstanz in Hamburg und Umgebung.
+---
+
+<div class="sitemap">
+  <ul>
+    <li>
+      <a href="/">Startseite &amp; Blog</a>
+    </li>
+    {% for item in site.menu_entries %}
+      {% if item.sub_menu %}
+        <li>
+          <strong>{{ item.title }}:</strong>
+          <div>
+            <ul>
+              {% for subitem in item.sub_menu %}
+                <li><a href="{{ subitem.url | prepend: site.baseurl }}">{{ subitem.title }}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
+        </li>
+      {% else %}
+        <li><a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>

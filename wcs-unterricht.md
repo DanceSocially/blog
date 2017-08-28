@@ -14,17 +14,13 @@ sidebar:
 
 ## Lerne West Coast Swing
 
-Derzeit habe ich keine laufenden, wöchentlichen Kurse, wo ein Einstieg möglich ist. 
+Derzeit habe ich keine laufenden, wöchentlichen Kurse, wo ein Einstieg möglich ist.
 
 **Weitere Kurse und Workshops sind in Planung** und werden hier veröffentlicht. [Oder schreibt mir](#contact-form) bei Interesse. Ich informiere euch gerne per E-Mail über neue Kurse oder gebe euch Empfehlungen wo ihr sonst noch _West Coast Swing_ tanzen könnt.
 
 ## Privatstunden und Workshops
 
 Für Privatstunden (Einzel- oder Gruppenunterricht) oder Workshops [könnt ihr mich auch gerne Buchen](#contact-form).
-
-## Lerne Standard / Latein oder Discofox
-
-Meine Leidenschaft ist der _West Coast Swing_. Aber ich unterrichte genrell auch andere Tänze. Die Standard und Lateintänze, wie zum Beispiel den Langsamen Walzer und Wiener Walzer, Quickstep, Rumba, Cha Cha Cha. Aber auch Discofox, Salsa und noch einige mehr.
 
 
 {% include contact-form.html %}

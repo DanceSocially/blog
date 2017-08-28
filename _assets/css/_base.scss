@@ -293,4 +293,14 @@ $side-line-height: rem-calc(24px);
       display: block;
     }
   }
+
+  > h4 {
+    margin-bottom: 0;
+    line-height: 28px;
+  }
+
+  > a {
+    font-size: 0.875em;
+
+  }
 }
