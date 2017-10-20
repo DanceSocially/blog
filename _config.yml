@@ -145,13 +145,13 @@ wcs_parties:
   #     address: Banksstr. 2b, 20097 Hamburg
   #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
   -
-    date: 2017-10-04
-    title: Anchor Saturday
-    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+    date: 2017-10-21
+    title: Uni Danza
+    url: www.unidanza.de
     location:
-      name: Isabel Edvardsson - Die Tanzschule
-      address: Banksstr. 2b, 20097 Hamburg
-      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+      name: ETV Hamburg
+      address: Bundesstr. 96, 20144 Hamburg
+      url: web.etv.hamburg
   -
     date: 2017-11-17
     title: West Coast Friday
@@ -205,16 +205,16 @@ zouk_parties:
       url: tc-gold-und-silber.de
 
 zouk_workshops:
-  -
-    date: 2017-09-28
-    endDate: 2017-10-01
-    title: 4. Zouk/Kizomba Gala in Hannover
-    url: www.facebook.com/events/1792200144369871/
-    description: Ein Zouk und Kizomba Mix-Event im Norden Deutschlands. Die Hamburger werden da zahlreich vertreten sein.
-    location:
-      name: Culinar Hannover
-      address: Am Grossen Garten 3, 30419 Hannover
-      url: www.salsa-culinar.de
+  # -
+  #   date: 2017-09-28
+  #   endDate: 2017-10-01
+  #   title: 4. Zouk/Kizomba Gala in Hannover
+  #   url: www.facebook.com/events/1792200144369871/
+  #   description: Ein Zouk und Kizomba Mix-Event im Norden Deutschlands. Die Hamburger werden da zahlreich vertreten sein.
+  #   location:
+  #     name: Culinar Hannover
+  #     address: Am Grossen Garten 3, 30419 Hannover
+  #     url: www.salsa-culinar.de
   -
     date: 2017-12-08
     endDate: 2017-12-10
