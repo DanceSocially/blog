@@ -144,14 +144,14 @@ wcs_parties:
   #     name: Isabel Edvardsson - Die Tanzschule
   #     address: Banksstr. 2b, 20097 Hamburg
   #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
-  -
-    date: 2017-10-21
-    title: Uni Danza
-    url: www.unidanza.de
-    location:
-      name: ETV Hamburg
-      address: Bundesstr. 96, 20144 Hamburg
-      url: web.etv.hamburg
+  # -
+  #   date: 2017-10-21
+  #   title: Uni Danza
+  #   url: www.unidanza.de
+  #   location:
+  #     name: ETV Hamburg
+  #     address: Bundesstr. 96, 20144 Hamburg
+  #     url: web.etv.hamburg
   -
     date: 2017-11-17
     title: West Coast Friday
@@ -162,39 +162,46 @@ wcs_parties:
       url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
 
 wcs_workshops:
-  -
-    date: 2017-10-26
-    endDate: 2017-10-30
-    title: Warsaw Halloween Swing
-    url: warsawhalloweenswing.com
-    description: Gruseliges WSDC-Registry und Tanz-Event. Es besticht durch eine tolle Atmosphäre, sensationelle Kostüme und gute Workshops.
-    location:
-      name: The WESTIN Warsaw
-      address: Jana Pawla II 21, 00-854 Warsaw, Poland
-      url: www.facebook.com/the.westin.warsaw
-  -
-    date: 2017-11-10
-    endDate: 2017-11-12
-    title: Red Light Swing
-    url: www.redlightswing.com
-    description: Hamburgs neustes West Coast Swing Event.
+  # -
+  #   date: 2017-10-26
+  #   endDate: 2017-10-30
+  #   title: Warsaw Halloween Swing
+  #   url: warsawhalloweenswing.com
+  #   description: Gruseliges WSDC-Registry und Tanz-Event. Es besticht durch eine tolle Atmosphäre, sensationelle Kostüme und gute Workshops.
+  #   location:
+  #     name: The WESTIN Warsaw
+  #     address: Jana Pawla II 21, 00-854 Warsaw, Poland
+  #     url: www.facebook.com/the.westin.warsaw
+  # -
+  #   date: 2017-11-10
+  #   endDate: 2017-11-12
+  #   title: Red Light Swing
+  #   url: www.redlightswing.com
+  #   description: Hamburgs neustes West Coast Swing Event.
 
 zouk_parties:
+  # -
+  #   date: 2017-09-24
+  #   title: Sunday to Flow
+  #   url: www.facebook.com/events/1878236225829213
+  #   location:
+  #     name: Zouk-HH Raum
+  #     address: Wandsbeker Chausse 62A, 22089 Hamburg
+  # -
+  #   date: 2017-10-07
+  #   title: Go with the Flow
+  #   url: www.facebook.com/events/1876698339257330
+  #   location:
+  #     name: TanzCentrum Gold und Silber Bremen e.V.
+  #     address: Waller Heerstraße 46, 28217 Bremen, Germany
+  #     url: tc-gold-und-silber.de
   -
-    date: 2017-09-24
+    date: 2017-11-29
     title: Sunday to Flow
-    url: www.facebook.com/events/1878236225829213
+    url: www.zouk-hh.de
     location:
       name: Zouk-HH Raum
       address: Wandsbeker Chausse 62A, 22089 Hamburg
-  -
-    date: 2017-10-07
-    title: Go with the Flow
-    url: www.facebook.com/events/1876698339257330
-    location:
-      name: TanzCentrum Gold und Silber Bremen e.V.
-      address: Waller Heerstraße 46, 28217 Bremen, Germany
-      url: tc-gold-und-silber.de
   -
     date: 2017-12-09
     title: Go with the Flow mit Junior
@@ -225,6 +232,16 @@ zouk_workshops:
       name: dance studio “Sandana”
       address: Trachenberger Platz 3, 01139 Dresden
       url: www.salsa-sandana.de/startseite/
+  -
+    date: 2017-12-29
+    endDate: 2018-01-01
+    title: Zouk New Year's Eve Erfurt 2017/2018
+    url: www.zouk-thueringen.de/new-years-eve-party-2017-2018/
+    description: Die beste Art tänzerisch ins neue Jahr zu Feiern. 3 Tage lang Zouk Workshops und Tanzen.
+    location:
+      name: Erfurt
+      address: Erfurt
+      url: www.zouk-thueringen.de/new-years-eve-party-2017-2018/venue-and-location/
 
 wcs_workshops_suggestions:
   -
