@@ -12,14 +12,10 @@ sidebar:
 
 ## Lerne Zouk
 
-Der nächste Zouk Beginner Kurs mit Alina und mir startet am 12. September:
+Die aktuellen Zouk Kurse in Hamburg finden in Wandsbek statt:
 
-{% include course.html day="12.9.2017" time="19:00 Uhr" title="Zouk-Beginner Kurs" link="www.facebook.com/events/114855542485329" %}
-
-Für die etwas fortgeschrittenen unter euch, empfehle ich die Kurse bei Kim:
-
-{% include course.html day="12.9.2017" time="19:00 Uhr" title="Fortgeschrittener-Beginner Kurs bei Kim" %}
-{% include course.html day="12.9.2017" time="20:00 Uhr" title="Advanced Kurs bei Kim" %}
+{% include course.html day="Dienstags" time="19:00 Uhr" title="Fortgeschrittene" %}
+{% include course.html day="Dienstags" time="20:00 Uhr" title="Advanced" %}
 
 ## Wo?
 
