@@ -102,30 +102,20 @@ markdown: kramdown
 #     name: Eric B. Jacobson
 #     url: www.nakedbasics.com
 
-# event_promo:
-#   date: 2016-06-18T18:00+02:00
-#   endDate: 2016-06-18T22:00+01:00
-#   title: WCS Mid-Week Workshop & Party mit Eric Jacobson
-#   image: www.dancesocially.com/assets/fb-eric-intensive-2.jpg
-#   url: www.facebook.com/events/181004265631971/
-#   description: Eric ist nächste Woche auf durchdreise in Hamburg und da lassen wir es uns nicht nehmen ihn für einen Abend als Trainer für einen Workshop einzuspannen. Julian und Juliane haben sich bereit erklärt ihre üblichen Tanzraum dafür zu Verfügung zu stellen und das Billies erlaubt uns sogar eine Party im Anschluss zu machen.
-#   location:
-#     name: Billies - Das Tanzstudio in Hamburg
-#     address: Stresemannstraße 374, Hamburg
-#     url: www.facebook.com/tanzstudio.billies/
-#   offers:
-#     -
-#       name: 1 Workshop (inkl Party)
-#       price: 14
-#     -
-#       name: 2 Workshops (inkl Party)
-#       price: 23
-#     -
-#       name: Party only
-#       price: 3
-#   performer:
-#     name: Eric B. Jacobson
-#     url: www.nakedbasics.com
+event_promo:
+  date: 2018-01-11T19:00+01:00
+  endDate: 2018-03-29T20:15+01:00
+  title: Neuer Zouk Anfängerkurs ab Januar
+  image: scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/23621209_904086379748779_212739750796672992_n.jpg
+  url: www.facebook.com/events/1778822458795270/
+  description: Ab Januar gibt es eine neue Gelegenheit diesen sinnlichen und vielseitigen Tanz in Hamburg zu erlernen.
+  location:
+    name: Gymnastica Hamburg
+    address: Eilbeker Weg 90, 22089 Hamburg
+    url: www.zouk-hh.de
+  performer:
+    name: Zouk-HH
+    url: www.zouk-hh.de
 
 wcs_parties:
   # -
@@ -152,9 +142,41 @@ wcs_parties:
   #     name: ETV Hamburg
   #     address: Bundesstr. 96, 20144 Hamburg
   #     url: web.etv.hamburg
+  # -
+  #   date: 2017-11-17
+  #   title: West Coast Friday
+  #   url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+  #   location:
+  #     name: Isabel Edvardsson - Die Tanzschule
+  #     address: Banksstr. 2b, 20097 Hamburg
+  #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
   -
-    date: 2017-11-17
+    date: 2017-12-15
     title: West Coast Friday
+    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+    location:
+      name: Isabel Edvardsson - Die Tanzschule
+      address: Banksstr. 2b, 20097 Hamburg
+      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  -
+    date: 2018-01-06
+    title: Anchor Saturday
+    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+    location:
+      name: Isabel Edvardsson - Die Tanzschule
+      address: Banksstr. 2b, 20097 Hamburg
+      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  -
+    date: 2018-02-03
+    title: Anchor Saturday
+    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+    location:
+      name: Isabel Edvardsson - Die Tanzschule
+      address: Banksstr. 2b, 20097 Hamburg
+      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  -
+    date: 2018-03-03
+    title: Anchor Saturday
     url: www.julianundjuliane.de/termine/west-coast-swing-partys/
     location:
       name: Isabel Edvardsson - Die Tanzschule
@@ -178,6 +200,16 @@ wcs_workshops:
   #   title: Red Light Swing
   #   url: www.redlightswing.com
   #   description: Hamburgs neustes West Coast Swing Event.
+  -
+    date: 2017-12-16
+    endDate: 2017-12-17
+    title: Nordic X-Mas Swing
+    url: www.facebook.com/events/640325396155700
+    description: Norddeutsche Trainer in einem Weichnachtlichen Event
+    location:
+      name: Tanzfabrik Ahrensburg
+      address: Am Alten Markt 14, 22926 Ahrensburg
+      url: www.tanzfabrik-ahrensburg.de
 
 zouk_parties:
   # -
@@ -195,21 +227,28 @@ zouk_parties:
   #     name: TanzCentrum Gold und Silber Bremen e.V.
   #     address: Waller Heerstraße 46, 28217 Bremen, Germany
   #     url: tc-gold-und-silber.de
+  # -
+  #   date: 2017-11-29
+  #   title: Sunday to Flow
+  #   url: www.zouk-hh.de
+  #   location:
+  #     name: Zouk-HH Raum
+  #     address: Wandsbeker Chausse 62A, 22089 Hamburg
+  # -
+  #   date: 2017-12-09
+  #   title: Go with the Flow mit Junior
+  #   url: www.facebook.com/events/452687155097728
+  #   location:
+  #     name: TanzCentrum Gold und Silber Bremen e.V.
+  #     address: Waller Heerstraße 46, 28217 Bremen, Germany
+  #     url: tc-gold-und-silber.de
   -
-    date: 2017-11-29
-    title: Sunday to Flow
+    date: 2017-12-17
+    title: Sunday to Flow mit Schnupperworkshop
     url: www.zouk-hh.de
     location:
       name: Zouk-HH Raum
       address: Wandsbeker Chausse 62A, 22089 Hamburg
-  -
-    date: 2017-12-09
-    title: Go with the Flow mit Junior
-    url: www.facebook.com/events/452687155097728
-    location:
-      name: TanzCentrum Gold und Silber Bremen e.V.
-      address: Waller Heerstraße 46, 28217 Bremen, Germany
-      url: tc-gold-und-silber.de
 
 zouk_workshops:
   # -
