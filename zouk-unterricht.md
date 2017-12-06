@@ -17,9 +17,19 @@ Die aktuellen Zouk Kurse in Hamburg finden in Wandsbek statt:
 {% include course.html day="Dienstags" time="19:00 Uhr" title="Fortgeschrittene" %}
 {% include course.html day="Dienstags" time="20:00 Uhr" title="Advanced" %}
 
-## Wo?
+**Wo?** Die Kurse am Dienstag finden in der Räumen in der [Wandsbeker Chaussee 62a, 22089 Hamburg](https://www.google.de/maps/place/Wandsbeker+Chaussee+22,+22089+Hamburg,+Germany/@53.5647819,10.0340654,17z/data=!3m1!4b1!4m5!3m4!1s0x47b18eb80f9c803f:0x7fce3d02fd0318e8!8m2!3d53.5647819!4d10.0362594) statt.
 
-Alle Kurse finden in der Räumen in der [Wandsbeker Chaussee 62a, 22089 Hamburg](https://www.google.de/maps/place/Wandsbeker+Chaussee+22,+22089+Hamburg,+Germany/@53.5647819,10.0340654,17z/data=!3m1!4b1!4m5!3m4!1s0x47b18eb80f9c803f:0x7fce3d02fd0318e8!8m2!3d53.5647819!4d10.0362594) statt.
+### Neu ab dem 11.01.2017:
+
+Im neuen Jahr gibt es auch **einen neuen Zouk-Anfängerkurs** in Wandsbek (Nähe U-Ritterstrasse):
+
+{% include course.html day="Donnerstag" time="19:00 Uhr" title="Anfänger" %}
+
+Sowie Zeit für freies Tanzen und Trainieren (für die Anfänger inklusive)
+
+{% include course.html day="Donnerstag" time="20:15 Uhr" title="Freie Trainingszeit" %}
+
+**Wo?** Die Kurse am Donnerstag finden in den Räumen der Gymnastica [Eilbeker Weg 90, 22089 Hamburg](https://www.google.de/maps/place/Eilbeker+Weg+90,+22089+Hamburg,+Germany) statt.
 
 ## Privatstunden und Workshops
 
