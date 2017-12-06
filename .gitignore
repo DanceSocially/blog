@@ -5,3 +5,4 @@ _site
 .jekyll-metadata
 upload.sh
 .asset-cache
+.env
