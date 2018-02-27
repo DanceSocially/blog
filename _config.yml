@@ -190,6 +190,14 @@ wcs_parties:
       name: Isabel Edvardsson - Die Tanzschule
       address: Banksstr. 2b, 20097 Hamburg
       url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  -
+    date: 2018-04-30
+    title: West Coast Swing in den Mai
+    url: www.facebook.com/events/814256315425354
+    location:
+      name: Billies - Das Tanzstudio
+      address: Stresemannstraße 374, 22761 Hamburg
+      url: www.billies.de
 
 wcs_workshops:
   # -
@@ -307,6 +315,26 @@ zouk_workshops:
   #     name: Erfurt
   #     address: Erfurt
   #     url: www.zouk-thueringen.de/new-years-eve-party-2017-2018/venue-and-location/
+  -
+    date: 2018-03-16
+    endDate: 2018-03-18
+    title: Soulzouk Weekend Nummber 2
+    url: www.facebook.com/events/811088739077732/
+    description: Ein Zoukwochende in Bonn mit Bruno Galhardo.
+    location:
+      name: Bonn
+      address: Bonn
+      url: zoukernatural.de/index.php/soulzouk-weekend-nummer-2/
+  -
+    date: 2018-04-06
+    endDate: 2018-04-08
+    title: Zoukstyles: Bruno Galhardo Weekend
+    url: www.facebook.com/events/140894306587040/
+    description: Ein Zoukwochende in Bonn mit Bruno Galhardo.
+    location:
+      name: Bonn
+      address: Bonn
+      url: zoukernatural.de/index.php/zoukstyles-bruno-galhardo-weekend/
 
 wcs_workshops_suggestions:
   # -
@@ -319,3 +347,13 @@ wcs_workshops_suggestions:
   #     name: ??
   #     address: ??
   #     url: berlinswingrevolution.de/
+  -
+    date: 2018-03-26
+    endDate: 2018-03-29
+    title: West Coast Spring
+    url: www.westcoastspring.de/
+    description: Ein reines West Coast Swing Social Festival mit tollen Trainern.
+    location:
+      name: Kurhaus Bad Krozingen
+      address: Kurhausstraße 1, 79189 Bad Krozingen
+      url: www.kurpark-catering.de/startseite/
