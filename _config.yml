@@ -174,22 +174,22 @@ wcs_parties:
   #     name: Isabel Edvardsson - Die Tanzschule
   #     address: Banksstr. 2b, 20097 Hamburg
   #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
-  -
-    date: 2018-03-03
-    title: Anchor Saturday
-    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
-    location:
-      name: Isabel Edvardsson - Die Tanzschule
-      address: Banksstr. 2b, 20097 Hamburg
-      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
-  -
-    date: 2018-03-16
-    title: West Coast Friday
-    url: www.julianundjuliane.de/termine/west-coast-swing-partys/
-    location:
-      name: Isabel Edvardsson - Die Tanzschule
-      address: Banksstr. 2b, 20097 Hamburg
-      url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  # -
+  #   date: 2018-03-03
+  #   title: Anchor Saturday
+  #   url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+  #   location:
+  #     name: Isabel Edvardsson - Die Tanzschule
+  #     address: Banksstr. 2b, 20097 Hamburg
+  #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
+  # -
+  #   date: 2018-03-16
+  #   title: West Coast Friday
+  #   url: www.julianundjuliane.de/termine/west-coast-swing-partys/
+  #   location:
+  #     name: Isabel Edvardsson - Die Tanzschule
+  #     address: Banksstr. 2b, 20097 Hamburg
+  #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
   -
     date: 2018-04-30
     title: West Coast Swing in den Mai
@@ -269,16 +269,24 @@ zouk_parties:
   #     address: Waller Heerstraße 46, 28217 Bremen, Germany
   #     url: tc-gold-und-silber.de
   -
-    date: 2018-02-11
+    date: 2018-04-08
     title: Sunday to Flow
-    url: www.zouk-hh.de
+    url: www.facebook.com/events/573012466409750/
     location:
       name: Zouk-HH Raum
       address: Wandsbeker Chausse 62A, 22089 Hamburg
   -
-    date: 2018-02-17
+    date: 2018-04-14
     title: Go with the Flow
-    url: www.facebook.com/events/452687155097728
+    url: www.facebook.com/events/2031574310416283/
+    location:
+      name: TanzCentrum Gold und Silber Bremen e.V.
+      address: Waller Heerstraße 46, 28217 Bremen, Germany
+      url: tc-gold-und-silber.de
+  -
+    date: 2018-05-12
+    title: Go with the Flow
+    url: www.facebook.com/events/161102451261330/
     location:
       name: TanzCentrum Gold und Silber Bremen e.V.
       address: Waller Heerstraße 46, 28217 Bremen, Germany
@@ -315,26 +323,35 @@ zouk_workshops:
   #     name: Erfurt
   #     address: Erfurt
   #     url: www.zouk-thueringen.de/new-years-eve-party-2017-2018/venue-and-location/
-  -
-    date: 2018-03-16
-    endDate: 2018-03-18
-    title: Soulzouk Weekend Nummber 2
-    url: www.facebook.com/events/811088739077732/
-    description: Ein Zoukwochende in Bonn mit Bruno Galhardo.
-    location:
-      name: Bonn
-      address: Bonn
-      url: zoukernatural.de/index.php/soulzouk-weekend-nummer-2/
+  # -
+  #   date: 2018-03-16
+  #   endDate: 2018-03-18
+  #   title: Soulzouk Weekend Nummber 2
+  #   url: www.facebook.com/events/811088739077732/
+  #   description: Ein Zoukwochende in Bonn mit Bruno Galhardo.
+  #   location:
+  #     name: Bonn
+  #     address: Bonn
+  #     url: zoukernatural.de/index.php/soulzouk-weekend-nummer-2/
   -
     date: 2018-04-06
     endDate: 2018-04-08
-    title: Zoukstyles: Bruno Galhardo Weekend
+    title: "Zoukstyles: Bruno Galhardo Weekend"
     url: www.facebook.com/events/140894306587040/
     description: Ein Zoukwochende in Bonn mit Bruno Galhardo.
     location:
       name: Bonn
       address: Bonn
       url: zoukernatural.de/index.php/zoukstyles-bruno-galhardo-weekend/
+  -
+    date: 2018-06-07
+    endDate: 2018-06-14
+    title: "ZOUKTIME! summer zouk paradise in Croatia 2018"
+    url: www.facebook.com/events/136952243683303/
+    description: Eine Woche Zouk an der Sonne.
+    location:
+      name: Luna Island Hotel
+      address: JAKISNICA BB, 53294 Lun, Primorsko-Goranska, Croatia
 
 wcs_workshops_suggestions:
   # -
@@ -347,13 +364,31 @@ wcs_workshops_suggestions:
   #     name: ??
   #     address: ??
   #     url: berlinswingrevolution.de/
+  # -
+  #   date: 2018-03-26
+  #   endDate: 2018-03-29
+  #   title: West Coast Spring
+  #   url: www.westcoastspring.de/
+  #   description: Ein reines West Coast Swing Social Festival mit tollen Trainern.
+  #   location:
+  #     name: Kurhaus Bad Krozingen
+  #     address: Kurhausstraße 1, 79189 Bad Krozingen
+  #     url: www.kurpark-catering.de/startseite/
   -
-    date: 2018-03-26
-    endDate: 2018-03-29
-    title: West Coast Spring
-    url: www.westcoastspring.de/
-    description: Ein reines West Coast Swing Social Festival mit tollen Trainern.
+    date: 2018-05-05
+    endDate: 2018-05-05
+    title: "Workshoptag mit Evgenia ‘Evi‘ Itkina"
+    url: www.facebook.com/events/551777521831388/
+    description: Ein Tag voller Workshopds mit der talentierten und großartigen Tänzerin Evi.
     location:
-      name: Kurhaus Bad Krozingen
-      address: Kurhausstraße 1, 79189 Bad Krozingen
-      url: www.kurpark-catering.de/startseite/
+      name: Tanzen in Kiel - Tanzsportzentrum
+      address: Suchskrug 1, 24107 Kiel
+  -
+    date: 2018-05-18
+    endDate: 2018-05-21
+    title: "Swingmany"
+    url: www.facebook.com/events/1662561053805308/
+    description: Die deutsche Pflichtveranstaltung zu Pfingsten.
+    location:
+      name: Taktgefühl
+      address: Edouard-Desor-Strasse 2, 61381 Friedrichsdorf
