@@ -14,3 +14,7 @@ sidebar:
 
 {% include workshops-list.html list=site.zouk_workshops %}
 
+## Weitere sehenswerte Events
+
+{% include workshops-list.html list=site.zouk_workshops_suggestions %}
+

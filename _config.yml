@@ -226,16 +226,25 @@ wcs_workshops:
   #     name: Tanzfabrik Ahrensburg
   #     address: Am Alten Markt 14, 22926 Ahrensburg
   #     url: www.tanzfabrik-ahrensburg.de
+  # -
+  #   date: 2018-03-28
+  #   endDate: 2018-04-02
+  #   title: Anchor Festival
+  #   url: www.anchor-festival.com
+  #   description: West Coast Swing meets Waterkant. Das erste große West Coast Swing Festival im Norden.
+  #   location:
+  #     name: Mozartsäle
+  #     address: Moorweidenstraße 36, 20146 Hamburg
+  #     url: www.mozart-saele.de
   -
-    date: 2018-03-28
-    endDate: 2018-04-02
-    title: Anchor Festival
-    url: www.anchor-festival.com
-    description: West Coast Swing meets Waterkant. Das erste große West Coast Swing Festival im Norden.
+    date: 2018-05-05
+    endDate: 2018-05-05
+    title: "Workshoptag mit Evgenia ‘Evi‘ Itkina"
+    url: www.facebook.com/events/551777521831388/
+    description: Ein Tag voller Workshopds mit der talentierten und großartigen Tänzerin Evi.
     location:
-      name: Mozartsäle
-      address: Moorweidenstraße 36, 20146 Hamburg
-      url: www.mozart-saele.de
+      name: Tanzen in Kiel - Tanzsportzentrum
+      address: Suchskrug 1, 24107 Kiel
 
 zouk_parties:
   # -
@@ -333,6 +342,7 @@ zouk_workshops:
   #     name: Bonn
   #     address: Bonn
   #     url: zoukernatural.de/index.php/soulzouk-weekend-nummer-2/
+zouk_workshops_suggestions:
   -
     date: 2018-04-06
     endDate: 2018-04-08
@@ -374,15 +384,6 @@ wcs_workshops_suggestions:
   #     name: Kurhaus Bad Krozingen
   #     address: Kurhausstraße 1, 79189 Bad Krozingen
   #     url: www.kurpark-catering.de/startseite/
-  -
-    date: 2018-05-05
-    endDate: 2018-05-05
-    title: "Workshoptag mit Evgenia ‘Evi‘ Itkina"
-    url: www.facebook.com/events/551777521831388/
-    description: Ein Tag voller Workshopds mit der talentierten und großartigen Tänzerin Evi.
-    location:
-      name: Tanzen in Kiel - Tanzsportzentrum
-      address: Suchskrug 1, 24107 Kiel
   -
     date: 2018-05-18
     endDate: 2018-05-21
