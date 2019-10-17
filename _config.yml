@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 gems:
-- jekyll-assets
+  - jekyll-assets
 
 assets:
   features:
@@ -32,7 +32,7 @@ keywords: >
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.dancesocially.com" # the base hostname & protocol for your site
 twitter_username: Georg_Tavonius
-github_username:  Calamari
+github_username: Calamari
 googleplus_url: https://plus.google.com/u/0/100254305021076830105
 
 og_description: West Coast Swing in Hamburg mit Georg Tavonius. Blog, Infos und mehr.
@@ -45,37 +45,27 @@ menu_entries:
   # -
   #   title: Blog
   #   url: /
-  -
-    title: Über mich
+  - title: Über mich
     url: /ueber-mich/
-  -
-    title: West Coast Swing
+  - title: West Coast Swing
     sub_menu:
-      -
-        title: Was ist West Coast Swing
+      - title: Was ist West Coast Swing
         url: /west-coast-swing/
-      -
-        title: West Coast Swing Unterricht in Hamburg
+      - title: West Coast Swing Unterricht in Hamburg
         url: /wcs-unterricht/
-      -
-        title: Events und Workshops
+      - title: Events und Workshops
         url: /events-workshops/
-  -
-    title: Zouk
+  - title: Zouk
     sub_menu:
-      -
-        title: Was ist Zouk
+      - title: Was ist Zouk
         url: /zouk/
-      -
-        title: Zouk Unterricht in Hamburg
+      - title: Zouk Unterricht in Hamburg
         url: /zouk-unterricht/
-      -
-        title: Events und Workshops
+      - title: Events und Workshops
         url: /zouk-events-workshops/
 
 # Build settings
 markdown: kramdown
-
 
 # event_promo:
 #   date: 2016-04-30T10:30+01:00
@@ -190,14 +180,13 @@ wcs_parties:
   #     name: Isabel Edvardsson - Die Tanzschule
   #     address: Banksstr. 2b, 20097 Hamburg
   #     url: www.facebook.com/Isabel-Edvardsson-DIE-Tanzschule-725862844157068/
-  -
-    date: 2018-04-30
-    title: West Coast Swing in den Mai
-    url: www.facebook.com/events/814256315425354
-    location:
-      name: Billies - Das Tanzstudio
-      address: Stresemannstraße 374, 22761 Hamburg
-      url: www.billies.de
+  # - date: 2018-04-30
+  #   title: West Coast Swing in den Mai
+  #   url: www.facebook.com/events/814256315425354
+  #   location:
+  #     name: Billies - Das Tanzstudio
+  #     address: Stresemannstraße 374, 22761 Hamburg
+  #     url: www.billies.de
 
 wcs_workshops:
   # -
@@ -236,15 +225,24 @@ wcs_workshops:
   #     name: Mozartsäle
   #     address: Moorweidenstraße 36, 20146 Hamburg
   #     url: www.mozart-saele.de
-  -
-    date: 2018-05-05
-    endDate: 2018-05-05
-    title: "Workshoptag mit Evgenia ‘Evi‘ Itkina"
-    url: www.facebook.com/events/551777521831388/
-    description: Ein Tag voller Workshopds mit der talentierten und großartigen Tänzerin Evi.
+  # -
+  #   date: 2018-05-05
+  #   endDate: 2018-05-05
+  #   title: "Workshoptag mit Evgenia ‘Evi‘ Itkina"
+  #   url: www.facebook.com/events/551777521831388/
+  #   description: Ein Tag voller Workshopds mit der talentierten und großartigen Tänzerin Evi.
+  #   location:
+  #     name: Tanzen in Kiel - Tanzsportzentrum
+  #     address: Suchskrug 1, 24107 Kiel
+  - date: 2019-11-30
+    endDate: 2019-12-01
+    title: Nordic X-Mas Swing
+    url: www.facebook.com/events/367847234093956/
+    description: Norddeutsche Trainer in einem Weichnachtlichen Event
     location:
-      name: Tanzen in Kiel - Tanzsportzentrum
-      address: Suchskrug 1, 24107 Kiel
+      name: Tanzfabrik Ahrensburg
+      address: Am Alten Markt 14, 22926 Ahrensburg
+      url: www.tanzfabrik-ahrensburg.de
 
 zouk_parties:
   # -
@@ -277,29 +275,32 @@ zouk_parties:
   #     name: TanzCentrum Gold und Silber Bremen e.V.
   #     address: Waller Heerstraße 46, 28217 Bremen, Germany
   #     url: tc-gold-und-silber.de
-  -
-    date: 2018-04-08
+  # - date: 2018-04-08
+  #   title: Sunday to Flow
+  #   url: www.facebook.com/events/573012466409750/
+  #   location:
+  #     name: Zouk-HH Raum
+  #     address: Wandsbeker Chausse 62A, 22089 Hamburg
+  # - date: 2018-04-14
+  #   title: Go with the Flow
+  #   url: www.facebook.com/events/2031574310416283/
+  #   location:
+  #     name: TanzCentrum Gold und Silber Bremen e.V.
+  #     address: Waller Heerstraße 46, 28217 Bremen, Germany
+  #     url: tc-gold-und-silber.de
+  # - date: 2018-05-12
+  #   title: Go with the Flow
+  #   url: www.facebook.com/events/161102451261330/
+  #   location:
+  #     name: TanzCentrum Gold und Silber Bremen e.V.
+  #     address: Waller Heerstraße 46, 28217 Bremen, Germany
+  #     url: tc-gold-und-silber.de
+  - date: 2019-11-03
     title: Sunday to Flow
     url: www.facebook.com/events/573012466409750/
     location:
       name: Zouk-HH Raum
       address: Wandsbeker Chausse 62A, 22089 Hamburg
-  -
-    date: 2018-04-14
-    title: Go with the Flow
-    url: www.facebook.com/events/2031574310416283/
-    location:
-      name: TanzCentrum Gold und Silber Bremen e.V.
-      address: Waller Heerstraße 46, 28217 Bremen, Germany
-      url: tc-gold-und-silber.de
-  -
-    date: 2018-05-12
-    title: Go with the Flow
-    url: www.facebook.com/events/161102451261330/
-    location:
-      name: TanzCentrum Gold und Silber Bremen e.V.
-      address: Waller Heerstraße 46, 28217 Bremen, Germany
-      url: tc-gold-und-silber.de
 
 zouk_workshops:
   # -
@@ -342,26 +343,34 @@ zouk_workshops:
   #     name: Bonn
   #     address: Bonn
   #     url: zoukernatural.de/index.php/soulzouk-weekend-nummer-2/
+  - date: 2019-12-29
+    endDate: 2020-01-01
+    title: Zouk New Year's Eve Erfurt 2019/2020
+    url: www.zouk-thueringen.de/new-years-eve-party-2019-2020
+    description: Die beste Art tänzerisch ins neue Jahr zu Feiern. 3 Tage lang Zouk Workshops und Tanzen.
+    location:
+      name: Erfurt
+      address: Erfurt
+      url: www.zouk-thueringen.de/new-years-eve-party-2019-2020/venue-and-location/
+
 zouk_workshops_suggestions:
-  -
-    date: 2018-04-06
-    endDate: 2018-04-08
-    title: "Zoukstyles: Bruno Galhardo Weekend"
-    url: www.facebook.com/events/140894306587040/
-    description: Ein Zoukwochende in Bonn mit Bruno Galhardo.
-    location:
-      name: Bonn
-      address: Bonn
-      url: zoukernatural.de/index.php/zoukstyles-bruno-galhardo-weekend/
-  -
-    date: 2018-06-07
-    endDate: 2018-06-14
-    title: "ZOUKTIME! summer zouk paradise in Croatia 2018"
-    url: www.facebook.com/events/136952243683303/
-    description: Eine Woche Zouk an der Sonne.
-    location:
-      name: Luna Island Hotel
-      address: JAKISNICA BB, 53294 Lun, Primorsko-Goranska, Croatia
+  # - date: 2018-04-06
+  #   endDate: 2018-04-08
+  #   title: "Zoukstyles: Bruno Galhardo Weekend"
+  #   url: www.facebook.com/events/140894306587040/
+  #   description: Ein Zoukwochende in Bonn mit Bruno Galhardo.
+  #   location:
+  #     name: Bonn
+  #     address: Bonn
+  #     url: zoukernatural.de/index.php/zoukstyles-bruno-galhardo-weekend/
+  # - date: 2018-06-07
+  #   endDate: 2018-06-14
+  #   title: "ZOUKTIME! summer zouk paradise in Croatia 2018"
+  #   url: www.facebook.com/events/136952243683303/
+  #   description: Eine Woche Zouk an der Sonne.
+  #   location:
+  #     name: Luna Island Hotel
+  #     address: JAKISNICA BB, 53294 Lun, Primorsko-Goranska, Croatia
 
 wcs_workshops_suggestions:
   # -
@@ -384,12 +393,11 @@ wcs_workshops_suggestions:
   #     name: Kurhaus Bad Krozingen
   #     address: Kurhausstraße 1, 79189 Bad Krozingen
   #     url: www.kurpark-catering.de/startseite/
-  -
-    date: 2018-05-18
-    endDate: 2018-05-21
-    title: "Swingmany"
-    url: www.facebook.com/events/1662561053805308/
-    description: Die deutsche Pflichtveranstaltung zu Pfingsten.
-    location:
-      name: Taktgefühl
-      address: Edouard-Desor-Strasse 2, 61381 Friedrichsdorf
+  # - date: 2018-05-18
+  #   endDate: 2018-05-21
+  #   title: "Swingmany"
+  #   url: www.facebook.com/events/1662561053805308/
+  #   description: Die deutsche Pflichtveranstaltung zu Pfingsten.
+  #   location:
+  #     name: Taktgefühl
+  #     address: Edouard-Desor-Strasse 2, 61381 Friedrichsdorf
