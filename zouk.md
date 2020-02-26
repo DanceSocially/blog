@@ -17,7 +17,7 @@ Der Begriff _Zouk_ bezieht sich auf einen Tanzstil, der seine Urspung im Lambada
 
 ## Charakteristik des Brazilian / Traditional Zouk
 
-Durch die große Vielfalt der Musik ist auch der visuelle Charakter des _Zouks_ sehr vielfältig. So kann man _Zouk_ als energiereich und temperamentvoll mit fließenden Bewegungen beschreiben. Aber auch als langsam und sinnlich. Es finden oft Ober- und Unterkörperisolatinoen der Tänzer, sowie Kopfbewegungen und geneigte Drehungen des _Follower_s Verwendung.
+Durch die große Vielfalt der Musik ist auch der visuelle Charakter des _Zouks_ sehr vielfältig. So kann man _Zouk_ als energiereich und temperamentvoll mit fließenden Bewegungen beschreiben. Aber auch als langsam und sinnlich. Es finden oft Ober- und Unterkörperisolatinoen der Tänzer, sowie Kopfbewegungen und geneigte Drehungen des _Followers_ Verwendung.
 
 Gerade diese musikalische Vielfalt und damit zusammenhängende Vielzahl der musikalischen Interpretation machen _Zouk_ attraktiv. Dabei wird viel Wert auf echtes Führen und Folgen gelegt, wobei auch die folgende Person Inspirationen und Stylings in den Tanz mit einbringen kann. Im Kurs werden u.a. deshalb die Partner im Rotationsprinzip gewechselt und auf Partys bleibt so keiner lange sitzen.
 

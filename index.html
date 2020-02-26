@@ -1,36 +1,47 @@
 ---
 layout: default
-title: West Coast Swing und Tanzen in Hamburg
-excerpt: >
-  West Coast Swing, Zouk und Gesellschaftzstanz in Hamburg und Umgebung.
-  Hier gibt es Infos wo man diese lernen und tanzen kann.
+title: Tanze Zouk und West Coast Swing in Hamburg
+excerpt: Hier erfährst du wo du in Hamburg und Umgebung West Coast Swing oder Zouk tanzen kannst.
 ---
 
 <div class="home">
 
   <h1>West Coast Swing, Brazilian Zouk, Tanzen: Dance Socially!</h1>
 
-  <p>Willkommen auf dancesocially.com. Für mich ist das Tanzen eines der spannendsten Freizeitbeschäftigungen. Es hält nicht nur körperlich und geistig fit, sondern fördert durch das gemeinsame Hören und interpretieren der Musik auch die Kreativität, die eigene Körperbeherrschung, das Verständnis für die Musik und die Bewegungen des Tanzpartners.</p>
+  <p>Willkommen auf dancesocially.com. Für mich ist das Tanzen eines der spannendsten Freizeitbeschäftigungen. Es hält
+    nicht nur körperlich und geistig fit, sondern fördert durch das gemeinsame Hören und interpretieren der Musik auch
+    die Kreativität, die eigene Körperbeherrschung, das Verständnis für die Musik und die Bewegungen des Tanzpartners.
+  </p>
 
-  <p>Für mich ist <strong>West Coast Swing</strong> eines der spannendsten und aufregendesten Tänze. Und ich selber tanze und unterrichte eine Vielzahl von Tänzen. Der West Coast Swing ist nicht nur musikalisch sehr vielseitig, er ist auch durch den starken Fokus auf das Führen und Folgen von Tanz zu Tanz und von Partner zu Partner immer wieder ein neues Erlebnis. Über den West Coast Swing könnt ihr mehr auf <a href="/west-coast-swing/">der West Coast Swing Seite</a> erfahren. Wo ihr das in Hamburg lernen könnt <a href="/wcs-unterricht/">erfahrt ihr hier</a>.</p>
+  <p>Für mich ist <strong>West Coast Swing</strong> eines der spannendsten und aufregendesten Tänze. Und ich selber
+    tanze und unterrichte eine Vielzahl von Tänzen. Der West Coast Swing ist nicht nur musikalisch sehr vielseitig, er
+    ist auch durch den starken Fokus auf das Führen und Folgen von Tanz zu Tanz und von Partner zu Partner immer wieder
+    ein neues Erlebnis. Über den West Coast Swing könnt ihr mehr auf <a href="/west-coast-swing/">der West Coast Swing
+      Seite</a> erfahren. Wo ihr das in Hamburg lernen könnt <a href="/wcs-unterricht/">erfahrt ihr hier</a>.</p>
 
-  <p>Ein weiterer spannender und zum Teil der sinnlicher Tanz ist der <strong>Brazilian Zouk</strong>. Heutzutage musikalisch sehr breit aufgestellt, geht es hier vorallem um das miteinander vertanzen der Musik. Der Zouk zeichnet sich durch fließend, schwebende Bewegungen, Körperisolationen und Oberkörperrotationen aus. Er ist der perfekte Tanz, wenn man seinen eigenen Körper mit dem des Partners in Einklang bringen möchte. Mehr hierzu gibt es unter <a href="/zouk/">Zouk</a> oder auf <a href="http://www.zouk-hh.de">Zouk-HH.de</a>.</p>
+  <p>Ein weiterer spannender und sehr schöner Tanz ist der <strong>Brazilian Zouk</strong>. Heutzutage
+    musikalisch sehr breit aufgestellt, geht es hier vorallem um das miteinander vertanzen der Musik. Der Zouk zeichnet
+    sich durch fließend, schwebende Bewegungen, Körperisolationen und Oberkörperrotationen aus. Er ist der perfekte
+    Tanz, wenn man seinen eigenen Körper mit dem des Partners in Einklang bringen möchte. Mehr hierzu gibt es unter <a
+      href="/zouk/">Zouk</a> oder auf <a href="https://www.zoukhh.de">ZoukHH.de</a>.</p>
 
-  <p>Aber wie gesagt, beschäftige ich mich auch allgemein mit dem Thema Tanz und gestalte aktiv die stetig wachsende West Coast Swing Community und auch die noch sehr kleine Zouk Community in Hamburg mit. Dazu und zu vielen weiteren tänzerischen Themen könnt ihr nach und nach etwas in meinem Blog lesen:</p>
+  <p>Aber wie gesagt, beschäftige ich mich auch allgemein mit dem Thema Tanz und gestalte aktiv die stetig wachsende
+    Zouk Community in Hamburg mit. Dazu und zu vielen weiteren tänzerischen Themen könnt ihr nach und nach etwas in
+    meinem Blog lesen:</p>
 
   <h2>Im Blog</h2>
 
   <ul class="post-list">
     {% for post in site.posts %}
-      <li>
-        <!--span class="post-meta">{{ post.date | date: "%d.%m.%Y" }}</span-->
-        <time class="event-date"><em>{{ post.date | date: "%-d.%-m." }}</em> {{ post.date | date: "%Y" }}</time>
+    <li>
+      <!--span class="post-meta">{{ post.date | date: "%d.%m.%Y" }}</span-->
+      <time class="event-date"><em>{{ post.date | date: "%-d.%-m." }}</em> {{ post.date | date: "%Y" }}</time>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <div class="post-excerpt">{{ post.excerpt }}</div>
-      </li>
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+      <div class="post-excerpt">{{ post.excerpt }}</div>
+    </li>
     {% endfor %}
   </ul>
 
