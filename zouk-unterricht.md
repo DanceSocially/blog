@@ -14,7 +14,6 @@ sidebar:
 
 Die aktuellen Zouk Kurse in Hamburg finden in Wandsbek statt:
 
-{% include course.html day="Dienstags" time="19:00 Uhr" title="Neuer Anfängerkurs ab 5. November" %}
 {% include course.html day="Dienstags" time="19:00 Uhr" title="Fortgeschrittene" %}
 {% include course.html day="Dienstags" time="20:00 Uhr" title="Advanced" %}
 

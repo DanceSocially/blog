@@ -47,14 +47,6 @@ menu_entries:
   #   url: /
   - title: Über mich
     url: /ueber-mich/
-  - title: West Coast Swing
-    sub_menu:
-      - title: Was ist West Coast Swing
-        url: /west-coast-swing/
-      - title: West Coast Swing Unterricht in Hamburg
-        url: /wcs-unterricht/
-      - title: Events und Workshops
-        url: /events-workshops/
   - title: Zouk
     sub_menu:
       - title: Was ist Zouk
@@ -63,6 +55,14 @@ menu_entries:
         url: /zouk-unterricht/
       - title: Events und Workshops
         url: /zouk-events-workshops/
+  - title: West Coast Swing
+    sub_menu:
+      - title: Was ist West Coast Swing
+        url: /west-coast-swing/
+      - title: West Coast Swing Unterricht in Hamburg
+        url: /wcs-unterricht/
+      - title: Events und Workshops
+        url: /events-workshops/
 
 # Build settings
 markdown: kramdown
