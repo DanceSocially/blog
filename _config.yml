@@ -234,15 +234,15 @@ wcs_workshops:
   #   location:
   #     name: Tanzen in Kiel - Tanzsportzentrum
   #     address: Suchskrug 1, 24107 Kiel
-  - date: 2019-11-30
-    endDate: 2019-12-01
-    title: Nordic X-Mas Swing
-    url: www.facebook.com/events/367847234093956/
-    description: Norddeutsche Trainer in einem Weichnachtlichen Event
-    location:
-      name: Tanzfabrik Ahrensburg
-      address: Am Alten Markt 14, 22926 Ahrensburg
-      url: www.tanzfabrik-ahrensburg.de
+  # - date: 2019-11-30
+  #   endDate: 2019-12-01
+  #   title: Nordic X-Mas Swing
+  #   url: www.facebook.com/events/367847234093956/
+  #   description: Norddeutsche Trainer in einem Weichnachtlichen Event
+  #   location:
+  #     name: Tanzfabrik Ahrensburg
+  #     address: Am Alten Markt 14, 22926 Ahrensburg
+  #     url: www.tanzfabrik-ahrensburg.de
 
 zouk_parties:
   # -
@@ -295,12 +295,12 @@ zouk_parties:
   #     name: TanzCentrum Gold und Silber Bremen e.V.
   #     address: Waller Heerstraße 46, 28217 Bremen, Germany
   #     url: tc-gold-und-silber.de
-  - date: 2019-11-03
-    title: Sunday to Flow
-    url: www.facebook.com/events/573012466409750/
-    location:
-      name: Zouk-HH Raum
-      address: Wandsbeker Chausse 62A, 22089 Hamburg
+  # - date: 2019-11-03
+  #   title: Sunday to Flow
+  #   url: www.facebook.com/events/573012466409750/
+  #   location:
+  #     name: Zouk-HH Raum
+  #     address: Wandsbeker Chausse 62A, 22089 Hamburg
 
 zouk_workshops:
   # -
