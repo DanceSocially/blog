@@ -7,8 +7,8 @@ excerpt: >
   Hier erfahrt ihr, wo ihr West Coast Swing in Hamburg erlernen könnt
   und wo ich unterrichte.
 sidebar:
-  - next-wcs-workshops.html
-  - next-wcs-parties.html
+  # - next-wcs-workshops.html
+  # - next-wcs-parties.html
   - wcs-successes.html
 ---
 

@@ -6,8 +6,8 @@ permalink: /zouk-unterricht/
 excerpt: >
   Hier erfahrt ihr, wo ihr in Hamburg Zouk erlernen und tanzen könnt.
 sidebar:
-  - next-zouk-workshops.html
-  - next-zouk-parties.html
+  # - next-zouk-workshops.html
+  # - next-zouk-parties.html
 ---
 
 ## Lerne Zouk
