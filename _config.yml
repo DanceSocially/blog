@@ -30,7 +30,7 @@ keywords: >
   West Coast Swing Events, West Coast Swing Workshops, WCS Events, WCS Workshops,
   Was ist West Coast Swing
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.dancesocially.com" # the base hostname & protocol for your site
+url: "https://www.dancesocially.com" # the base hostname & protocol for your site
 twitter_username: Georg_Tavonius
 github_username: Calamari
 googleplus_url: https://plus.google.com/u/0/100254305021076830105
@@ -343,15 +343,15 @@ zouk_workshops:
   #     name: Bonn
   #     address: Bonn
   #     url: zoukernatural.de/index.php/soulzouk-weekend-nummer-2/
-  - date: 2019-12-29
-    endDate: 2020-01-01
-    title: Zouk New Year's Eve Erfurt 2019/2020
-    url: www.zouk-thueringen.de/new-years-eve-party-2019-2020
-    description: Die beste Art tänzerisch ins neue Jahr zu Feiern. 3 Tage lang Zouk Workshops und Tanzen.
-    location:
-      name: Erfurt
-      address: Erfurt
-      url: www.zouk-thueringen.de/new-years-eve-party-2019-2020/venue-and-location/
+  # - date: 2019-12-29
+  #   endDate: 2020-01-01
+  #   title: Zouk New Year's Eve Erfurt 2019/2020
+  #   url: www.zouk-thueringen.de/new-years-eve-party-2019-2020
+  #   description: Die beste Art tänzerisch ins neue Jahr zu Feiern. 3 Tage lang Zouk Workshops und Tanzen.
+  #   location:
+  #     name: Erfurt
+  #     address: Erfurt
+  #     url: www.zouk-thueringen.de/new-years-eve-party-2019-2020/venue-and-location/
 
 zouk_workshops_suggestions:
   # - date: 2018-04-06

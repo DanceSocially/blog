@@ -27,6 +27,6 @@ Bei mir ist Name Programm. Ich bin nicht nur oft auf Tanz-Parties und -Festivals
 
 Warum mir das Social so wichtig ist? Weil man so das Führen und Folgen erst lernt und dabei nette Leute kennen lernt.
 
-## HeuteTanzen.de
+## Brazilian Zouk
 
-Seit März 2016 ist ein Projekt online, welches dir sagt [wo du was in Hamburg und bald Deutschland tanzen kannst](http://www.heutetanzen.de). Probiere es doch mal aus und gib uns Feedback. Wir versuchen **die** Plattform in Deutschland aufzubauen, wo Tänzer die Tanzveranstaltungen finden können, die sie suchen.
+Derzeit unterrichte ich hauptsächlich Brazilian Zouk. Details hierzu könnt ihr auf [ZoukHH.de](https://www.zoukhh.de/termine/#Donnerstags-18:30) einsehen.
